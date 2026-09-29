@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam and Eve FM</title>
+    <title>Signal &amp; Noise Public</title>
     <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/</link>
     <atom:link href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Adam (bull) and Eve (skeptic) debate markets, articles and big ideas.</description>
+    <description>Max (bull) and Lena (skeptic) debate markets, articles and big ideas.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 09:07:39 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:13:21 -0400</lastBuildDate>
     <itunes:author>Augusto Restrepo</itunes:author>
-    <itunes:summary>Adam (bull) and Eve (skeptic) debate markets, articles and big ideas.</itunes:summary>
+    <itunes:summary>Max (bull) and Lena (skeptic) debate markets, articles and big ideas.</itunes:summary>
     <itunes:owner><itunes:name>Augusto Restrepo</itunes:name></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/cover-3000.jpg"/>
-    <image><url>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/cover-3000.jpg</url><title>Adam and Eve FM</title><link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/</link></image>
+    <itunes:image href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/cover-public.jpg"/>
+    <image><url>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/cover-public.jpg</url><title>Signal &amp; Noise Public</title><link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/</link></image>
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Biology Eats the Market — Max vs Lena (Special)</title>
+      <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/biology-eats-the-market-2f7041f6/</link>
+      <description>A one-off special. Max (bull) and Lena (skeptic) debate Antonio Linares's "bio/acc basket": his claim that biology drives most market returns over the next decade, and his four picks. Nautilus (NAUT) reads the proteome, Recursion (RXRX) designs drugs with A.I., ImmunityBio (IBRX) reboots the immune system with Anktiva, and MiNK Therapeutics (INKT) takes iNKT cell therapy after solid tumors. Max makes the case from the post and its 33-minute video: biology becomes code, a read, design, reboot and strike stack, disciplined management teams, and pharma money already flowing into Recursion. Lena pushes back with the latest filings: Nautilus's first revenue of about $0.2M and its Broadscale delay, Recursion's cash burn, ImmunityBio's 45x sales valuation and the FDA warning letter, and MiNK's roughly $9M cash plus a 17-patient phase 2 with zero responses. A made-up guest, Nigel, drops by to heckle the whole idea of "platform" biotech.
 
+Source (credit): Antonio Linares (@alc2022) on X, Sep 28, 2026, https://x.com/alc2022/status/2104620231922745534 (post and attached video).
+Also referenced: Q2 2026 results and filings from Nautilus, Recursion, ImmunityBio and MiNK; ImmunityBio's FDA warning letter and PDUFA date; MiNK's AACR 2026 phase 2 poster; market prices as of the Sep 28, 2026 close. Numbers are rounded. The hosts flag claims they couldn't verify on air. Nigel is fictional. This is not investment advice.
+
+Chapters: 1. Biology is the new compute; 2. Read it, then design it; 3. Reboot and strike; 4. A stack or four lottery tickets?.</description>
+      <itunes:summary>A one-off special. Max (bull) and Lena (skeptic) debate Antonio Linares's "bio/acc basket": his claim that biology drives most market returns over the next decade, and his four picks. Nautilus (NAUT) reads the proteome, Recursion (RXRX) designs drugs with A.I., ImmunityBio (IBRX) reboots the immune system with Anktiva, and MiNK Therapeutics (INKT) takes iNKT cell therapy after solid tumors. Max makes the case from the post and its 33-minute video: biology becomes code, a read, design, reboot and strike stack, disciplined management teams, and pharma money already flowing into Recursion. Lena pushes back with the latest filings: Nautilus's first revenue of about $0.2M and its Broadscale delay, Recursion's cash burn, ImmunityBio's 45x sales valuation and the FDA warning letter, and MiNK's roughly $9M cash plus a 17-patient phase 2 with zero responses. A made-up guest, Nigel, drops by to heckle the whole idea of "platform" biotech.
+
+Source (credit): Antonio Linares (@alc2022) on X, Sep 28, 2026, https://x.com/alc2022/status/2104620231922745534 (post and attached video).
+Also referenced: Q2 2026 results and filings from Nautilus, Recursion, ImmunityBio and MiNK; ImmunityBio's FDA warning letter and PDUFA date; MiNK's AACR 2026 phase 2 poster; market prices as of the Sep 28, 2026 close. Numbers are rounded. The hosts flag claims they couldn't verify on air. Nigel is fictional. This is not investment advice.
+
+Chapters: 1. Biology is the new compute; 2. Read it, then design it; 3. Reboot and strike; 4. A stack or four lottery tickets?.</itunes:summary>
+      <itunes:author>Augusto Restrepo</itunes:author>
+      <enclosure url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/biology-eats-the-market-2f7041f6.mp3" length="8049689" type="audio/mpeg"/>
+      <guid isPermaLink="false">aefm-share-biology-eats-the-market-2f7041f6</guid>
+      <pubDate>Tue, 29 Sep 2026 06:59:02 -0400</pubDate>
+      <itunes:duration>00:13:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>

@@ -1,3 +1,3 @@
-# Adam and Eve FM
+# Signal & Noise Public
 
 Share pages for individual episodes.

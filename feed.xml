@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam and Eve FM</title>
+    <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/</link>
+    <atom:link href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Adam (bull) and Eve (skeptic) debate markets, articles and big ideas.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2026 09:06:33 -0400</lastBuildDate>
+    <itunes:author>Augusto Restrepo</itunes:author>
+    <itunes:summary>Adam (bull) and Eve (skeptic) debate markets, articles and big ideas.</itunes:summary>
+    <itunes:owner><itunes:name>Augusto Restrepo</itunes:name></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/cover-3000.jpg"/>
+    <image><url>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/cover-3000.jpg</url><title>Adam and Eve FM</title><link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/</link></image>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>HIMS Isn't Telemedicine — Adan vs Eve (Special)</title>
+      <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/hims-isnt-telemedicine-c93a39a3/</link>
+      <description>A one-off special. Adan (bull) and Eve (skeptic) talk through "HIMS No Es Telemedicina", a Substack piece by Hernán Jaramillo and Antonio Linares of 10ampro. The piece argues that the market prices HIMS like a call center that hands out prescriptions, and that this is a category error. Its case rests on Linares's "closed loop" idea, with Spotify and Duolingo as comparisons: intake, treatment, follow-up and outcome, all owned by one company. Eve pushes back on the customer-service horror story, the FTC case (including the health-data sharing allegations the article leaves out), acquired versus organic growth, competition from Novo, Amazon and OpenAI, and the empty "sold with margin" box: negative free cash flow and a shrinking gross margin.
+
+Source article (credit): Hernán Jaramillo &amp; Antonio Linares, "HIMS No Es Telemedicina", 10ampro on Substack, Sep 27, 2026, https://substack.com/home/post/p-217692613. The framework comes from Antonio Linares's "The State of the Ontology Velocity" (Sep 15, 2026).
+Also referenced: the Hims &amp; Hers Q2 2026 results and earnings call (Aug 10, 2026), the FTC complaint and press release (Jul 29, 2026), Teladoc's Q2 2026 results, and public HIMS price data as of the Sep 25, 2026 close. Numbers are rounded. Claims the hosts couldn't verify are flagged on air. This is not investment advice.
+
+Chapters: 1. The double charge; 2. Loop, not data; 3. Teladoc's graveyard and the four links; 4. The FTC and the anecdote; 5. Who copies it, and the empty box.</description>
+      <itunes:summary>A one-off special. Adan (bull) and Eve (skeptic) talk through "HIMS No Es Telemedicina", a Substack piece by Hernán Jaramillo and Antonio Linares of 10ampro. The piece argues that the market prices HIMS like a call center that hands out prescriptions, and that this is a category error. Its case rests on Linares's "closed loop" idea, with Spotify and Duolingo as comparisons: intake, treatment, follow-up and outcome, all owned by one company. Eve pushes back on the customer-service horror story, the FTC case (including the health-data sharing allegations the article leaves out), acquired versus organic growth, competition from Novo, Amazon and OpenAI, and the empty "sold with margin" box: negative free cash flow and a shrinking gross margin.
+
+Source article (credit): Hernán Jaramillo &amp; Antonio Linares, "HIMS No Es Telemedicina", 10ampro on Substack, Sep 27, 2026, https://substack.com/home/post/p-217692613. The framework comes from Antonio Linares's "The State of the Ontology Velocity" (Sep 15, 2026).
+Also referenced: the Hims &amp; Hers Q2 2026 results and earnings call (Aug 10, 2026), the FTC complaint and press release (Jul 29, 2026), Teladoc's Q2 2026 results, and public HIMS price data as of the Sep 25, 2026 close. Numbers are rounded. Claims the hosts couldn't verify are flagged on air. This is not investment advice.
+
+Chapters: 1. The double charge; 2. Loop, not data; 3. Teladoc's graveyard and the four links; 4. The FTC and the anecdote; 5. Who copies it, and the empty box.</itunes:summary>
+      <itunes:author>Augusto Restrepo</itunes:author>
+      <enclosure url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/hims-isnt-telemedicine-c93a39a3.mp3" length="7429415" type="audio/mpeg"/>
+      <guid isPermaLink="false">aefm-share-hims-isnt-telemedicine-c93a39a3</guid>
+      <pubDate>Mon, 28 Sep 2026 18:52:29 -0400</pubDate>
+      <itunes:duration>00:15:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

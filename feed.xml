@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:04:42 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:04:49 -0400</lastBuildDate>
     <itunes:author>Augusto Restrepo</itunes:author>
     <itunes:summary>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>Deep dives curated by Augusto Restrepo.</itunes:subtitle>
@@ -31,6 +31,35 @@ Sources: SEC EDGAR S-1, Anthropic, CNBC live, Reuters/Investing.com, CoinDesk, Y
       <guid isPermaLink="false">aefm-share-anthropic-s1-special-2eaf6aab</guid>
       <pubDate>Tue, 27 Oct 2026 06:04:19 -0400</pubDate>
       <itunes:duration>00:19:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>All-In This Week: White House AI Accord — Max vs Lena</title>
+      <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/all-in-weekly-2026-10-03-9b8b5286/</link>
+      <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 30–Oct 2, 2026. Max (bull) and Lena (skeptic) go topic by topic through both episodes released after last week's Daniel Ek interview: the Summit interview "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs" (Sep 30), and the main show, episode 291, "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions" (Oct 2).
+
+Topics: the White House Super Intelligence Summit and voluntary AI safety accord (six frontier labs, external audits, board fiduciary duty, D&amp;O teeth); cybersecurity arms race and data centers as national security; America.gov and coordinated "doomer" messaging; GDP/jobs/inflation beats versus diesel, rates and a late-October bank-impairment warning; midterm and 2028 predictions; media coverage of the attempted Dubai–Tel Aviv hijacking; Jake Paul's attention-as-capital thesis, MVP vs UFC, and politics ambitions; The Chainsmokers on music-to-venture, sixth-man investing, DPI and bubble tells.
+
+Made-up guests: Mara, a fictional Vancouver AI governance lawyer, joins in the Accord chapter. Finn, a fictional Auckland creator-economy investor, joins in the Jake Paul chapter. Both are invented for this episode and speak for no real firm.
+
+Sources: the official All-In episode descriptions and timestamps (Apple Podcasts / iTunes lookup), and published episode transcripts (Podscripts) for both episodes, cross-checked against a public write-up of episode 291. Hosts only describe what the besties said, and they don't imitate their voices. Where a transcript didn't make clear who said something, we say "one of them". Numbers are rounded and are the speakers' claims unless we say otherwise. This is not affiliated with All-In and is not investment advice.
+
+Chapters: 1. This week on All-In; 2. The White House Accord; 3. Cyber arms race and data centers; 4. America.gov and the doomer war; 5. GDP beats and the rate problem; 6. Midterms and 2028; 7. The Dubai flight and the media; 8. Jake Paul and attention as capital; 9. Chainsmokers, sixth men, and bubble tells; 10. What we'd watch next.</description>
+      <itunes:summary>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 30–Oct 2, 2026. Max (bull) and Lena (skeptic) go topic by topic through both episodes released after last week's Daniel Ek interview: the Summit interview "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs" (Sep 30), and the main show, episode 291, "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions" (Oct 2).
+
+Topics: the White House Super Intelligence Summit and voluntary AI safety accord (six frontier labs, external audits, board fiduciary duty, D&amp;O teeth); cybersecurity arms race and data centers as national security; America.gov and coordinated "doomer" messaging; GDP/jobs/inflation beats versus diesel, rates and a late-October bank-impairment warning; midterm and 2028 predictions; media coverage of the attempted Dubai–Tel Aviv hijacking; Jake Paul's attention-as-capital thesis, MVP vs UFC, and politics ambitions; The Chainsmokers on music-to-venture, sixth-man investing, DPI and bubble tells.
+
+Made-up guests: Mara, a fictional Vancouver AI governance lawyer, joins in the Accord chapter. Finn, a fictional Auckland creator-economy investor, joins in the Jake Paul chapter. Both are invented for this episode and speak for no real firm.
+
+Sources: the official All-In episode descriptions and timestamps (Apple Podcasts / iTunes lookup), and published episode transcripts (Podscripts) for both episodes, cross-checked against a public write-up of episode 291. Hosts only describe what the besties said, and they don't imitate their voices. Where a transcript didn't make clear who said something, we say "one of them". Numbers are rounded and are the speakers' claims unless we say otherwise. This is not affiliated with All-In and is not investment advice.
+
+Chapters: 1. This week on All-In; 2. The White House Accord; 3. Cyber arms race and data centers; 4. America.gov and the doomer war; 5. GDP beats and the rate problem; 6. Midterms and 2028; 7. The Dubai flight and the media; 8. Jake Paul and attention as capital; 9. Chainsmokers, sixth men, and bubble tells; 10. What we'd watch next.</itunes:summary>
+      <itunes:author>Augusto Restrepo</itunes:author>
+      <enclosure url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-03-9b8b5286.mp3" length="36290477" type="audio/mpeg"/>
+      <guid isPermaLink="false">aefm-share-all-in-weekly-2026-10-03-9b8b5286</guid>
+      <pubDate>Sat, 03 Oct 2026 08:20:05 -0400</pubDate>
+      <itunes:duration>01:00:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

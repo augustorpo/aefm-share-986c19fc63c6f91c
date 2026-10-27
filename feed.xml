@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:16:54 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:14:49 -0400</lastBuildDate>
     <itunes:author>Augusto Restrepo</itunes:author>
     <itunes:summary>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>Deep dives curated by Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,47 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Nautilus Q3: Foundation Year, Raise Pending</title>
+      <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/naut-q3-2026-9ea6b601/</link>
+      <description>Nautilus Biotechnology (NAUT) reported Q3 2026 results on October 27. Max (bull) and Lena (skeptic) go through the numbers, the Voyager launch timeline, and the analyst Q&amp;A: who asked what, what management committed to, and what it dodged.
+
+In this episode:
+- Q3: revenue $234K (grant $208K + service $26K), net loss $15.6M ($0.12/share), cash and investments $114.3M, runway guided into Q1 2028
+- Roadmap: first beta instrument this year, AKT1 Early Access late 2026, pre-orders early 2027, instrument shipments mid-2027
+- Oncology assays (AKT1, EGFR, P53) matching tau-level reproducibility after about a year of development
+- Q&amp;A with Guggenheim, TD Cowen, Roth Capital and a fourth analyst: customer counts not disclosed, instrument price not final, "27 is a year where we set the foundation and 28 is a year where we really go and scale the business"
+- Not asked by any analyst: the planned capital raise before mid-2027, and Early Access pricing and margins
+- Call-ins on instrument buying and on financing
+
+Sources: Nautilus press release (Oct 27, 2026), Benzinga call transcript, Form 8-K (Sep 11, 2026), Investing.com, market quotes as of about 10 AM ET. Management quotes are verbatim from the transcript. Social posts are paraphrased.
+
+Callers Ruth and Kit are fictional characters, and their comments are illustrative. This is not investment advice.
+
+Chapters: 1. Beat, dip, rip; 2. The numbers; 3. The roadmap; 4. The Q&amp;A; 5. Call-ins: the lab and the money; 6. The tape and the chatter; 7. Verdict.</description>
+      <itunes:summary>Nautilus Biotechnology (NAUT) reported Q3 2026 results on October 27. Max (bull) and Lena (skeptic) go through the numbers, the Voyager launch timeline, and the analyst Q&amp;A: who asked what, what management committed to, and what it dodged.
+
+In this episode:
+- Q3: revenue $234K (grant $208K + service $26K), net loss $15.6M ($0.12/share), cash and investments $114.3M, runway guided into Q1 2028
+- Roadmap: first beta instrument this year, AKT1 Early Access late 2026, pre-orders early 2027, instrument shipments mid-2027
+- Oncology assays (AKT1, EGFR, P53) matching tau-level reproducibility after about a year of development
+- Q&amp;A with Guggenheim, TD Cowen, Roth Capital and a fourth analyst: customer counts not disclosed, instrument price not final, "27 is a year where we set the foundation and 28 is a year where we really go and scale the business"
+- Not asked by any analyst: the planned capital raise before mid-2027, and Early Access pricing and margins
+- Call-ins on instrument buying and on financing
+
+Sources: Nautilus press release (Oct 27, 2026), Benzinga call transcript, Form 8-K (Sep 11, 2026), Investing.com, market quotes as of about 10 AM ET. Management quotes are verbatim from the transcript. Social posts are paraphrased.
+
+Callers Ruth and Kit are fictional characters, and their comments are illustrative. This is not investment advice.
+
+Chapters: 1. Beat, dip, rip; 2. The numbers; 3. The roadmap; 4. The Q&amp;A; 5. Call-ins: the lab and the money; 6. The tape and the chatter; 7. Verdict.</itunes:summary>
+      <itunes:author>Augusto Restrepo</itunes:author>
+      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/naut-q3-2026-9ea6b601.mp3" length="12148891" type="audio/mpeg"/>
+      <guid isPermaLink="false">aefm-share-naut-q3-2026-9ea6b601</guid>
+      <pubDate>Tue, 27 Oct 2026 10:14:41 -0400</pubDate>
+      <itunes:duration>00:16:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Anthropic Files Its S-1 — $16B Revenue, an $81B Paper Loss &amp; a One-Share Founder Vote</title>
       <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/anthropic-s1-special-2eaf6aab/</link>

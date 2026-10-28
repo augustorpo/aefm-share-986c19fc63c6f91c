@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:03:48 -0400</lastBuildDate>
     <itunes:author>Augusto Restrepo</itunes:author>
     <itunes:summary>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>Deep dives curated by Augusto Restrepo.</itunes:subtitle>
@@ -53,7 +53,7 @@ Caller Priya is a fictional character, and her comments are illustrative. This i
 
 Chapters: 1. Record quarter, red screen; 2. The headline numbers; 3. What drove the quarter; 4. New products; 5. Guidance and costs; 6. The call Q and A; 7. Call-in; 8. Reactions and verdict.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/hood-q3-2026-7fc8f670.mp3" length="13241047" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/hood-q3-2026-7fc8f670.mp3" length="13241047" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-hood-q3-2026-7fc8f670</guid>
       <pubDate>Tue, 27 Oct 2026 19:03:25 -0400</pubDate>
       <itunes:duration>00:18:23</itunes:duration>
@@ -94,7 +94,7 @@ Callers Ruth and Kit are fictional characters, and their comments are illustrati
 
 Chapters: 1. Beat, dip, rip; 2. The numbers; 3. The roadmap; 4. The Q&amp;A; 5. Call-ins: the lab and the money; 6. The tape and the chatter; 7. Verdict.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/naut-q3-2026-9ea6b601.mp3" length="12148891" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/naut-q3-2026-9ea6b601.mp3" length="12148891" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-naut-q3-2026-9ea6b601</guid>
       <pubDate>Tue, 27 Oct 2026 10:14:41 -0400</pubDate>
       <itunes:duration>00:16:52</itunes:duration>
@@ -109,7 +109,7 @@ Sources: SEC EDGAR S-1, Anthropic, CNBC live, Reuters/Investing.com, CoinDesk, Y
       <itunes:summary>Special edition: Anthropic publicly filed its S-1 on Oct 26, 2026 (Nasdaq: ANT; Goldman Sachs and Morgan Stanley lead). Max (bull) and Lena (skeptic) go through the filing: $16.3B H1 revenue (+1,304%), the $80.7B GAAP loss (mostly convertible-note revaluation), Q2 operating profit, $265.6B in purchase commitments and $321.4B in leases, the SpaceX, Microsoft, Amazon and Google deals, the LTBT, Founder LLC (50.1% vote) governance, market reaction, OpenAI, and read-across to the AI Infrastructure, AI Verticals and Musk theses. There is no price range or share count yet. Valuation ($1.5–2T) and timing (~Nov 19–20) come from press reports, not the filing. Graham and Wanjiru are fictional call-in characters.
 Sources: SEC EDGAR S-1, Anthropic, CNBC live, Reuters/Investing.com, CoinDesk, Yahoo Finance, Stock Titan.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/anthropic-s1-special-2eaf6aab.mp3" length="11530004" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/anthropic-s1-special-2eaf6aab.mp3" length="11530004" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-anthropic-s1-special-2eaf6aab</guid>
       <pubDate>Tue, 27 Oct 2026 06:04:19 -0400</pubDate>
       <itunes:duration>00:19:13</itunes:duration>
@@ -138,7 +138,7 @@ Sources: public Podscripts transcripts of all three episodes; official episode t
 
 Chapters: 1. This week on All-In; 2. Ken Griffin's bubble warning; 3. Open weights versus frontier models; 4. Cyber panic: the PHP bugs; 5. Call-in: Walt, a fictional incident responder; 6. Agents, banks and who pays; 7. Tech debt, budgets and the narrative problem; 8. The quantum clock; 9. Is AI killing software? Dylan Field and the SaaS question; 10. Data center bans and labor versus capital; 11. France: riots and the bond market; 12. Call-in: Colette, a fictional bond strategist; 13. The fixes, a SpaceX share for every kid, and the minimum wage fight; 14. Wrap and what to watch.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-24-34ad2c40.mp3" length="56707186" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-24-34ad2c40.mp3" length="56707186" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-all-in-weekly-2026-10-24-34ad2c40</guid>
       <pubDate>Sat, 24 Oct 2026 08:12:45 -0400</pubDate>
       <itunes:duration>00:59:04</itunes:duration>
@@ -167,7 +167,7 @@ Sources: the official All-In episode descriptions and timestamps (libsyn RSS / A
 
 Chapters: 1. This week on All-In; 2. CoreWeave's bond scare: did the AI bubble pop?; 3. Call-in: Morag, a fictional credit analyst; 4. Ben's bandwidth scar, payback periods, and spot vs. contract; 5. Power is the moat: "get long energy"; 6. Decompiled software and the Jevons paradox; 7. Anthropic's investor day: $16.8 billion and a fuzzy growth rate; 8. Psyop Corner: AI worms, distillation, and small models; 9. Call-in: Lachlan, a fictional IoT security researcher; 10. Understanding Bill Gates the doomer; 11. Martin Shkreli: shorting quantum, cheap molecules, and prison; 12. Billy Evans: Elizabeth Holmes, the trial, and the phone call; 13. Scorecard: bull vs. bear for the week.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-17-12558e93.mp3" length="38189116" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-17-12558e93.mp3" length="38189116" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-all-in-weekly-2026-10-17-12558e93</guid>
       <pubDate>Sat, 17 Oct 2026 08:09:14 -0400</pubDate>
       <itunes:duration>01:03:39</itunes:duration>
@@ -196,7 +196,7 @@ Sources: the official All-In episode description and timestamps (libsyn RSS / Ap
 
 Chapters: 1. This week on All-In; 2. Anthropic, the Pope and a new religion; 3. The conscientious objector clause; 4. Call-in: Callum on minds and machines; 5. Let the market sort it? And Roko's Basilisk; 6. OpenAI's math dump; 7. The missing crypto proofs, and who guards the frontier; 8. France and the socialism point of guaranteed return; 9. Bond vigilantes, plus a call-in; 10. Headless agents and the end of software IP?; 11. What it all means.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-10-b97e4aba.mp3" length="33977272" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-10-b97e4aba.mp3" length="33977272" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-all-in-weekly-2026-10-10-b97e4aba</guid>
       <pubDate>Sat, 10 Oct 2026 08:20:12 -0400</pubDate>
       <itunes:duration>00:56:38</itunes:duration>
@@ -225,7 +225,7 @@ Sources: the official All-In episode descriptions and timestamps (Apple Podcasts
 
 Chapters: 1. This week on All-In; 2. The White House Accord; 3. Cyber arms race and data centers; 4. America.gov and the doomer war; 5. GDP beats and the rate problem; 6. Midterms and 2028; 7. The Dubai flight and the media; 8. Jake Paul and attention as capital; 9. Chainsmokers, sixth men, and bubble tells; 10. What we'd watch next.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-03-9b8b5286.mp3" length="36290477" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-10-03-9b8b5286.mp3" length="36290477" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-all-in-weekly-2026-10-03-9b8b5286</guid>
       <pubDate>Sat, 03 Oct 2026 08:20:05 -0400</pubDate>
       <itunes:duration>01:00:29</itunes:duration>
@@ -254,7 +254,7 @@ Sources: the official All-In episode descriptions and timestamps (RSS feed and Y
 
 Chapters: 1. This week on All-In; 2. They're not labs, they're companies; 3. The open-source flood; 4. Is Anthropic's IPO in trouble?; 5. Bernie, Trump, Obama and the politics of AI; 6. Muse, agents and the App Store's thirty percent; 7. Alignment, Claude's constitution and the wet lab; 8. The energy wall: Naveen Rao and Boom's jet engines; 9. Bending Spoons: buying product-market fit; 10. California: Steve Hilton and Spencer Pratt; 11. Daniel Ek, Neko and the body scan; 12. What we'd watch next.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-09-29-c534f7f8.mp3" length="33932541" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/all-in-weekly-2026-09-29-c534f7f8.mp3" length="33932541" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-all-in-weekly-2026-09-29-c534f7f8</guid>
       <pubDate>Tue, 29 Sep 2026 18:11:05 -0400</pubDate>
       <itunes:duration>00:56:33</itunes:duration>
@@ -277,7 +277,7 @@ Also referenced: Q2 2026 results and filings from Nautilus, Recursion, ImmunityB
 
 Chapters: 1. Biology is the new compute; 2. Read it, then design it; 3. Reboot and strike; 4. A stack or four lottery tickets?.</itunes:summary>
       <itunes:author>Augusto Restrepo</itunes:author>
-      <enclosure url="https://op3.dev/e/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/biology-eats-the-market-2f7041f6.mp3" length="8049689" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/biology-eats-the-market-2f7041f6.mp3" length="8049689" type="audio/mpeg"/>
       <guid isPermaLink="false">aefm-share-biology-eats-the-market-2f7041f6</guid>
       <pubDate>Tue, 29 Sep 2026 06:59:02 -0400</pubDate>
       <itunes:duration>00:13:25</itunes:duration>

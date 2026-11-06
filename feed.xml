@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 21:02:03 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:08:25 -0500</lastBuildDate>
     <itunes:author>Augusto Restrepo</itunes:author>
     <itunes:summary>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>Deep dives curated by Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,37 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Blue Wave, Green Tape, Then the AI Bonfire</title>
+      <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/market-whiplash-2026-11-05-53f6bcc9/</link>
+      <description>Two sessions, one whiplash. Wednesday Nov 4, 2026: Dow +3.03% to 53,356 after a Democratic midterm sweep and an 8%+ oil crash; VIX fell 20% to 16.61. Thursday Nov 5: Dow −3.44%, S&amp;P −4.36%, Nasdaq −5.52% into correction as chips and AI data-center names liquidated; VIX spiked to 28.09. Max (bull) and Lena (skeptic) debate gridlock relief vs an AI-capex regime scare, with a call-in from fictional flow risk manager Priya Desai.
+
+Chapters: cold open; Wednesday's blue wave; Thursday's AI bonfire; fear/bonds/oil/bitcoin; flow call-in; Asia spillover; is the AI trade broken; verdict.
+
+Key closes used: CNBC, Cboe, Reuters, AP, Xinhua. Cross-asset: WTI $88.12 Wed / $90.52 Thu; Bitcoin roughly mid-$70ks Thu; 10-year near 4.84%; Dec Fed hike odds eased on CME FedWatch.
+
+Unverified on air: Anthropic IPO delay chatter; exact Mag7 $900B was a late-session CNBC running tally; Bitcoin prints varied ~$75k–$76k.
+
+Not investment advice.</description>
+      <itunes:summary>Two sessions, one whiplash. Wednesday Nov 4, 2026: Dow +3.03% to 53,356 after a Democratic midterm sweep and an 8%+ oil crash; VIX fell 20% to 16.61. Thursday Nov 5: Dow −3.44%, S&amp;P −4.36%, Nasdaq −5.52% into correction as chips and AI data-center names liquidated; VIX spiked to 28.09. Max (bull) and Lena (skeptic) debate gridlock relief vs an AI-capex regime scare, with a call-in from fictional flow risk manager Priya Desai.
+
+Chapters: cold open; Wednesday's blue wave; Thursday's AI bonfire; fear/bonds/oil/bitcoin; flow call-in; Asia spillover; is the AI trade broken; verdict.
+
+Key closes used: CNBC, Cboe, Reuters, AP, Xinhua. Cross-asset: WTI $88.12 Wed / $90.52 Thu; Bitcoin roughly mid-$70ks Thu; 10-year near 4.84%; Dec Fed hike odds eased on CME FedWatch.
+
+Unverified on air: Anthropic IPO delay chatter; exact Mag7 $900B was a late-session CNBC running tally; Bitcoin prints varied ~$75k–$76k.
+
+Not investment advice.</itunes:summary>
+      <itunes:author>Augusto Restrepo</itunes:author>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/market-whiplash-2026-11-05-53f6bcc9.mp3" length="10627990" type="audio/mpeg"/>
+      <guid isPermaLink="false">aefm-share-market-whiplash-2026-11-05-53f6bcc9</guid>
+      <pubDate>Thu, 05 Nov 2026 20:08:25 -0500</pubDate>
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/market-whiplash-2026-11-05-53f6bcc9/transcript.txt" type="text/plain" language="en"/>
+      <podcast:chapters url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/market-whiplash-2026-11-05-53f6bcc9/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Duolingo Q3 2026: Users Surge, EPS Slips, Stock Pops</title>
       <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/duol-q3-2026-28d7b505/</link>

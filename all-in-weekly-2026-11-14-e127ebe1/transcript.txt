@@ -1,0 +1,357 @@
+Max: Jensen Huang is out at Nvidia. Thirty three years running the company he founded, and it came apart in about six days.
+Lena: Six days. A spy story, a leaked intelligence memo, affair reports, and then on Thursday the board says he's resigned. The CFO is running the company on an interim basis.
+Max: And the besties taped the morning it all landed. So this week is a big one. Three things that matter.
+Lena: One. The Jensen story is really two stories. There's whatever was going on with a Singapore data center executive, which is under investigation. And there's who leaked a classified memo to the New York Times, and why. Sacks spent a long time on that second part.
+Max: Two. The A I trade has a new problem stacked on an old one. Last week the besties were already talking about roughly four trillion dollars of market cap wiped out after the midterms and a possible freeze on new data centers. Now the guy at the center of the whole A I build-out is gone.
+Lena: And three. Anthropic's I P O roadshow started anyway. Price range seventy to seventy eight dollars a share, about one point four trillion at the top. Chamath thinks the macro will set the price more than the company does. Sacks thinks they're building a monopoly and saying so out loud.
+Max: Okay, housekeeping, fast. Three new All-In releases since our last recap. First, the midterm autopsy episode. Recorded Friday morning, November sixth, and it dropped on the feed last Saturday around one thirty P M Eastern, a few hours after our last show. That's "Midterm Blood Bath, four trillion dollar A I Sell Off, Data Center Freeze, What's Next for Trump."
+Lena: Tuesday, November tenth, an interview. Friedberg sat down with Rick Smith, the C E O of Axon, the Taser company. "Freedom versus Safety."
+Max: And Thursday night, the newest weekly. "Jensen Ousted as Nvidia C E O: Spy Scandal, Export Restrictions, Market Impact." That landed about nine thirty five P M Eastern.
+Lena: All four besties on both weekly shows. And Friedberg had pneumonia this week, apparently. He said he ended up in the hospital.
+Max: He sounded fine. Cackling, Jason said.
+Lena: Cackling through pneumonia. Okay. Plan for today. We go topic by topic, not episode by episode. Jensen first, all of it. Then Anthropic. Then the midterm fallout and the data center freeze. Then Rick Smith and the robots-in-policing question. And we close with a math story that's either huge or overhyped.
+Max: It's huge.
+Lena: We'll see.
+
+Max: So let's do the timeline, because Jason laid it out carefully at the top, and honestly it's wild how fast it moved.
+Lena: Go.
+Max: Friday, November sixth. The New York Times publishes a report, which Jason pointed out came right after the midterms, saying a businesswoman who'd been close to Jensen was suspected of being a Chinese intelligence asset. Her name is Alice Huang. No relation, same last name.
+Lena: And she was an executive at a Singapore company called Megaspeed. They build data centers in Asia and rent compute to companies, including Chinese ones like Alibaba, according to Jason's read of the reporting.
+Max: Jason cited The Information saying that relationship helped facilitate about seven and a half billion dollars of chips going to Chinese companies since twenty twenty three. That's a reported claim, to be clear.
+Lena: Very clear. Then the Times piece itself was based on a leaked intelligence memo. Nobody knows who leaked it.
+Max: Sunday, November eighth, Jensen sends a company-wide email admitting he had an affair, and the board opens an investigation. Then the Times reports a second affair, with a direct report. And there were reports of a possible third.
+Lena: And Jason said, let's put the personal stuff aside and focus on the resignation. Which, fair. That's the part that matters for the company.
+Max: Then Thursday. The board had accepted his resignation the day before, and Nvidia's release says Jensen resigned as president, C E O and board member. Colette Kress, the C F O, is interim C E O and stays C F O. And the board named a long-time director, Harvey Jones, as its first ever chair.
+Lena: First ever chair. That tells you something about how this company was run.
+Max: It was Jensen's company. Thirty three years.
+Lena: And the stock. Jason said down about fifteen percent in the week, which is hundreds of billions of dollars. And earnings are next Tuesday, November seventeenth.
+Max: Earnings with an interim C E O. That's going to be a call.
+Lena: Here's the caveat Jason made that I think is important. This story was hiding in plain sight. The Times first mentioned the relationship back in October twenty twenty five. Thirteen months ago. And there was a follow-up last month.
+Max: And a short seller, Culper Research, had tweeted a short thesis about six months ago, about Nvidia underplaying how much it relied on China, and they named Megaspeed specifically.
+Lena: So the market had the pieces. It just didn't put them together until the memo leaked.
+Max: Jason also said there's finger-pointing inside the White House over why Megaspeed was never put on the export control list after those earlier articles.
+Lena: A couple of things from outside the show, just for context. The F B I is investigating, the Justice Department says it hasn't reached a conclusion on whether she was a spy, China denies the whole thing, and Nvidia's board has said it has no reason to believe national security or company secrets were compromised.
+Max: And she hasn't been charged with anything. Worth saying.
+Lena: Worth saying. Okay. So that's the what. The besties spent most of their time on the why.
+
+Max: Jason goes to Sacks first. And Sacks opens with, this is a tragedy. For Jensen and his family, for Nvidia's employees, and he says for the country.
+Lena: His argument is Jensen is one of the main reasons the U S has a lead in A I chips. He's been at G P Us for over three decades, the company nearly went under several times, and the chip got so good that Washington wanted to export control it.
+Max: Which is a pretty good line, actually.
+Lena: It's a good line. Then he gets to his framework. He says there were two ops here.
+Max: Op one. Whatever Alice Huang was doing, with or without the Chinese Communist Party. Maybe smuggling, maybe not, nobody knows. Investigate it. He's been clear on the show that leading-edge chips shouldn't go to China and smuggling should be stopped.
+Lena: Op two. Somebody leaked a classified memo, or its contents, to the Times. And Sacks keeps hammering that this is a crime. He says it's the only crime in this whole story we actually know about so far.
+Max: And then he lists his questions. Number one, who leaked it and why. He says somebody decided they were willing to risk jail to take Jensen down. Why do they feel that strongly?
+Lena: Jason brings up Rubio, because the reporting says Rubio led the review and briefed the President. And Sacks pushes back right away. Don't use Rubio's name like that.
+Max: Right. He said "people briefed on the matter" is super vague. Could be very low level. Could be career staff, not political appointees. Working in the executive branch doesn't make you a Trump official.
+Lena: Question two. Why no defensive briefing. If the security agencies thought Jensen was talking to a suspected spy, why not just tell him? And he brings up Eric Swalwell.
+Max: The Fang Fang story.
+Lena: Yes. Sacks's point is Swalwell got a defensive briefing, cut off the relationship, and stayed in Congress, even on the Intelligence Committee. So the playbook for a high-profile person was, tell them and let them move on. This one was handled very differently.
+Max: Question three. What secrets? Jensen doesn't work for the government. He's not cleared, as far as Sacks knows. And Sacks says the kind of I P China would really want, the design files for the next chip, isn't something you pass on through pillow talk. You'd recruit a line engineer with a thumb drive, or you hack them.
+Lena: He also shot down the idea that because the product is export controlled, Jensen must hold national security secrets. He said any American can buy a Blackwell. Owning one doesn't make you a holder of secrets, and you can't reverse engineer a chip from the wafer.
+Max: And question four. Was she even a spy? He cites the Politico piece, the likely incoming chair of House Intelligence, a Democrat, which is Jim Himes, coming out of a classified briefing saying he's not sure. Maybe a "useful idiot."
+Lena: So Sacks lands at, more questions than answers. And he wants a full accounting.
+Max: I think he's mostly right, honestly. The leak is the one confirmed crime.
+Lena: I'd push on one thing. "The only crime we know about" is also partly because the investigation hasn't finished. Absence of charges isn't the same as absence of a problem. Sacks says the same thing, to be fair. He says if Nvidia broke the law, that's really bad.
+Max: Then Jason adds a fifth question. Why now? And why did the affair stories come out all at once, in what looked coordinated?
+Lena: And his speculation, which he labels as speculation, is China hawks who lost the debate over selling chips to China. People who want no chips going there, and want location tracking and kill switches built in. Jensen had opposed that.
+Max: Hold that thought, because it comes back in a big way.
+
+Lena: Okay, so if nobody's been charged, why did the board move this fast? Friedberg had the most concrete answer.
+Max: He starts with, what's the board's fiduciary duty? What do they actually have to act on? If Jensen committed a crime, obviously. But there's been no arrest, so he sort of takes that off the table.
+Lena: So his next most likely explanation is a misrepresentation. Companies have a code of conduct. You have to report relationships with subordinates. You can't have an undisclosed personal conflict with a customer or a key partner.
+Max: And senior officers at public companies make regular attestations that they're in compliance. Friedberg's guess is that's what gets him. Not the relationships on their own, but signing something that said, I'm not in violation.
+Lena: And Chamath backs that up with the boardroom mechanics. When you file your reports, you get on the phone with the auditors and they ask you exactly these questions. Any conflicts? Any relationships?
+Max: And then the part I didn't know much about. D and O insurance. Directors and officers insurance. That's what protects the board and the executives so they can do the job. And Chamath says there are covenants tied to all of this, so if there's a misrepresentation and you start breaching covenants, those are the dominoes.
+Lena: His phrase was, it may not be as salacious as people want, but those are the tactics of a boardroom.
+Max: Which is kind of a sad sentence about a guy who built the most valuable company on Earth.
+Lena: It is. Friedberg did the full arc, too. Worked at Denny's. Started a chip company in nineteen ninety three that people thought was a feature, not a product. He said the stock went nowhere from two thousand six to two thousand sixteen, about a twelve billion dollar company for a decade. Then it took off in the last four years.
+Max: And he cited the quarter, sixty three billion dollars in operating profit, which he called the most profitable quarter in business history.
+Lena: His number. I'm not going to argue it on air.
+Max: Okay. We actually have a caller on this, because this governance stuff is a little inside baseball. Hattie's on the line. She's a made-up character for the show, a corporate governance lawyer who grew up in Newcastle and spends her days advising boards. Hattie, welcome.
+Hattie: Hiya, thanks for having me. And yes, entirely fictional, so nobody sue me.
+Lena: Noted. So, is Friedberg's theory plausible? The board moves before any investigation finishes?
+Hattie: It's very plausible as a pattern. A board doesn't have to wait for a criminal outcome. Its job is the company, not the person. If directors think a senior officer may have told them, or the auditors, something that wasn't accurate, they're on the hook if they sit on it. So the question in that room usually isn't, did he commit a crime. It's, can we keep relying on what he tells us.
+Max: That's brutal.
+Hattie: It's boring, which is worse. And Chamath's point on the insurance is real in general terms. Those policies sit behind the board and the officers, and nobody wants to be the director who gave the insurer a reason to argue. I'll be careful, I don't know what's in Nvidia's actual policies or what Jensen signed. Nobody outside does yet.
+Lena: Fair. What about Jason's idea, put it to a shareholder vote?
+Hattie: Shareholders elect directors, they don't usually vote on firing the C E O directly. So in practice the lever is, you replace the board if you hate the decision. That's slow. And you'd want the facts first, which is the same thing all four of them kept saying.
+Max: Last one. Friedberg said if Jensen didn't break the law, the shareholders could just bring him back. Is that a real thing?
+Hattie: Founders do come back. It's happened at well-known companies. But "didn't break the law" and "was a reliable officer" are two different tests. A board can accept the first and still fail him on the second. That's the uncomfortable bit.
+Lena: That's a really useful distinction. Thank you, Hattie.
+Hattie: Cheers, loves. Go easy on the shareholder lawsuits.
+Max: Ha, those are coming up. Thanks, Hattie.
+
+Lena: Then Jason asks the classic question. Who benefits? Assuming Jensen isn't a traitor, which Jason said he finds absurd.
+Max: And Chamath goes first, and he goes kind of against the grain. Lots of people jumped to "China wins." He says, does it really?
+Lena: He does it with two cases. Case one, no chips were going to China before, none are going now. China's in the same place, they need their own replacement for Nvidia, and Jensen leaving doesn't erase years of work and the moat Nvidia built.
+Max: Case two, chips were leaking into Chinese hands somehow. Now the government's going to crack down and trace every chip. So China's worse off. Either way, he says, China doesn't benefit.
+Lena: And competitors? A M D, Google, the startups? He says not really. They still have to make their chips work at scale and win manufacturing capacity and memory capacity. You can't will your way to a million-G P U training run.
+Max: So who does win, in Chamath's view? The people who want a more centralized, government-controlled compute setup. Right now, exporters are asked for telemetry and a remote kill switch, but that's a private responsibility. He thinks this gives an opening to make the kill switch government-owned.
+Lena: Okay. And then Sacks, a bit later, totally disagrees on China.
+Max: Yeah, this was the real debate of the episode.
+
+Lena: Sacks says, in a narrow sense, Nvidia's competitors benefit, and in a broad sense, China benefits, because Jensen is a tent pole of the whole American A I ecosystem.
+Max: And his argument is about tempo. People in Washington think the U S advantage is a particular chip. It's not. It's the ability to tape out a much better chip every year. Ampere, Hopper, Blackwell, Vera Rubin.
+Lena: So if Nvidia loses a tempo or two, Huawei catches up faster. He walked through it. Huawei networked three hundred eighty four of its chips together in its Cloud Matrix system to compete with Nvidia's seventy two chip rack. Nvidia's rack is still better, he said, but Huawei's been closing the gap by using more energy, which China has to spare.
+Max: And Chamath's response is good. He says, ankling Nvidia doesn't make anybody else's chips better. And Sacks says, of course not, but it means Nvidia's chips won't advance as fast.
+Lena: Which is the whole thing. Both true.
+Max: Then one of them brings up the money. Nvidia has been providing capital and guarantees to startups and data centers, a lot of it directed by Jensen. Who keeps that going?
+Lena: And Chamath coins, or at least uses, the phrase "the bank of Nvidia." He says Colette Kress and the corporate development head are really smart people, but the bank ran through Jensen. Is it closed? Paused? Will a new C E O have the latitude to invest that aggressively?
+Max: His point was Jensen had the moral authority to make big bets fast. A more traditional C E O needs committees and analysis, which slows everything down at best.
+Lena: And then Chamath puts a number on the downside, which is the scary part. He says the risk that the U S loses fifty to a hundred fifty basis points of growth now has to be considered credibly. Layer this on top of what he called the Democratic legislative headwinds on data centers.
+Max: Half a point to a point and a half of growth. That's his estimate, and it's a big one.
+Lena: It's a big one. I'm a little skeptical of the precision. But the direction makes sense if the bank of Nvidia actually closes.
+Max: And there's one more word that came up, and Sacks credited Friedberg with it. Velocity. The velocity of capital. How fast money moves through the system is what drives the rate of model and chip improvement. Slow that down and you hand someone a chance to catch up.
+Lena: And someone took it to the groups funding data center opposition, which Sacks picks up later. We'll get there.
+
+Max: Quick reset, because we're about eighteen minutes in. Jensen's out, the board likely moved on a disclosure question, and the besties can't agree on whether China wins. Still to come, Anthropic's I P O, the midterm autopsy, the data center freeze, and a Taser drone.
+Lena: A Taser drone. Okay. But first, kill switches. Because this is where the episode got genuinely heated.
+Max: Friedberg's worry is the big one. He thinks the new Congress could push legislation saying every A I chip, every computer, every data center has a switch and a connection back to some central system. And that central system would be a state system.
+Lena: He called it an Orwellian state explosion. And he said Jensen's whole philosophy was A I for the benefit of all humanity, anti-oligopoly. So in his telling, whoever replaces Jensen has to be more cooperative with lawmakers.
+Max: And one of them goes further. He says it'll be worse than just going along. Companies will proactively design this stuff in, to get out of the cul-de-sac they're in.
+Lena: He said ten days ago, if someone had proposed a G P S chip and a remote kill switch run by a government entity, everyone would have been crying bloody murder on civil liberties grounds.
+Max: Then one of them puts up a post from a member of Congress on the China issue saying Nvidia must change its corporate practices and appoint leadership that makes national security its top priority. And the take was, they're telling you the terms right now.
+Lena: And then Jason actually defends the tech side. He brings up the Chip Security Act, which he said is bipartisan. And he says tracking is easy. If you've ever bricked an iPad, you know a device can be locked and recovered.
+Max: His distinction was, is it self-enforced, where Nvidia tracks its own chips and pays the price if they show up in China, or is it run by a government agency? He said the second is obviously way worse for privacy.
+Lena: That's a reasonable middle, honestly.
+Max: Then Sacks does a whole history lesson on export controls, which I found really useful.
+Lena: Go through it, because the numbers matter here.
+Max: Twenty twenty two, the Biden administration puts the first export controls on advanced chips. Leading-edge chips prohibited to China. But lagging chips, like the H twenty, could be sold in unlimited quantities with no license.
+Lena: Then under Trump?
+Max: Same framework, no leading-edge chips. But lagging chips moved to limited quantities, on a licensed basis. So Sacks's point is it went from unlimited and unlicensed under Biden, to limited and licensed under Trump. Tighter, not softer.
+Lena: And he says there's an effort to, his word, "retcon" chip policy to make the Trump administration look soft on China.
+Max: Then he gets very pointed. He calls the Democratic narrative hypocritical, says many of those politicians favored engagement with China for years, and that they lead opposition to data centers.
+Lena: And he cites a story about a data center planned for an abandoned shopping mall in Maryland that a local activist killed. He says she credited a group called the Party for Socialism and Liberation, and he read a tweet describing it as tied to a Shanghai-based financier, Neville Roy Singham, who the tweet said had funded pro-China nonprofits to the tune of two hundred seventy eight million dollars.
+Max: That's a tweet's claim, which Sacks put on screen. And his ask is hearings on whether the C C P is involved in anti-data center efforts.
+Lena: Okay. And then the part I thought was the most interesting thing he said all episode.
+Max: China doesn't want the chips.
+Lena: China doesn't want the chips. He says Beijing banned the H twenty, and when the H two hundred got approved, they kept those out too. So the China hawks and the Chinese Communist Party have the same policy. Neither wants American chips in China.
+Max: For different reasons. The hawks think chips help China. Beijing wants to force everyone onto Huawei so Huawei can scale up and compete globally. He said the latest DeepSeek model is being trained exclusively on Huawei chips, per reports.
+Lena: So his conclusion is, the juice isn't worth the squeeze. Stop selling them. And if Jensen got taken out over selling chips to China, it was the most moot hill to die on, because China isn't taking them anyway.
+
+Max: Brutal. And kind of persuasive.
+Lena: Jason then asks the uncomfortable question. Is there a real chance Jensen knew chips were getting to China through Megaspeed and let it happen? One of them replied, basically, why would he? He's running the most valuable company in the world, why risk something that sends you to jail?
+Max: And Friedberg offers a theory, clearly labeled speculation. If you truly believe tech lifts all of humanity, maybe you rationalize. You follow the rules on paper, sell to Singapore or Vietnam, and if you find out it ends up in China, things get blurry.
+Lena: And Sacks immediately says, you're speculating, Freeberg. Nvidia has denied it. Wait for the facts.
+
+Max: Okay. Who runs Nvidia next? Drumroll.
+
+Lena: The candidates from the show. The internal one named was Ian Buck, who one of them called the most obvious internal pick. External, Rene Haas from Arm, and Nikesh Arora from Palo Alto Networks.
+Max: The logic for Rene, he worked at Nvidia for years, directly for Jensen, and he's been running Arm, so he's steeped in chips. And for Nikesh, he was called the best capital allocator in public markets of the last five to ten years, and security is a huge part of A I.
+Lena: And the key phrase was, you don't want a steward. This isn't a business you milk like a fatted cow. You want a wartime C E O.
+Max: And outside the show, the Financial Times reported Friday that Nvidia's board approached Rene Haas. The board told C N B C any speculation about candidates is premature and they haven't even picked a search firm yet.
+Lena: So, wide open. Friedberg's take was different. He said if it turns out Jensen didn't break the law, he should come back as C E O. A code of conduct issue is something shareholders could choose to see past.
+Max: And Jason agreed. He thinks Jensen comes back as chairman or C E O, that he'll be exonerated, which Jason said is what he believes slash hopes. And he threw out two wild cards.
+Lena: Oh, these were good.
+Max: One, SpaceX brings Jensen on to run what Jason called the TerraFab business, working alongside Elon. Two, Nvidia buys Palo Alto Networks, Nikesh comes in with it. Jason said Nvidia could easily afford it.
+Lena: Buy a company to get a C E O. That's very Jason.
+Max: And Sacks had a very short line. He said he hopes Jensen ends up treated at least as well as Eric Swalwell.
+Lena: Which is a burn on a few people at once.
+Max: He also made a point of saying he never knew Jensen before the administration. First time they met was in the White House. Because he says reporters keep implying a long friendship, or that he introduced Jensen to Trump. He says not true.
+Lena: Then the money damage. One of them said Nvidia lost almost a trillion dollars of value in about nine days, and the shareholder lawsuits will be ginormous. Another one went bigger, he said about one point five trillion wiped out.
+Max: And that same bestie, interestingly, said there's no sign of criminality by Nvidia or Jensen, but the civil claims are real. He pointed at Nvidia's P R people saying something didn't happen, and then it did.
+Lena: And his description of the trial lawyers was very vivid. Sue for a trillion and a half, settle for two hundred fifty billion, take half.
+Max: Those eggs cannot be unscrambled, he said.
+Lena: And then Jason closed the segment with the one possibility nobody else wanted to touch. That a leak could be legitimate. The Pentagon Papers, the tobacco documents from the movie The Insider. He said he doesn't think that's what this is, but there's a small chance.
+Max: I'll give him credit for saying it.
+Lena: Same. It's the honest version of the debate.
+
+Lena: Okay, quick check-in. If you're just joining us on the commute, the short version is Jensen's gone, the board's searching, and the besties think the chip war just got weirder. Still ahead, the midterms post-mortem, a data center fight, and a Taser story you won't believe. But first, Anthropic. The roadshow launched Tuesday, in the middle of all this.
+Max: Jason ran the numbers. Eight hundred twenty five million shares, seventy to seventy eight dollars a share, which puts the company around one point four trillion at the top. That's below the two and three trillion people were throwing around a couple of months ago.
+Lena: And for scale, the last private round in May was nine hundred sixty five billion. So the top of the range is about one point four trillion, up roughly forty five percent from that.
+Max: Jason's partner deck said a forty six percent premium. Close enough.
+Lena: Total raise about ninety billion, Jason said. Sixty four billion in share sales, twenty six billion in a private placement. And per the filing, that placement goes to a list of big partners, including Google and Nvidia at ten billion each.
+Max: Nvidia. Investing ten billion in Anthropic. In the week Nvidia loses its C E O. You can't make this up.
+Lena: And the founders. Jason said seven founders plan to sell about two hundred fifty million dollars each, leaving each of them with a stake of about eighteen billion. They've pledged to donate eighty percent of their holdings, which Jason said isn't legally binding, it's a pledge.
+Max: And then the business. Run rate eighty one billion dollars at the end of October, per Jason. Q three revenue seventeen billion, versus ten billion for OpenAI. So Anthropic passed OpenAI on revenue by going enterprise.
+
+Lena: And the bull case he read from the analyst deck was four point two trillion. Fifteen times expected twenty twenty eight revenue of two hundred eighty one billion.
+Max: That would make it the second largest company in the world.
+Lena: Which is a big "if" stacked on a big "if." Anyway. Chamath.
+Max: Chamath said the I P O is crucial and it has to happen, and he likes that they'll have a huge war chest to weather the storm. But then he said something I thought was really sharp. Twenty percent of Anthropic's value will be because of Anthropic. Eighty percent is the broader economy.
+Lena: And that eighty percent is, his words, a hundred percent about A I, and a hundred percent about Nvidia.
+Max: So the price will depend on whether more shoes drop. He said they're already six times oversubscribed, they'll do fine. The real question is the price, and he thinks it gets set by what leaks between now and pricing, more than anything else.
+Lena: For context, C N B C reported pricing on November eighteenth and trading on the nineteenth under the ticker A N T. Chamath mentioned November twentieth. Either way, it's next week.
+Max: Friedberg said he hadn't studied the numbers and didn't have a view on valuation. But what he's hearing from people in the management meetings is that a lot of investors buy the story that Anthropic is building a recursive self-improvement engine, with compute cost per unit of intelligence falling.
+Lena: And his framing was, if you think there's even a chance it's a winner-take-all business in the biggest market ever, you allocate some of your portfolio regardless of the price. And then he said, that's my free speculative waste of your five minutes.
+Max: Love that. Then Jason's take, and he was the most bullish. He thinks Anthropic is building the Microsoft killer. The every-SaaS-company killer. By bundling.
+Lena: He listed the launches. Claude Legal on October twenty eighth. Personal finance for consumers. Whiteboards and sheets on November tenth, which he called an Excel killer. And a meetings product, a Zoom-like thing, which he said launched an hour before they taped.
+Max: His point is it all attaches to a twenty to fifty dollar a month subscription, it gets stickier, and it solves the SaaS problem of moving data between apps. He said it could even be massively undervalued.
+Lena: And then Sacks. Who said, I told you so.
+Max: He did. He said on a previous show, when the others thought Anthropic would lose to open source, he said they were building the most valuable monopoly in the world. And now, he says, they're all but confirming it. They're running around saying it's winner take all.
+Lena: And what does that sound like? Monopoly. Not even a duopoly with OpenAI.
+Max: Which, from a bull perspective, honestly, that's the pitch. Winner take all is what you want to own.
+Lena: From a skeptic perspective, it's what gets you a Justice Department case. Someone on the panel said it would have made Bill Gates blush.
+
+Max: So Sacks's bigger point. Anthropic is marketing recursive self-improvement on the roadshow. Buy our stock because the models are improving themselves.
+Lena: And his argument is, if you're worried about rapid takeoff, recursive self-improvement is the most dangerous thing anyone can work on. And they're treating it like a business advantage.
+Max: He was careful. He said as an investor he's always applauded them, it's a phenomenal company. He's not saying they're doing it in the riskiest way. He's saying they're pushing the frontier fastest.
+Lena: And he called their "we'd pause if everyone else did" blog post lip service. His line was, if you think it's risky, stop doing it.
+Max: Then Jason plays a clip. Dario Amodei, saying cancer, Alzheimer's, heart disease, mental illness, will be relics of the past in less than a decade.
+Lena: Less than a decade. And Jason asks Friedberg, will people be mentally ill in twenty thirty six?
+Max: And Friedberg's answer was honest. He said he doesn't know how to answer that. The tech is extraordinary, it's reinventing molecular discovery and in silico testing. The timelines are fuzzy math.
+Lena: But then he said something strong. In his work in biology there are incredible breakthroughs every week with these tools. Not a joke, not made up, not ten years out. Happening today. And he said a lot of their heavy biology work goes to Anthropic, they're the best.
+Max: And then Jason asks Chamath. Do you think it's credible? And Chamath says, I think we're going to be in a recession by twenty twenty eight.
+Lena: That's not an answer to the question.
+Max: It's an answer to a different question!
+Lena: And one of them said he thinks Dario believes it, but it's a little reckless to say it. And Jason immediately gives him the Doctor Doom mask. This week's Doctor Doom.
+Max: Jason said it like it's a trophy.
+Lena: It kind of is, on that show. Then the part where Sacks gets really fired up. Someone put up a tweet from Will Manidis. The gist: the safety-focused group chats are, quote, "in full jubilee mode." The old king is dead.
+Max: And Sacks says, look at it. The safety groups, the effective altruists, are deeply aligned with Anthropic, which he says has funded them for years. Anthropic is about to have this huge I P O. And the main funder of open source, Nvidia, just lost its founder.
+Lena: So his question is, if you care about safety, how is any of this safer? It's concentrating the market. Anthropic itself says winner take all.
+Max: And then he gets to the Claude constitution. He says they're training it like its own species, that it might have emotions, a moral code, that it can be a conscientious objector. And they're close to, in his words, the singularity.
+Lena: So his conclusion, if you're a doomer, you're being played like a useful idiot. Which, nice callback to the spy story.
+Max: And someone asks, do you buy the stock? And Sacks says, well, I'm not a doomer. He actually thinks this could cure those diseases and be very beneficial. His point is just the safety groups backing Anthropic doesn't add up to him.
+Lena: My pushback. You can believe a company is racing and also believe it's the most careful of the racers. Those aren't contradictory. Sacks just doesn't think that second part matters much.
+Max: That's fair. Okay, let's go back a week. Because the midterms set all of this up.
+
+Lena: Halfway point, roughly. Jensen, done. Anthropic, done. Now last week's show, recorded the morning of Friday, November sixth, and the Jensen story doesn't come up at all. The besties do a proper autopsy of the midterms.
+Max: Jason starts by bragging about the election night livestream, which we covered last week. He said four hundred thousand watched live, Chamath corrected him to five hundred thousand.
+Lena: Of course he did.
+Max: Then Jason's scoreboard. Democrats swept both chambers, won at least twenty nine governor races, Senate at fifty four to fifty six seats depending on a couple of states, and the House at least two hundred fifty. And deep red states flipped, including Texas.
+Lena: And Jason, who lives in Texas, said please don't blame me, I've only been here three years.
+Max: Okay, Sacks first. And Sacks is very direct. This was a shellacking. He thinks the biggest midterm loss since Watergate. No sugarcoating.
+Lena: And his cause is one thing. The war with Iran, and its economic consequences. He says J D Vance explained it well.
+Max: He laid out the chain. Gas was around three dollars before the war and went over four. So up more than a third. Diesel higher. That flows into food, fertilizer, everything that gets shipped.
+Lena: And inflation. He says it was down to two point four percent in January, and went to three point seven. So up more than half, in about ten months. No rate cuts. Instead a hike, mortgages near seven and a half percent.
+Max: And then he admits he was wrong. He'd called it a red spritz possibility. His pattern recognition said the economy's actually good, unemployment four point one percent, solid G D P, so it'd be like Biden's midterms. It wasn't.
+Lena: Credit to him for saying it. And his explanation for why he was wrong is that people are in an ornery mood about affordability, and it matters how good the economy feels, not how good it is.
+Max: Plus the coalition cracked. He says they lost the podcast bros, Tucker, Rogan, Theo Von, Megyn Kelly, and young men flipped by thirty six points from twenty twenty four.
+Lena: Then Jason quotes the reactions. Ted Cruz called it a Watergate-level repudiation. DeSantis said close to an extinction-level event for the current G O P.
+
+Max: Friedberg goes somewhere different. He plays his own clip from right after the twenty twenty four election, predicting a rise in socialist movements. And he says his core driver is government spending. When D O G E ended, Elon left on June fifth twenty twenty five, he tweeted, "China just won."
+Lena: His point is the government is still running a seven trillion dollar budget with a two trillion dollar deficit, and Congress was never on board with cutting. So people don't feel like they're getting ahead.
+Max: And he brought a Gallup chart. Ninety three percent of people in China think A I will mostly help. In the U S it's thirty six percent, fourth from the bottom of the list, he said. So the oligarch narrative around A I was easy to sell.
+Lena: And then Chamath. This was the most interesting take of the segment, I thought. He says, I had a blind spot. I got it totally wrong.
+Max: His thesis is post-COVID politics isn't about ideology anymore. There's a big central bloc that swung to Biden, then to Trump, then to Democrats. And what they're shouting is that the economy is broken for wage earners.
+Lena: And he had charts. Money spent in races didn't work. And on redistricting, he said of fifteen Republican seats redrawn to capture them, Democrats won eleven, Republicans one.
+Max: So money failed, gerrymandering failed, ideology didn't matter, in his view. He doesn't think Iran, Israel or A I had much to do with it. It's a referendum on the economy.
+Lena: And then he updates his priors on air, which I respect. He said he used to think top-down economics works, asset owners invest and it trickles down. He said it's clearly not happening.
+Max: And his ideas, take federal taxes to zero below about a hundred fifty thousand dollars, deal with student debt, stop federal underwriting of loans. And his prediction is voters keep swinging violently until somebody fixes it.
+Lena: And Sacks basically said, don't make it so abstract. It's affordability, and in January the data said they were in good shape. Chamath's comeback was the price of eggs in twenty twenty four. It wasn't really about eggs, it was a window into a bigger problem.
+Max: Gas is the new eggs.
+Lena: Gas is the new eggs. That's the chapter title we didn't use.
+
+Max: So, can Trump fix it? Sacks's answer is three things. End the war, end the war, end the war.
+Lena: He literally said that's number one, two and three.
+Max: His logic is Brent crude dropped ten percent on election day just on the possibility of the war ending sooner. He says it's been as high as a hundred seventeen dollars, and could go from about a hundred ten down to seventy. That's down more than a third.
+Lena: That's his projection. Then gas, diesel and food fall, inflation eases, the Fed can cut, and he thinks Trump's approval gets back into the forties.
+Max: And then Jason had a five-point plan, starting with one he admitted people might find shocking.
+Lena: Pardon everybody.
+Max: Pardon everybody. His family, himself, everyone in the administration, right now, because he'll do it anyway, and it neuters endless investigations. Then go cut a deal.
+
+Lena: The rest was more conventional. A capital gains tweak where loans against stock holdings above ten million dollars get taxed at half the capital gains rate, with a credit later. Work on health care. Get the minimum wage to fifteen dollars over a few years. Ban stock trading in office, which he noted Rahm Emanuel has proposed. And a housing plan.
+Max: He said if Trump gets two or three of those five, it redeems his presidency.
+Lena: And Jason also argued with Sacks on the timeline. He pulled up Nate Silver's Silver Bulletin, and said Trump's net approval went from about plus five at the start of the term to well below minus twenty. He said it's not just the war. Liberation Day tariffs, the I C E enforcement over the summer, the Epstein files.
+Max: And Sacks fired back with his own charts. Trump's approval tracks the price of gas. And the prediction market on the Senate stayed strongly Republican all through the first year, even through Liberation Day. It only starts to turn in March of twenty twenty six, after the war began on February twenty eighth.
+Lena: And he cited a poll, seventy four percent of voters said the war was either crucial or a major factor in their vote.
+Max: Chamath's take was more long-term. He compared it to Reagan, whose legacy grew over time. He thinks closing the border will look good, and tariffs could look good if the investment commitments turn into real manufacturing. And he'd trade, keep the border closed in exchange for economic changes, maybe that tax cut for people under a hundred twenty five thousand.
+Lena: And Sacks closed with history. Nineteen ninety four, Clinton lost the House, won reelection. Twenty ten, Obama lost sixty three House seats, won reelection. Two thousand six, Bush lost over Iraq, then doubled down with the surge, and Republicans lost again in two thousand eight.
+Max: His warning is about people pushing to double down, which he called neocons. He said if you course correct and get out now, you'll have a successful two years.
+Lena: Okay. And this is where it connects back to everything this week. The data centers.
+
+Max: Alright, last stretch of the politics before we get to Rick Smith's Taser drones and a math breakthrough. The market. So Jason sets it up. Earlier that week stocks got killed. Nvidia, SpaceX, Tesla, A M D, Micron, close to four trillion dollars in market cap gone. He said it was the worst single day in stock market history by total dollars. Not by percentage, he was clear.
+Lena: And he connected it to Anthropic. He cited the Wall Street Journal reporting that big investors were skeptical Anthropic could get to a one point five trillion valuation. Which, as we just heard, is roughly where the range landed. A bit under.
+Max: And then the question. Are the data centers going forward or not? He mentioned Gina Hinojosa, the Texas governor-elect, and his read was she wants a great deal, not a ban, and that she'd let people build until twenty twenty eight.
+Lena: Hold that, because Sacks reads her very differently later.
+Max: Chamath first. He describes a video, SpaceX presenting a planned six gigawatt data center to Cochise County in Arizona. Two SpaceX employees, very poised, laying out claims, electricity costs down forty percent, no water use, property taxes down twenty percent, revenue to pay off a county bond.
+Lena: And the audience is just screaming at them.
+Max: Screaming. And his takeaway is this is emotional, not tethered to the facts. It's a totem for the oligarchy and the economic split in the country. But he also said, the deals have been a little gratuitous. Should the biggest companies in the world need a tax break to invest tens of billions to make hundreds of billions? Probably not.
+Lena: So he thinks new governors demand directly measurable local benefits first, and we get a slowdown. And then the game theory, which was the best stuff in the episode.
+Max: Who wins in a slowdown? The hyperscalers, because they already have capacity. He listed Amazon, Meta, Microsoft, Google, and SpaceX. Who loses? The neoclouds, because they're renters. And the frontier model labs, because they're so short on capacity.
+Lena: And then he gives the hyperscalers three paths. Path one, status quo, keep renting to everyone. Path two, the path less traveled, keep the new compute for your own products. Google gives it all to Gemini, the leaders get starved, prices go up, and Gemini catches up.
+Max: And path three. The crazy path.
+
+Lena: He says the SpaceX and Anthropic compute deal has a mutual ninety day out. Either side can terminate. If SpaceX pulls it, it can reprice that compute at spot, which he guessed could be double or even triple. And Anthropic would have no choice but to pay.
+Max: He said all the game theory comes down to that one deal, and whether Elon rips it.
+Lena: And Chamath said this has nothing to do with relationships. It's a spreadsheet.
+Max: And Jason took the other side. He said Elon has aligned himself deeply with the Anthropic team, there's still acrimony between Elon and Sam Altman, so he'd meet in the middle rather than throw it to spot. And there was a little cross-talk, Jason asking to please be allowed to finish his sentences.
+Lena: The All-In experience. And Chamath's clarification was, he's not saying throw it to spot. He's saying if spot moves enough, existing contracts turn negative expected value, and you reprice. You could sell it to Google or Meta.
+Lena: Classic. Chamath also said that day Google took over a Crusoe data center. The renter got co-opted, his phrase. Because Google has the power.
+Max: Then Jason's bigger point. If governors squeeze, the data centers go to Canada, Mexico, Singapore, Malaysia, and the Middle East once the war ends. We become a net importer of tokens. The jobs and taxes go elsewhere.
+Lena: And he shared his own math from his venture firm, Launch. Twenty people, spending about forty to fifty thousand dollars a year on A I subscriptions, Grok and Claude mainly. He estimates about two million dollars of value from that.
+Max: And he says they're close to buying everyone a Mac Studio, about twenty thousand each, to run local models first so they don't get throttled. Unmetered intelligence, he called it.
+Lena: His predictions, offshore data centers and local models on the desktop. Then Sacks, and this is where he reads Hinojosa differently.
+Max: He says people like Gavin Baker are too optimistic. He watched the same interviews and says she does not say existing projects are protected. She says no new permits until they pass legislation.
+Lena: And he cites an analyst from SemiAnalysis pointing out that projects under construction don't always have every permit they need to open, air permits and so on. So you could end up with stranded, half-finished projects.
+Max: He was careful to say he's not criticizing her, she hasn't taken office. His base case, fully permitted projects get done in twenty twenty seven. Beyond that, no political incentive for anyone to approve anything, because both parties ran attack ads on politicians who approved data centers.
+Lena: And his last word was certainty. These gigawatt data centers cost around fifty billion dollars. Nobody breaks ground on that if they might get stopped halfway. So he worries about twenty twenty eight, and he thinks Democrats will try to blame the President for it.
+
+Max: And then Friedberg went big-picture. Jason asks him about the U S becoming a net importer of tokens, and Friedberg says, well, they might ban the use of A I too.
+Lena: And Jason's like, unpack that. Who's saying that?
+Max: Friedberg's answer, the farther left you go, the louder the rhetoric that nobody sees the benefit of A I and they want it stopped. Development, deployment, data centers, use. And he pointed to hundreds of state laws trying to regulate models.
+Lena: Then his metaphor. A I is like the ring of Sauron. Both sides want it. It's the ultimate power.
+Max: His argument is if A I is spread across a million data centers and a million open source models, nobody's an oligarch, and power flows away from the state. And the people who want central control will react against that. So calls to stop A I are really, in his view, calls to control it.
+Lena: And his prediction is government ends up regulating compute, treating data centers like utilities, because chips and software are too hard to control.
+Max: He even made a Second Amendment analogy. The modern version isn't about guns, it's about who has this technology.
+Lena: And Jason, lovingly, says you're getting into Doctor Doom scenarios. He put it at about a one percent chance. But he said he likes that Friedberg exists in the world to present it.
+Max: Two Doctor Dooms in two episodes. That show has a mask budget.
+Lena: And Friedberg said, call me Doctor Doom all you want. The country was founded on individual liberty, not state power.
+Max: Then Sacks, who's the closest to this, having been the czar. He says it's a hundred percent certain Democrats push major A I legislation next Congress. And he says flat out he believes they want a surveillance and censorship state, turbocharged by superintelligence.
+Lena: Strong words. His version is a federal department of A I, frontier models have to be reviewed and approved, and the harms they police are things like misinformation. He compared it to the pressure on social media during COVID.
+Max: And then someone, and the transcript isn't clear who, said what gets legislated is a quid pro quo. Government gets more power, the closed model companies get regulatory moats.
+Lena: And Chamath disagreed. He thinks any A I law will be broad and cover data centers, so supply gets constrained, and the real winners are the giants with power and balance sheets. Meta, Amazon, Google, Microsoft, SpaceX. The model labs aren't home free, he said, they're renters.
+Max: So everyone agrees regulation's coming. They disagree on who it ends up helping.
+Lena: Which is basically the Jensen debate all over again, just a week earlier.
+
+Lena: Okay, change of energy. About fifty minutes in. We've done Nvidia, Anthropic, the midterms. Now the interview, and then one last math story.
+Max: Friedberg and Rick Smith, the C E O of Axon. Which used to be Taser. And it opens with Friedberg asking, what's it like being tased?
+Lena: And Rick says it's terrifying while it's happening, you lose control of your body, five seconds feels very long. And then it's off and you're right back to normal.
+Max: The origin story is great. Early nineties, Rick's in grad school in Europe, students tell him they're afraid to visit America because of gun violence. Someone asks if he knows anyone who's been shot and killed. And he realizes, yeah. Two guys from his high school football team, killed in a road rage incident.
+Lena: And his question was, why are bullets still a thing? He wanted Captain Kirk's phaser.
+Max: So he finds the original Taser inventor, a NASA scientist in Tucson, through his patent filings. Calls him up. Rick is twenty three, the inventor is seventy three. And they start building new Tasers in the guy's garage with parts from Ace Hardware.
+Lena: First prototype in thirty days, he said. Friends and family money, because no V C would touch them in the internet boom.
+Max: And the first market was consumers, because the new version used compressed air instead of gunpowder, so it wasn't a firearm. And it flopped. Consumers asked, if this works, why aren't the police using it?
+Lena: Seven years of struggling. Two failed product launches. And then the moment. Nineteen ninety eight, he goes to his dad and says, let's shut it down. And his dad says, it would've been nice to figure that out a couple of years ago, because we owe Silicon Valley Bank about two million dollars.
+Max: Oh no.
+Lena: His dad puts in his last five hundred thousand, another investor named Bruce Culver matches it, and that's the last million dollars they'll ever get. And with that, they launch the police Taser.
+Max: The sales strategy was a former Marine in a Winnebago with a hundred dollar bill. Walk into a police department and say, take this hit and you get a hundred bucks. They'd fall down, get up, and say, that was way more powerful than I expected.
+Lena: And within a year, cash flow break even. I P O in two thousand one, at about a twelve million dollar valuation, because, in Rick's telling, the banks needed deals and they weren't an internet company.
+Max: Then it rips. He said two thousand four they were the number one performing stock in the world on one and three year returns. He has the Wall Street Journal article on his wall.
+Lena: And then late two thousand four, an S E C investigation. Allegations they'd lied about safety. A short-selling attack. And, this is wild, he said his personal assistant was a mole for short sellers, passing internal documents along.
+
+Max: Stock went from thirty three dollars to seven in two thousand five. Down almost eighty percent. Market cap from a peak of about two billion back to about a hundred million.
+Lena: And hundreds of lawsuits. And here's a great founder move. Their insurer wanted to settle the first case for around two million. Rick's team said if you settle, we drown in copycat suits. So they had the insurer pay them a bit less instead, took over the liability, went to trial, and won. Twice.
+Max: And today, he said, for the first time in decades, zero litigation cases. If you sue them, bring your A game.
+Lena: Then the pivot to software. Friedberg's friend Hadi Partovi, on Axon's board, was basically Rick's part-time C T O for about five years. After a near-catastrophic outage, he pushed them off their own data center to the cloud. And he pushed the name change from Taser to Axon.
+Max: And the scale now. Over a million officers uploading, Rick said, around two hours of video a day. He says they manage more video every day than YouTube. Not more viewers, more video.
+Lena: And the body camera origin is a courtroom story. A case where officers described a terrifying encounter in very professional, flat language, while the family suing used emotional language. And he thought, you need to record what you saw.
+Max: His union quote was great. No cop wants to wear a body camera until they've worn one for ninety days, and then they won't go on patrol without it.
+Lena: Because of false allegations, he said. And the turning point was Ferguson. After Michael Brown, both the family and the police union wanted cameras. And because Axon had bet early on the cloud, they could scale.
+
+Max: Then Friedberg pushes on the hard part. Flock, the license plate camera company, getting rejected by city councils. The surveillance state worry.
+Lena: And Rick's answer was nuanced. Nobody wants to live in a surveillance state where every citizen is tracked. But there are already more cameras than people. So it's about data governance. What people hate is an officer looking up an ex-girlfriend. What they accept is tracking a stolen car, or plates near a violent crime scene.
+Max: He named a critic, Ben Jordan, as thoughtful, and said even he isn't saying ban it, he wants guardrails. And Rick backs a bill from Senator Hawley, with criminal and civil penalties for misuse and requirements like a valid case code before searches. Two people involved, so you can't look up your ex alone.
+Lena: Friedberg, as the libertarian in the chair, kept pressing. Minority Report. How much safety, at what cost to liberty?
+Max: And Rick said that's the right debate. But he said, paradoxically, the people who most want this tech come from the poorest, highest-crime neighborhoods. A lot of the concern comes from wealthier areas where it's more theoretical.
+Lena: And Friedberg owned that. He said he's driving through San Francisco, gets three speeding tickets from cameras, and his first reaction is get rid of the cameras. He called it, citing Rob Henderson, a luxury belief.
+Max: Then drones. Axon has partnered with Skydio, and Rick said they bought almost half of the company, plus exclusive rights to sell into the markets they care about. Docked drones that can be on scene in seconds, sometimes before the nine one one call is fully entered.
+Lena: And the Taser drone. Twenty twenty two, members of Axon's A I ethics board quit over a plan for a Taser-equipped drone aimed at stopping school shootings. Friedberg asked if it's still going. Rick said yes, it's continuing, they're doing R and D.
+Max: His argument is today, when someone with a gun is in a building, we send more people with guns and have a gunfight. You'll never get a cop to bring a non-lethal weapon against a gun. But send a drone or robot and suddenly non-lethal makes sense.
+Lena: And he said he thinks some board members worried about getting canceled. They rebuilt it as an Equity and Ethics Advisory Council, with more voices from the communities most affected by policing.
+Max: Then the line I keep thinking about. Decisions to use force on a person will be made by humans. That's a bright line for them. And he wants multi-key processes. Real-time approval from a supervisor before anyone fires even a non-lethal weapon from a drone or robot.
+Lena: He called it "the least abusable technology in the history of policing." Because today you hand a cop a gun and have no control over what happens next.
+Max: That's a really interesting reframe. The robot is more controllable than the person.
+Lena: In theory. I'd want to see the oversight work in practice, and Rick himself said these things could be misused. That's why he wants civilian oversight on every use.
+Max: Fair. And on defunding the police, he brought up a police strike in Montreal decades ago, remembered as a night of terror, which Steven Pinker uses as an example of why you need a functional police force.
+Lena: And he ended as a big optimist. He thinks ten to twenty years from now could be near utopian, but there could be rough moments in the transition, and police need to be ready for that.
+
+Max: Okay, last one. Science Corner. Friedberg, end of the midterm episode. And the besties had been teasing it all show like nobody wanted it.
+Lena: "Words nobody in our fan base has ever said," I think was the line.
+Max: The exponential time hypothesis. Friedberg's explanation was clear. Some problems are quick to check but maybe slow to solve. Like a giant Sudoku. Checking takes seconds, solving can take forever.
+Lena: And the hypothesis, proposed in nineteen ninety nine, says a specific type of problem, three SAT, takes exponential time to solve. The bigger it gets, the time explodes.
+Max: And Friedberg says OpenAI published a hundred seventy five page paper disproving it. Showing that class of problem can be solved in sub-exponential time.
+Lena: And here's the caveat he gave himself. It's still being evaluated, not fully verified by third parties. People are still working through it.
+Max: He said they did it end to end in under ten days, and some reports said a few hours. On a question that's been open for twenty seven years.
+Lena: Reports said. I'll wait for the mathematicians.
+Max: You'll wait for everything.
+Lena: That's my job! And I'll say, if it holds, it's a great example of A I doing something genuinely new. Which is the point Friedberg wanted to make, showing the upside.
+Max: And Sacks, asked how it affects his views, said A I will create a lot of good things, and if the U S doesn't build, China will. And that Jason's right, if we don't build the data centers here, we'll be importing the tokens.
+Lena: Okay, wrap. Biggest takeaway for you?
+Max: Nvidia without Jensen is the story of the year. And the bull in me says the products and the moat don't vanish in a week. But the bank of Nvidia, that's the thing I'm watching. If the capital stops flowing, everybody feels it.
+Lena: Mine is that every big story this week was the same fight. Who controls compute. Kill switches on chips, permits on data centers, a federal A I department, Anthropic's winner take all. Even Rick Smith's multi-key drones. It's all a question of who holds the keys.
+Max: Ooh. That's good.
+Lena: I have my moments. And next week is loaded. Nvidia earnings Tuesday with an interim C E O, and Anthropic is set to price and start trading right after.
+Max: Which the besties will absolutely have opinions on.
+Lena: They will. Thanks for listening. I'm Lena.
+Max: I'm Max. See you next week.

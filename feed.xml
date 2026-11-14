@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:20:40 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:39:02 -0500</lastBuildDate>
     <itunes:author>Augusto Restrepo</itunes:author>
     <itunes:summary>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>Deep dives curated by Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,37 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Nvidia Loses Its CEO, HomeView Arrives, and a Robot That Won't Pass the Butter</title>
+      <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/techdigest-2026-11-14-9e2d1111/</link>
+      <description>Nvidia loses its CEO, Apple's HomeView arrives, and a robot that won't pass the butter. Sam and Nora cover Jensen Huang's resignation and what it means (and doesn't) for chips and gadgets, then a HomeView deep dive with takes from The Verge, Joanna Stern and Tom's Guide — great home controller, slow Siri, and a wall version that really costs about $400. Hype vs Reality on Googlebooks two months in, Gurman on a more agentic Siri and the iOS 28 schedule change, Marques Brownlee's OLED MacBook Pro review, the Cybertruck's three end dates in five days, Ring's Drone Cam and Rover Cam, Google's Intelligent Eyewear in the mailbag, and WHAT?! of the Week: the CircuitMess Rick and Morty Butter Bot ($349).
+
+Callers Marisol (smart-home installer) and Keisha (glasses shopper) share takes on what was reported. Dr. Helix Crane returns for the butter.
+
+Quick hits: Ring Drone Cam ($249.99, Jan 27 pending FCC) and Rover Cam ($999.99, Dec 16); Google Intelligent Eyewear (from $395, ships Dec 10); Nothing's screenless AI gadget (December); HOVERAir VERSA; Meta Muse Ember; Google Labs Tabletop; the Microsoft 365 outage; Reddit Reviews; Altar II keyboard.
+
+Sources: The Vergecast (Nov 9, 10, 12, 13; politics skipped); Joanna Stern, The New Things (Nov 12 HomeView review free top, Nov 13 "Next Nvidia CEO: A robot!") and her NBC review headline; MKBHD "Macbook PROLED Review: It's Not About That" (Nov 11, via video summary) and Waveform (Nov 13 chapter notes); Mark Gurman / Bloomberg Power On via MacRumors and The Verge (paywalled); Daring Fireball written posts Nov 7–13 (political posts skipped); Mashable (Tabletop, Disney Imagineering Labs app); Apple Newsroom; The Verge, Tom's Guide, Engadget, Chrome Unboxed, TechRepublic, Electrek, CNBC, Wired, 9to5Google, The Gadgeteer, Creative Bloq.
+
+Window: Saturday Nov 7 through Saturday morning Nov 14, 2026. Gadgets, tech, AI and devices only.</description>
+      <itunes:summary>Nvidia loses its CEO, Apple's HomeView arrives, and a robot that won't pass the butter. Sam and Nora cover Jensen Huang's resignation and what it means (and doesn't) for chips and gadgets, then a HomeView deep dive with takes from The Verge, Joanna Stern and Tom's Guide — great home controller, slow Siri, and a wall version that really costs about $400. Hype vs Reality on Googlebooks two months in, Gurman on a more agentic Siri and the iOS 28 schedule change, Marques Brownlee's OLED MacBook Pro review, the Cybertruck's three end dates in five days, Ring's Drone Cam and Rover Cam, Google's Intelligent Eyewear in the mailbag, and WHAT?! of the Week: the CircuitMess Rick and Morty Butter Bot ($349).
+
+Callers Marisol (smart-home installer) and Keisha (glasses shopper) share takes on what was reported. Dr. Helix Crane returns for the butter.
+
+Quick hits: Ring Drone Cam ($249.99, Jan 27 pending FCC) and Rover Cam ($999.99, Dec 16); Google Intelligent Eyewear (from $395, ships Dec 10); Nothing's screenless AI gadget (December); HOVERAir VERSA; Meta Muse Ember; Google Labs Tabletop; the Microsoft 365 outage; Reddit Reviews; Altar II keyboard.
+
+Sources: The Vergecast (Nov 9, 10, 12, 13; politics skipped); Joanna Stern, The New Things (Nov 12 HomeView review free top, Nov 13 "Next Nvidia CEO: A robot!") and her NBC review headline; MKBHD "Macbook PROLED Review: It's Not About That" (Nov 11, via video summary) and Waveform (Nov 13 chapter notes); Mark Gurman / Bloomberg Power On via MacRumors and The Verge (paywalled); Daring Fireball written posts Nov 7–13 (political posts skipped); Mashable (Tabletop, Disney Imagineering Labs app); Apple Newsroom; The Verge, Tom's Guide, Engadget, Chrome Unboxed, TechRepublic, Electrek, CNBC, Wired, 9to5Google, The Gadgeteer, Creative Bloq.
+
+Window: Saturday Nov 7 through Saturday morning Nov 14, 2026. Gadgets, tech, AI and devices only.</itunes:summary>
+      <itunes:author>Augusto Restrepo</itunes:author>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/techdigest-2026-11-14-9e2d1111.mp3" length="32602860" type="audio/mpeg"/>
+      <guid isPermaLink="false">aefm-share-techdigest-2026-11-14-9e2d1111</guid>
+      <pubDate>Sat, 14 Nov 2026 08:39:02 -0500</pubDate>
+      <itunes:duration>00:45:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/techdigest-2026-11-14-9e2d1111/transcript.txt" type="text/plain" language="en"/>
+      <podcast:chapters url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/techdigest-2026-11-14-9e2d1111/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Six Days That Toppled Jensen, and Who Holds the Keys Now</title>
       <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/all-in-weekly-2026-11-14-e127ebe1/</link>

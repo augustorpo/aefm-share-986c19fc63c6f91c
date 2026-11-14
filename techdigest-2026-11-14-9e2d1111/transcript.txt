@@ -1,0 +1,387 @@
+Sam: Nora, this week Nvidia lost its CEO, Apple shipped a smart display, and somebody finally sold a robot whose only job is to pass the butter.
+Nora: And it can't pass the butter.
+Sam: It cannot pass the butter. We'll get there.
+Nora: Okay, start with the one nobody saw coming. Jensen Huang is out.
+Sam: Out. Thursday, Nvidia's board announced he resigned as president, CEO, and board member, effective immediately. CFO Colette Kress is interim CEO.
+Nora: The leather jacket era, over in a press release.
+Sam: Over in a press release with no quote from Jensen. We'll do what that means for chips and gadgets in a few minutes. Then the HomeView deep dive, because Apple's first smart display went on sale yesterday.
+Nora: Then Hype versus Reality on Googlebooks, the mailbag, and the butter robot.
+Sam: Welcome to the Signal and Noise Tech Digest. I'm Sam.
+Nora: I'm Nora. Our window is Saturday the seventh through this morning. Quick hits first.
+
+Sam: Quick hits. Rapid fire. Nora, you take the flying one.
+Nora: Ring finally has a flying camera. For real this time, says The Verge. The Ring Drone Cam. Two forty-nine ninety-nine. Ships January twenty-seventh, pending FCC certification.
+Sam: Didn't they announce this, like, six years ago?
+Nora: The Always Home Cam, yes, almost six years ago. This one is part of a new Ring Robotics line. It's tiny, about a hundred sixty-five grams. A 2K camera on the front, a 1080p camera underneath, little spotlights. When a Ring sensor trips, a door opens, a leak, an alarm, it flies a preset route and livestreams to your phone.
+Sam: And then it goes back to its dock.
+Nora: After about eight minutes of flight, per CNBC. And everyone who saw it says it buzzes. Loudly.
+Sam: So the burglar hears it coming.
+Nora: Ring's pitch is the opposite. Moving lights in a dark house look like a security guard with a flashlight.
+Sam: Or a very angry bumblebee with a flashlight.
+Nora: And with drones under a lot of scrutiny right now, Ring founder Jamie Siminoff told The Verge it's assembled in the US and complies with FCC rules. It still needs that certification before January.
+Nora: The sibling is the Ring Rover Cam. Nine ninety-nine ninety-nine. Ships December sixteenth. It's for businesses, and it's basically the Astro robot, resurrected. The old Astro for Business was twenty-three fifty, so that's about fifty-seven percent cheaper.
+Sam: Astro gets a second life as a mall cop. I love a comeback story.
+Nora: Next. Google's Intelligent Eyewear is up for preorder. Made with Warby Parker and Gentle Monster, no display, camera and speakers and Gemini. Ships December tenth. We've got a caller asking about these in the mailbag, so hold that thought.
+Sam: Holding. Mine: Nothing showed a screenless AI gadget. Per reports, it's a little aluminum thing shaped like a TV remote. Record button, microphone, a green and a red light. That's it. Global launch in December, no price yet.
+Nora: A remote control for your thoughts.
+Sam: Carl Pei's line was "Context is not a chat box." I don't fully know what that means yet. I kind of like it.
+Nora: You like anything aluminum.
+Sam: Guilty. Also flying, but on purpose: HOVERAir launched the VERSA. It's a pocket gimbal camera, about a hundred sixty-three grams, and you click on a Flight Kit and it becomes a palm-launched drone that follows you.
+Nora: So it's a camera that turns into a drone. Price?
+Sam: UK and Europe only for now. The camera plus flight bundle starts at five hundred nineteen pounds. Up to fourteen minutes of flight. Not on sale in the US yet.
+Nora: Two drones in one quick-hits block. That's a trend.
+Sam: Two is a trend on this show. Meta shipped Muse Ember, a small, cheap model for agents doing grunt work. Ten cents per million input tokens, fifty cents per million output. Meta's slogan is "Muse Wonder plans, Muse Ember handles the volume."
+Nora: The intern model.
+Sam: The intern model with a million-token context window. Meta claims it matched Anthropic's Claude Haiku five point five on one popular intelligence index, at about a third of the cost. That's Meta's own benchmark claim. And separately, Meta's Muse agent now runs on Apple Watch and Wear OS.
+Nora: Google Labs has a new experiment called Tabletop. Mashable covered it. It's a shared board for group planning. Trips, potlucks, fantasy leagues. Gemini turns messy links into polls and comparison cards.
+Sam: So it replaces the group chat where nobody answers the poll.
+Nora: In theory. US, eighteen and up, waitlist only. Google's own tagline was about getting your crew from "we should totally do that" to "we're actually doing this."
+Sam: That's the hardest problem in computer science.
+Nora: Unsolved for decades. And then the one a lot of people felt: Microsoft 365 went down. Started midday Thursday, still going Friday morning. Outlook, Teams, Copilot.
+Sam: Oof.
+Nora: Microsoft extended the email timeout to forty-eight hours so mail wouldn't get lost. Its explanation: a fault introduced during an earlier network capacity upgrade. Not a cyberattack. By Friday it said services were restored.
+Sam: Gruber's one-liner: "So it's more like Microsoft 363 at this point."
+Nora: Rude, but fair.
+Sam: Two more. Reddit is testing Reddit Reviews, which turns threads about a product into AI-written review summaries. Joanna Stern tried it. The iPhone Duo page: mixed. Samsung's Frame TV Pro: mixed. Ray-Ban Meta Wayfarers: also mixed.
+Nora: So the internet's verdict on everything is "mixed."
+Sam: Accurate, honestly. And last, keyboard people. Gruber flagged the Altar II mechanical keyboard on Kickstarter. Thin, Mac-first, with a magnetic dial and an amber-red backlight they call NiteLite. Retail will be three fifty. The first-forty-eight-hours early bird was two eighty, about twenty percent off.
+Nora: And he's actually typed on it?
+Sam: No, and he said so. It's preproduction. He liked the original Altar enough to buy one, though, and he said it mostly sat in a drawer.
+Nora: That's a weirdly honest endorsement.
+
+Sam: Okay. Top story. Nvidia.
+Nora: Give me the short version. Just the facts.
+Sam: Last Sunday, reports broke that Jensen Huang had a long relationship with an executive at Megaspeed, a chip reseller. US officials reportedly suspect she was working with Chinese intelligence. On The Vergecast, David Pierce's summary was that Huang admitted the affair but denied giving up any secrets.
+Nora: And then it kept going.
+Sam: Wednesday, The New York Times reported a second relationship, with an Nvidia vice president who reported to him. Reuters later reported a third, with another employee. The board met. Thursday, he resigned.
+Nora: And the export-control side? The smuggling questions?
+Sam: That's a policy and investigations story. We're leaving it to the policy shows. For gadget people, the question is simpler. Does anything change for the chips?
+Nora: What does Nvidia say?
+Sam: The board chair, Harvey Jones, said they expect "operations, customer commitments and product roadmap to continue without interruption." Kress stays CFO while she's interim CEO. The board will look at inside and outside candidates.
+Nora: That's what every board says.
+Sam: It is. And Gruber pushed on exactly that. He said Nvidia doesn't look like Apple after Steve Jobs, a company with a deep bench. He pointed to reports of about sixty direct reports under Huang and no real succession plan.
+Nora: Sixty people reporting to one guy.
+Sam: Gruber also re-linked an old Steve Jobs line from a 2003 interview: "Great things in business are never done by one person. They're done by a team of people."
+Nora: Which is exactly the point he's making about Nvidia.
+Sam: Right. And the market noticed. Gruber noted that by Thursday morning, Nvidia had slipped from the world's most valuable company to number two.
+Sam: And there's an old quote from Huang himself, on stage at Y Combinator a few months back. Gruber dug it up. Huang said that when he dies on the job someday, quote, "they'll just have to reshape the company for the next CEO."
+Nora: Well. That day came early.
+Sam: Without the dying part, thankfully. Then the betting started. Semafor reported Apple's hardware chief Johny Srouji was one name being considered.
+Nora: Johny Srouji? Leaving Apple?
+Sam: Gruber thinks that's very unlikely. His line was that Nvidia leaking Srouji's name is "like someone in hell saying they're considering ordering some ice water."
+Nora: Okay, that one's good.
+Sam: Joanna Stern listed other names floating around: AMD's Lisa Su, Arm's Rene Haas, Nvidia's own Ian Buck. Her own pick, in her newsletter, was "Next Nvidia CEO: a robot."
+Nora: Honestly? Strong candidate.
+Sam: Her best line was the serious one: "The hardest thing to control in the age of artificial intelligence might not be the machines. It might be the humans."
+Nora: And inside the company?
+Sam: Wired reported an internal post asking the board to weigh employee sentiment. It drew more than sixteen hundred comments, some asking for a way to bring Huang back.
+Nora: So, my skeptic question. If you're buying a graphics card for Christmas, should you care?
+Sam: Not this month. The products are designed years ahead. The real tell is Tuesday, November seventeenth. Nvidia reports earnings as scheduled, and that call is the first time we hear Kress run the show.
+Nora: And longer term?
+Sam: Longer term, The Verge points out that Meta, OpenAI, and Anthropic are all building their own chips partly to depend less on Nvidia. A wobbly Nvidia gives that work a reason to speed up.
+Nora: Okay. Fair. Moving on to something you can actually put on a kitchen counter.
+
+Nora: Deep dive. Apple HomeView. On sale as of yesterday, Friday the thirteenth.
+Sam: Friday the thirteenth. Bold launch date.
+Nora: Very bold. The basics, from Apple's Newsroom. Two ninety-nine. Two versions: a tabletop one with a speaker base, and a wall-mounted one. Both two ninety-nine.
+Sam: What does it look like?
+Nora: A seven-inch square screen on an aluminum speaker base, with a stainless steel tilting hinge. Silver, starlight, rose pink, space gray. It's in the US, the UK, Canada, Australia, India, New Zealand, and Singapore.
+Sam: Seven inches. That's small.
+Nora: Smaller than you'd think. Tom's Guide measured it: because of the bezels, the usable screen is closer to six and a half inches. It's sharp, though, two hundred twenty pixels per inch, and it goes from very dim to five hundred nits automatically.
+Sam: And the speaker?
+Nora: Two full-range drivers and a down-firing woofer. Tom's Guide said the bass was stronger than they expected from something smaller than a HomePod mini. The Verge also said it sounds great for its size.
+Sam: So it's a good speaker that also has a screen.
+Nora: That's one way to see it. Apple pitches it for the kitchen counter, the nightstand, or a side table.
+Sam: Not Europe?
+Nora: Not the EU. Apple says Siri AI isn't available on iOS there yet, so no HomeView either.
+Sam: And the wall version is the same price. That sounds like a deal.
+Nora: It sounds like one. The wall version doesn't come with a mount or a power adapter. Mounts are from Schneider: a USB-C one at fifty-nine ninety-five, a hardwired AC one at seventy-nine ninety-five, and a Power over Ethernet one at a hundred twenty-nine ninety-five, coming early next year.
+Sam: So what does the wall version really cost?
+Nora: Jennifer Pattison Tuohy at The Verge did that math. Add Apple's power brick and you're at about four hundred. That's about thirty-four percent more than the tabletop one, for a device with fewer speakers.
+Sam: Hmm.
+Nora: Her words: "Apple should have included a wall mount and adapter or dropped the price."
+Sam: Okay, but is it good?
+Nora: Her headline: "my new favorite smart display — but not my daughter's." She said it nails the core jobs. Fast smart home control. Excellent guided cooking. Gorgeous clock faces. Good sound for the size. Great photo frame.
+Sam: That's a lot of yes.
+Nora: Then the "but." It knows who's standing in front of it and pulls up that person's stuff. In her house, that meant she could read her daughter's text messages.
+Sam: Ah. That's a dealbreaker for a lot of families.
+Nora: She said so. And on Siri AI: "if Siri AI were a human personal assistant, I'd probably fire her for being too slow."
+Sam: Ouch.
+Nora: Joanna Stern got almost the same result. Her review opens, quote, "In more than fifteen years of reviewing gadgets, I've never seriously considered crying over one. Until now."
+Sam: Happy tears or sad tears?
+Nora: Her newsletter was titled "HomeView review: Siri sadness." So, sad. She tested Apple's three big promises. Family recognition, the smart home, and Siri AI as a real assistant. Her NBC version sums it up: it knows who's who and runs the house, but Siri got stuck on basic math.
+Sam: Basic math. On a twenty twenty-six AI device.
+Nora: Her bigger point: this is the season of first-generation Apple products. The Duo, now HomeView. Same story both times: "Apple's impressive hardware is waiting for its software to catch up."
+Sam: And I heard she dressed up as the dad from the ad.
+Nora: She did. A character named Vincent, from Apple's HomeView launch ad. She says there was a scientific-ish reason. You have to watch the video. We only read the free part of the newsletter, so we can't tell you what the reason was.
+Sam: Mystery preserved. What about Tom's Guide?
+Nora: Harsher. They said Siri still isn't as good as Alexa Plus or Gemini. Fewer streaming apps than Amazon's displays. And no physical button to turn off the camera or mic. They also mentioned reports that HomeView sat in a warehouse for the better part of a year, which might explain why it runs on an A eighteen and not something newer.
+Sam: So the hardware has been waiting for Siri.
+Nora: Pretty much. On The Vergecast on Thursday, Jen Tuohy summed it up as very good at one job and not so much at the other. The smart home controller part is great. The family computer part, not yet.
+Sam: Let me ask the boring question. Who should skip it?
+Nora: Android households, obviously, since it's built around your iPhone. People in the EU, since they can't buy it. And anyone who wants the big family calendar on the wall. The Verge says that's still Skylight's territory.
+Sam: And people who just want a speaker?
+Nora: A HomePod mini is cheaper. You'd be paying for a screen you don't need.
+Sam: Okay, my bull case. Two ninety-nine is cheap for Apple. The Verge says it's the least expensive Apple device with a screen, after the Apple Watch SE. If you're already all-in on Apple Home, it's the nicest controller they've ever made.
+Nora: For the smart home, I agree. For the "family iPhone" pitch, I'd wait for a software update.
+Sam: And the future?
+Nora: Gurman reported back in October that Apple's working on a bigger one. A nine-inch screen on a robotic arm that can swivel all the way around. He expects it in twenty twenty-seven or twenty twenty-eight.
+Sam: A screen that turns to look at you. Very normal.
+Nora: Totally normal. We have someone on the line who installs this stuff for a living. Marisol, you're on the Tech Digest.
+
+Marisol: Hi Nora! Thanks for having me. I set up smart homes in Phoenix. Mostly lighting, locks, and those wall tablets people put by the garage door.
+Nora: So the wall-mounted HomeView is your world. What's the first thing you'd tell a customer?
+Marisol: Read the fine print on the box. Same two ninety-nine sticker, but the wall one doesn't come with a mount or a power brick. Like The Verge said, you're closer to four hundred before I've even picked up a drill.
+Nora: And which mount would you pick?
+Marisol: For most people, the USB-C one. It's two screws, the cable runs down the wall, and The Verge says the magnets are strong enough that nobody's knocking it off. The hardwired AC mount looks cleaner, but Tom's Guide is right, you probably want an electrician for that one. That's a separate bill.
+Nora: And Power over Ethernet?
+Marisol: That's the one I'm excited about. One cable for power and data, really tidy. But it's not out until early next year. So if you're doing a remodel right now, I'd run the Ethernet cable now and wait.
+Nora: Smart. What about the privacy thing, seeing your kid's texts?
+Marisol: That's the conversation I'd have with every family before I mount it. A screen in the kitchen that shows personal stuff is a household decision, not a gadget decision. Until Apple adds a way to turn some of that off, I'd put the wall one in a hallway or the kitchen and keep it to home controls.
+Nora: And is it better than the Amazon screens you already install?
+Marisol: For iPhone households, controlling the home is smoother. For people who want a family calendar on the wall, The Verge says Skylight still owns that. And Tom's Guide says Amazon's displays still do more. So it really depends on which phone is in your pocket.
+Nora: Marisol, that's super practical. Thank you.
+Marisol: Anytime! Run the cable now, thank me later.
+
+Sam: Quick check-in. So far: Nvidia without its founder, and HomeView, a great home controller with slow Siri.
+Nora: Still to come: Googlebooks two months later, Gurman on a more agentic Siri, Marques on the OLED MacBook Pro, the Cybertruck's very confusing goodbye, a caller asking about Google's new glasses, and the robot that can't pass the butter.
+Sam: Plenty left. Let's go.
+
+Nora: Hype versus Reality. Googlebooks.
+Sam: My pick. Rewind to late September. The Vergecast's pitch for the episode, and I'm reading the blurb: "Googlebooks are coming for your Mac." Laptops from Dell, Lenovo, HP, Acer, and Asus running Googlebook OS. The blurb called them "Chromebooks evolved with an Android elemental stone."
+Nora: Elemental stone. Very fantasy novel.
+Sam: The promises were deep Android phone integration, Gemini everywhere, Android apps running natively, and a light strip on the lid called the Glowbar. On sale in early October, give or take.
+Nora: So what happened?
+Sam: Reviews, Nora. Engadget's Devindra Hardawar reviewed the Dell XPS Googlebook. Six point five out of ten. Headline: "Beautiful hardware for a useless platform."
+Nora: Oof.
+Sam: His main complaint was apps. Slack only ran as the phone app, one channel at a time. Evernote wasn't in the Play Store. Resizing a photo turned into an odyssey through several apps. And CapCut, sitting in the background doing nothing, drained half his battery in an hour.
+Nora: Half the battery. In the background.
+Sam: Even though the benchmark battery number was good, about fifteen hours. And price: the XPS Googlebook is nine ninety-nine. The Windows XPS thirteen with the same hardware is also nine ninety-nine. Zero percent difference.
+Nora: Same price, fewer apps.
+Sam: His words were something close to, why pay to be a beta tester.
+
+Nora: Is anybody defending it?
+Sam: Yes, and it's worth hearing. Robby Payne at Chrome Unboxed wrote after a month that the pile-on was a framing error. Don't judge it as a MacBook Pro rival. Judge it as the next Chromebook.
+Nora: Does that framing actually help?
+Sam: Somewhat. He says the hardware is gorgeous. OLED panels, great trackpads, and the phone integration with Android is excellent. Shared files, notification sync, picking up where you left off.
+Nora: And the catch?
+Sam: He had a long list. Virtual desks you can't really organize, a Files app with no folder tree, Chrome quirks, because Chrome now sits on top of Android. He said, "it feels like Googlebooks left too much of ChromeOS behind."
+Nora: So that's what the fans think.
+Sam: Right. And then the fixes. TechRepublic reported a November update fixing about thirty issues. Zoom crashes with virtual backgrounds, Bluetooth mice not reconnecting, external display black screens. And on some sixteen-gig models, it frees up somewhere between three and six gigs of RAM that the on-device AI was holding onto.
+Nora: Wait. The AI was eating six gigs of RAM?
+Sam: Up to. On some models. That's the fix.
+Nora: Anything Engadget actually liked, software-wise?
+Sam: One thing. Rambler, Google's AI dictation. You talk naturally, and it strips out the ums and formats the text. His complaint was that it shows a purple waveform instead of your words as you talk, which makes it hard to keep your train of thought.
+Nora: So the best feature is the one where you don't have to look at the screen.
+Sam: Kind of, yeah. And Chrome Unboxed mentioned a detachable Lenovo model, the Googlebook Duet M, coming later, which is more for the Chromebook-tablet crowd.
+Nora: And sales?
+Sam: We couldn't find any sales numbers. Nothing from Google or the laptop makers. So we're not guessing.
+Nora: Okay. Verdict.
+Sam: Promise: an Android-powered successor to the Chromebook that competes with the Mac. Reality two months in: great hardware, software still getting fixed, and the "competes with the Mac" part isn't there. Business features, the IT department controls, aren't expected until the second half of next year.
+Nora: My verdict: the hype was about the Mac. The reality is a good Chromebook-plus for Android families who mostly live in a browser.
+Sam: Gavel?
+Nora: Gavel.
+
+Sam: Source roundup. Let's walk around the neighborhood. Vergecast first.
+Nora: A busy week for them. Monday was a fun one. Janko Roettgers on private torrent trackers, where groups of fans curate huge movie, music, and TV collections. Some people, the blurb says, "are saving culture and some people are just in it for the flicks."
+Sam: Ha.
+Nora: Tuesday was Liz Lopatto explaining the Huang scandal. Thursday was the emergency episode-within-an-episode on his resignation, plus the HomeView review we just covered. Wednesday, nothing new in the feed that we could find.
+Sam: And Friday?
+Nora: Friday, David and Nilay did the Nvidia story first, and then streaming. Every streaming service suddenly wants a scrolling feed of vertical videos in its app. Paramount, Disney, Peacock, Tubi. Micro-dramas, free tiers.
+Sam: Everyone wants to be TikTok.
+Nora: Their shorthand was that streaming is still trying to be TikTok. Will it work? The episode page says "Probably not." Is it the only rational thing to try? "You bet."
+Sam: That's kind of a perfect summary.
+Nora: One of them joked that the future of Hollywood is paying five hundred dollars a month in subscriptions to watch a show on TV while scrolling clips of that same show on your phone.
+Sam: I feel attacked. I've done exactly that.
+Nora: Gruber found a Peacock press release with the headline "Peacock Extends Its Vertical Video Leadership," and asked whether someone printed hats that say "Vertical Video Leadership."
+Sam: I would wear that hat. Ironically.
+Nora: The lightning round was about the Cybertruck era ending, and Zuckerberg's AI experiments, including smoked meat. Which, by the way, was Zuck's livestream last month with his Muse agent keeping an eye on the smoker.
+Sam: The meat smoked itself.
+Nora: Allegedly.
+Sam: Anything else from Vergecast land?
+Nora: Ring's Drone Cam hands-on was theirs too, and the Googlebook pitch from September was theirs, so they show up all over this episode.
+
+Sam: Joanna Stern. We already used her HomeView review and her robot-CEO column. What else?
+Nora: Two things. The Reddit Reviews test I mentioned. Her example from the iPhone Duo page was a bullet that said "Touch ID is a downgrade from Face ID."
+Sam: Reddit and AI agreeing on something. History.
+Nora: And her "Old Thing" segment, where a reader writes in about an old gadget. This week was the Nokia N800, a 2007 internet tablet with a pull-out stylus and a pop-out camera. Joanna's note: it was announced the same week as the original iPhone. Nokia at CES, iPhone at Macworld.
+Sam: Same week. Imagine being the N800 team that week.
+Nora: Brutal. She also teased a perfume for your smelly laptop. We only saw the teaser, so we're not going to guess which one.
+Sam: Laptops have a smell?
+Nora: Yours does. Trust me.
+Sam: Rude. Any fun facts? She always has a fun fact.
+Nora: Two. Thursday's: a company in China launched thirty-three thousand six hundred fifteen drones at once this year and set three world records. A lot of the images were pandas. Her joke was, "Drone shows… coming to a kitchen near you." Fitting, in an issue that also covered Ring's drone.
+Sam: Ha. And the other?
+Nora: Friday's: right after Amazon launched in 1995, it added customer reviews, and reviews were so new that Amazon literally had to put out a press release explaining what they were.
+Sam: And now AI writes the review of the reviews.
+Nora: Full circle.
+
+Sam: Marques. Wednesday's video: "Macbook PROLED Review: It's Not About That."
+Nora: "That" being the touchscreen.
+Sam: Exactly. We went through the readable summary of the video, so this is a paraphrase. The more time he spent with it, the less he touched the screen. He ranks touch near the bottom of the reasons to buy one.
+Nora: So what's at the top?
+Sam: The tandem OLED. He calls it the best display he's seen in any laptop. A thousand nits full-screen sustained, two thousand peak, no blooming. And for people who do color work, he says the screen alone justifies the four-hundred-dollar step up from the mini-LED version.
+Nora: Reason number two?
+Sam: Weight. Half a pound lighter on the fourteen, point seven pounds on the sixteen. He ran long benchmarks against the older sixteen-inch with the same chip, and sustained performance came out basically identical. The fans just spin a bit harder.
+Nora: And the touch part?
+Sam: Responsive, he says, maybe the most responsive touchscreen laptop he's tried. But no Apple Pencil support, and the hinge doesn't fold back any further. He called it checking a box.
+Nora: What about the matte screen option, nano-texture? People always ask about that.
+Sam: He usually buys nano-texture because he edits in hotel lobbies and on planes. This time he says it's a harder call. It slightly cuts contrast and sharpness, which matters more on an OLED with those deep blacks. Fingers glide better on it, but it holds onto finger oil. So, be sure before you pay for it.
+Nora: And the glowing logo?
+Sam: It's back, it lights up with the display, and you can turn it off with a Terminal command. And one stat I liked: the new fourteen-inch is now lighter than the fifteen-inch MacBook Air.
+Nora: Wait, really?
+Sam: That's what he said. He's leaning toward the sixteen now because it's so much lighter.
+Nora: Anything else on the Google side from Waveform?
+Sam: A Pixel update with more Gemini features, custom icon styles, and a Highlight feature in Google Messages. They grumbled that Highlight is hard to find inside the app.
+Nora: Classic Google. Ship it, then hide it.
+Nora: Fair.
+Sam: Fun detail: there's now a sixteen-terabyte SSD option for seven thousand dollars.
+Nora: For the SSD alone? Who's buying that?
+Sam: Somebody with a lot of 8K footage. And now Waveform, Friday's episode. Three big ones. First, the Cybertruck.
+Nora: Okay, I need the timeline. It's been a lot.
+Sam: November sixth, Musk said Tesla would wind down Cybertruck production in Texas around the middle of next year to make room for the Cybercab.
+Nora: The robotaxi.
+Sam: November ninth, he said about eight months, and that Tesla would have to return a lot of deposits. Then Wednesday, November eleventh, he extended it "through the end of summer twenty twenty-seven" to work through the order backlog.
+Nora: Three end dates in five days. Electrek's line, I think.
+Sam: Yep. Fred Lambert at Electrek says the truck was selling at roughly thirty thousand a year, about ten percent of the two hundred fifty thousand Tesla planned. And on the same day, prices went up. The cheapest Cybertruck you can order now is ninety-two thousand four ninety, up from sixty-nine ninety-nine in early August.
+Nora: That's a lot.
+Sam: About thirty-two percent more.
+
+Nora: For a truck that's being discontinued.
+Sam: And the fans are not thrilled. One well-known Tesla tester, Chuck Cook, replied to Musk, "Cybercab won't haul my bees."
+Nora: That's a real quote?
+Sam: Real quote, via Electrek. And Unplugged Performance, the big Tesla tuner, offered to take over the Cybertruck line and pay a license fee.
+Nora: Somebody wants it, at least.
+Sam: The Waveform crew talked through how far it fell short of the original high-volume pitch, and even quizzed each other on sales numbers. And Gruber linked an Electrek piece noting that seven of the fourteen Tesla executives who presented at its 2023 Investor Day are gone.
+Nora: Second big one?
+Sam: Ring's robots. The Waveform crew were skeptical. Does a buzzing drone actually scare off a burglar? What happens when a door is closed? Is this better for businesses than homes? And they've used Amazon's Astro in the studio. Their memory is navigation and docking trouble.
+Nora: So, not sold.
+Sam: They did have one practical idea: using the drone to check on things, like whether you left the stove on. But eight minutes of flight and closed doors limit it.
+Nora: A flying "did I leave the stove on" button. I'd actually buy that.
+Sam: Not sold. Third: one of them demoed Google's glasses, which we'll save for the mailbag. And David Imel did Adobe Max. Adobe showed a creative agent that does tasks inside its apps and shows you each step. The crew liked AI for tedious stuff like masking. Less so for AI making the creative decisions.
+Nora: That's the right line.
+Sam: The features they listed were the kind of things editors actually want. Relighting and object removal in photos, depth maps, separating dialogue from background audio, new color tools in Premiere. And a feature that adds popular music, with limits on commercial use.
+Nora: The audio separation one I'd use.
+Sam: Me too. Oh, and at the top of the episode, they mourned Arc, the browser. Its support is winding down, and they talked about the other browsers copying Arc's spaces and tab tricks, and how hard it is to make money from a browser at all.
+Nora: Arc fans are a passionate group.
+Sam: Very passionate. As we said last week, Arc support ends December twenty-second.
+Sam: And the trivia. Who coined the term GPU? They said Sony, for the original PlayStation, with silicon designed by Toshiba.
+Nora: So not Nvidia.
+Sam: Not Nvidia. Rough week to learn that.
+
+Nora: Gurman. Power On is paywalled, so this is through MacRumors and The Verge.
+Sam: The big one: Siri.
+Nora: Siri. Gurman says CEO John Ternus told software chief Craig Federighi in a closed-door meeting that Apple needs to "accelerate" its software roadmap, and to move quickly beyond just fixing Siri.
+Sam: Strong words for Apple.
+Nora: And Gurman thinks Siri could become, his words, "more like an agent" as early as next year. One that tracks goals and keeps going without you starting every step. He name-checked OpenAI's Dots, Meta's Muse, and Grok as the ones already doing that.
+Sam: What's coming sooner?
+Nora: Per The Verge's write-up: with iOS twenty-seven point three, Siri gets finer control of Apple's own apps. Rotating and cropping in Photos, organizing Safari tabs. Third-party app control comes in the spring. Ordering on Grubhub, booking on OpenTable.
+Sam: And the team side?
+Nora: Two items. Gurman says Mike Rockwell, who runs Siri engineering, "continues to seriously consider stepping down." And Apple changed how it builds iOS twenty-eight. The first stage used to be four weeks of coding, then four weeks of what they call convergence. Now it's six weeks to build and explore, then two weeks to pull it together.
+Sam: More time to try ideas. That's a good sign, honestly.
+Nora: MacRumors says employees like it. We'll see what shows up in June.
+Sam: Gruber, quickly, the non-Nvidia stuff. Apple shut down its old Apple Support Community message boards. He quoted Jason Snell calling them "an embarrassment for Apple," because they ranked high in search and looked official. Gruber's whole comment: "Good riddance."
+Nora: Short and sweet.
+Sam: He linked two iPhone Duo reviews. Austin Mann's, mostly about the camera. Gruber's takeaway: the Duo's main camera is really good, and the camera is not a reason to skip a Duo. And Quinn Nelson's, titled "The iPhone Duo Doesn't Feel Like an iPhone," which Gruber called "a really good and fair Duo review."
+Nora: And Safari?
+Sam: Via Nick Heer at Pixel Envy, Safari twenty-seven point three quietly adds Global Privacy Control. Basically a Do Not Track that has legal teeth in some places. The hope is you set your preference once and stop seeing so many cookie banners.
+Nora: Fewer cookie banners. Now that's a feature.
+Sam: One more I liked. Steven Levy at Wired, on John Ternus. Back in 2015, Levy spent a day with him at Apple's input design lab, where Ternus ran what Levy called a "Javert-like" investigation into a weird sound a redesigned mouse made sliding on a table.
+Nora: The mouse squeak detective.
+Sam: And when Levy asked which non-Apple CEOs he admires, Ternus was stumped. "I haven't really thought about that." Gruber's takeaway: Ternus is a deep Apple insider.
+Nora: Quite a contrast with the Nvidia story.
+Sam: A very different week for him.
+
+Sam: Mashable. We used their Tabletop story already. What else?
+Nora: Disney launched a new app, the Imagineering Labs app, to get you off your phone at the parks.
+Sam: An app. To use your phone less.
+Nora: Mashable caught that too. Right now it's a Star Wars Galaxy's Edge game for some annual passholders. The interesting part comes later: an AI guide where you can ask about wait times, and set an alert for when a line drops below a certain time.
+Sam: Okay, that's actually useful. Phone in your pocket until it dings.
+Nora: Until it dings. But it doesn't replace the main Disney apps, so you might still bounce between two apps to book a ride. And there's a Meta Ray-Ban glasses tie-in, which doesn't exactly scream "put your devices away."
+Sam: Phones off, glasses on. Got it.
+
+Nora: Last stretch. Still to come: a caller on Google's glasses, three takeaways and the dates to watch, and Dr. Helix Crane is back.
+Sam: With a robot.
+Nora: With a very sad robot.
+
+Sam: Listener Mailbag. Keisha, you're on the Tech Digest.
+Keisha: Hey Sam! So, I wear glasses every single day, and my Warby Parkers are due for a new prescription. Should I preorder Google's Intelligent Eyewear instead of regular frames?
+Sam: Great timing for the question. First, what they are. They're audio-and-camera glasses. No screen in the lens. Twelve-megapixel ultrawide camera, open-ear speakers, four microphones, and Gemini. You say "Hey Gemini" or tap the side.
+Keisha: No screen at all?
+Sam: None. That matters. Waveform brought up live translation. You hear the other person translated, in over seventy languages, but they don't hear you translated back. So it's great for menus and signs, harder for a real two-way chat.
+Keisha: Okay. And price? Because regular frames aren't cheap either.
+Sam: Warby Parker models start at three ninety-five. Three styles: Alden, Reid, and Wren. Gentle Monster starts at four forty-nine, about fourteen percent more, in louder colors. Preorders opened Thursday. They ship December tenth. Warby Parker is US-only.
+Keisha: Can I get my prescription in them?
+Sam: The announcement covers optical and sun styles at Warby Parker, and prescription options for most Gentle Monster frames. I'd confirm your exact prescription with them before you pay. We don't have their lens pricing.
+Keisha: Battery? I'd wear them all day.
+Sam: Google says nine hours, and the case holds seven more full charges. They weigh around forty to forty-four grams. Splash resistant, IPX4. And they work with iPhone too, iPhone thirteen Pro or newer, plus Pixel and Galaxy phones.
+Keisha: What about people around me? I don't want to be the creepy camera person.
+Sam: Fair worry. Google's answers: a white light when you take a photo or video, and recording stops if the light is covered. A physical switch to turn the smart stuff off and just wear them as glasses. And bystanders' faces get blurred before Gemini looks at an image.
+Keisha: Do the Waveform people buy that?
+Sam: They questioned how well rules like that work in real life. And the social discomfort of camera glasses doesn't go away because of a spec sheet.
+Keisha: Who actually makes them? Google, Warby, or Gentle Monster?
+Sam: All of the above, plus Samsung. Samsung engineered the hardware and announced the same lineup the same day. A few details from Samsung's announcement: they're for adults only, eighteen and up, with age verification when you activate them. They're around forty-one grams. And on a Galaxy phone, some of the processing runs on the phone, and you also get Bixby.
+Keisha: And on an iPhone?
+Sam: Samsung's fine print says iPhone thirteen or later with at least six gigs of memory, which in practice means the thirteen Pro and up. Google's own write-up says the same.
+Keisha: Good thing I checked. My partner has a regular thirteen.
+Keisha: So, buy or wait?
+Sam: My answer. If you'd buy new frames anyway, you love the idea of hands-free photos, music, and asking Gemini about what you're looking at, and you're okay being an early adopter, preorder a Warby pair and use the return window hard. If what you really want is directions or captions floating in front of your eyes, wait. The Waveform crew talked about a future version with a display, and that's the one that changes navigation and translation.
+Keisha: And if I'm just not sure?
+Sam: Then buy the normal frames, and try these on in a store after December tenth. Glasses are about your face first and Gemini second.
+Keisha: Face first. Got it. Thanks, Sam!
+Sam: Thanks, Keisha.
+
+Nora: Before takeaways, shopping math. On this show, every price comparison gets a percent. Let's line them up.
+Sam: Go.
+Nora: HomeView on the wall: about four hundred all in, versus two ninety-nine on the counter. About thirty-four percent more.
+Sam: Ring's Rover Cam: nine ninety-nine, versus twenty-three fifty for the old Astro for Business. About fifty-seven percent less.
+Nora: Google's glasses: Gentle Monster from four forty-nine, versus Warby Parker from three ninety-five. About fourteen percent more for the bolder frames.
+Sam: Dell's XPS Googlebook: nine ninety-nine, same as the Windows XPS thirteen. Zero percent. You're picking an operating system, not a price.
+Nora: The Cybertruck: ninety-two four ninety now, versus sixty-nine ninety-nine in August. About thirty-two percent more, for a truck that's on its way out.
+Sam: The Altar II keyboard: two eighty early bird versus three fifty retail. About twenty percent off, for a keyboard nobody's reviewed yet.
+Nora: And the OLED MacBook Pro: four hundred dollars over the mini-LED version. Marques says the screen alone is worth it if you do color work.
+Sam: And the Butter Bot, which Dr. Crane will do the math on himself.
+Nora: Obviously. The pattern this week: the sticker price is rarely the real price. Mounts, bricks, frames, and early-bird windows change the math.
+Sam: Write that on the fridge. Or on a HomeView.
+
+Nora: Three takeaways.
+Sam: One. Nvidia's founder is gone, and the company says the roadmap won't change. The first real test is Tuesday's earnings call. Watch who's talking and what they say about supply.
+Nora: Two. HomeView is a great home controller at two ninety-nine, and an unfinished family computer. The wall version really costs about thirty-four percent more once you add the mount and the brick. Its Siri still needs work.
+Sam: Three. Googlebooks are a reminder that new platforms live or die on their apps. Gorgeous hardware, a thirty-fix update, and still not a Mac rival.
+Nora: Dates. Tuesday, November seventeenth: Nvidia earnings. December tenth: Google's glasses ship. December sixteenth: Ring's Rover Cam. December: Nothing's AI gadget. January twenty-seventh: the Ring Drone Cam, if the FCC says yes. And early next year, the Power over Ethernet mount for HomeView.
+Sam: And end of summer twenty twenty-seven, the last Cybertruck. For now.
+Nora: For now. Until the next post.
+
+Sam: And now, the moment. WHAT of the Week. Nora, you have the inventor.
+Nora: Joining us again from his laboratory, Dr. Helix Crane. Doctor?
+
+Helix: Nora! I have been waiting all week. The poultry was a warm-up. This week, science has given us a machine with one purpose. And it refuses that purpose.
+Nora: The Butter Bot.
+Helix: The Butter Bot! From CircuitMess, officially licensed from Rick and Morty. You know the scene. A tiny robot asks, "What is my purpose?" And Rick says, "You pass butter."
+Nora: And this is a real product.
+Helix: Real, and shipping! The Gadgeteer reported on November twelfth that every Kickstarter backer's bot has shipped, and anyone can now buy one from CircuitMess. Creative Bloq covered it the next day. Two thousand seven hundred fifteen backers. Four hundred forty-one thousand dollars pledged.
+Nora: And does it pass the butter?
+Helix: It does not! According to The Gadgeteer, the little arms are decorative. You ask it, out loud, to pass the butter, and it gives you excuses. Jokes. Complaints. It's an employee who read the job description very carefully.
+
+Nora: Creative Bloq sounded less sure. They said, theoretically, it might.
+Helix: Creative Bloq called it a mystery! I call it artistic integrity. The robot knows the cartoon. In the cartoon, it is miserable.
+Nora: So what does it actually do?
+Helix: Glorious things! It rolls on little caterpillar treads. It has a camera head and recognizes your face. It listens for your voice. It rolls a twenty-sided die for game night. It answers like a Magic 8-Ball. Pair it with your phone and it reads your notifications out loud and warns you when your battery is low.
+Nora: So it's a desk assistant.
+Helix: A desk assistant in an existential crisis! Pick it up and it panics. Shake it and it disapproves. The controller has a button labeled "Poke," and one that tells it to shut up.
+Nora: Every gadget should have that button.
+Helix: Every gadget! Also six snap-on modules: a gas sensor, a motion sensor, LED lights, temperature and humidity, and an infrared blaster that learns your TV remote. So the butter robot can turn on your TV. But not pass the butter.
+Nora: Priorities. Price?
+Helix: Three hundred forty-nine dollars for the retail bundle. Kickstarter backers paid one thirty-nine for the basic pack. So retail is about a hundred fifty-one percent more. Though the retail box includes the controller and all six modules.
+Nora: And the fine print?
+Helix: The controller runs on three AA batteries. Not included. The robot charges over USB-C. Even in the year twenty twenty-six, a butter robot can still send you to the junk drawer for batteries.
+Nora: Rating, Doctor?
+Helix: Five out of five sticks of butter. Not one of which was passed. Deduct nothing. A machine that refuses its only job, and does six other jobs instead, is the most honest gadget of the year. Meanwhile, Ring wants a drone patrolling your hallway, and Nvidia is looking for a new CEO. I say, give the Butter Bot an interview.
+Nora: Dr. Helix Crane, please don't build a butter drone.
+Helix: Too late. It drops the butter from the ceiling. Accuracy is a work in progress.
+Nora: Thank you, Doctor.
+Helix: Pass the butter, Nora!
+
+Sam: That's the Signal and Noise Tech Digest. Thanks to Marisol and Keisha, and to Dr. Helix Crane, for the butter.
+Nora: Run the Ethernet cable now, try the glasses on before you buy them, and don't ask your robot for dairy. I'm Nora.
+Sam: I'm Sam. See you next week.

@@ -1,0 +1,148 @@
+Max: Signal and Noise, special edition. Lena, Anthropic is a public company. Ticker A-N-T. And it just closed its first day at ninety-seven dollars and seventeen cents.
+Lena: Up seventeen percent from the eighty-three dollar IPO price. Which sounds great, until you hear where it opened.
+Max: One eleven fifty. Up thirty-four percent on the very first trade.
+
+Lena: So the stock popped, peaked at one fifteen ten before noon, and then gave back a big chunk of it. It closed about thirteen percent below its opening print.
+Max: And for a few minutes this morning, CNBC had its market value at roughly two trillion dollars. Two. Trillion. On day one.
+Lena: Which is why tonight's question is simple. Was this a triumph or a warning shot? Because both of those stories are sitting in today's tape.
+Max: Here's the plan. First, the deal itself, straight from the final prospectus that hit the SEC this morning. Price, shares, who got paid. Then the full first trading day. Then the business, the bill for all that compute, and who actually controls this company.
+Lena: And then the noise outside. Literally. There were protesters at the Nasdaq doors. And we finish with what to watch from here.
+Max: I'm the bull, as always.
+Lena: And I'm the one holding the calculator. Let's go.
+
+Max: Start with the final prospectus, the four twenty-four B four, dated November eighteenth. Price, eighty-three dollars a share.
+Lena: And the marketed range was seventy to seventy-eight. So they priced six percent above the top of the range, and about twelve percent above the midpoint.
+Max: And they didn't just raise the price. They raised the size. The roadshow plan was eight hundred twenty-five million shares. Final deal, nine hundred eighty million shares. That's about nineteen percent more stock.
+Lena: Higher price and more shares. That's the IPO version of the restaurant adding chairs and raising the menu prices on the same night.
+Max: And people still lined up. Total offering, eighty-one point three four billion dollars.
+
+Lena: Biggest IPO on record. CNBC says it tops SpaceX's June debut, which raised seventy-five billion before the overallotment, and eighty-five point seven billion after.
+Max: Now, careful split here, because it matters. Of those nine hundred eighty million shares, the company itself sold about nine hundred fifty-six million. Selling stockholders sold the other twenty-three point six million or so.
+Lena: And who are the sellers? Per CNBC's read of the prospectus, each of the seven co-founders sold three point three eight million shares, for about one point nine six billion dollars in total.
+Max: Which is small next to the company's take. Proceeds to Anthropic, before expenses, seventy-eight point eight billion dollars.
+Lena: And the banks?
+Max: Underwriting discount, fifty-six cents a share. Five hundred fifty million dollars total.
+Lena: Which sounds enormous, but it's under seven tenths of one percent of the deal. Typical IPO fees run several times that. The banks took a haircut to get their name on the biggest deal ever.
+Max: Goldman Sachs and Morgan Stanley led it, with J-P Morgan, Citi, Barclays, Wells Fargo, BofA and a long list of others. More than twenty banks on the cover.
+Lena: Then there's the greenshoe. Underwriters have an option to buy up to one hundred forty-seven million more shares from the company at eighty-three. That's fifteen percent of the deal, and about twelve point two billion dollars more if they use all of it.
+Max: And then the part I think is the real headline. A concurrent private placement. Twenty-six billion dollars of stock bought at the IPO price by Google, Nvidia, A-M-D, Broadcom, Micron, Microsoft, and T-S-M-C.
+Lena: Google and Nvidia, about ten billion each. A-M-D, two and a half. Broadcom, Micron and Microsoft, a billion each. T-S-M-C, five hundred million.
+Max: So basically the entire A-I supply chain wrote a check on the way in.
+Lena: Or, the suppliers are financing their biggest customer, who then buys their chips. Hold that thought, I'm coming back to it.
+Max: Put it all together, and the company says net proceeds from the IPO plus the private placement come to about one hundred four point eight billion dollars. Or about one hundred seventeen billion if the greenshoe is exercised in full.
+Lena: Over a hundred billion dollars of fresh cash. In one deal.
+
+Max: Okay. The tape. Before the bell, there were clues. CNBC reported that perpetual futures on the Hyperliquid exchange were trading above one hundred four, implying a pop of more than twenty-five percent.
+Lena: And let's flag that properly. Those perps are a crypto-based derivative. They don't own a single share. They were a sentiment gauge, nothing more.
+Max: Fair. Then the indications. CNBC sources had it indicated at one oh five, then one ten, then one eleven.
+Lena: And the first trade came in at one eleven fifty. Up thirty-four percent from eighty-three.
+Max: And it kept going. Intraday high, one fifteen ten, just before noon Eastern, according to Benzinga. That's up almost thirty-nine percent from the IPO price.
+
+Lena: And then, the slide. The low of the day was ninety-two seventy-two, per Investing dot com's quote page.
+Max: Still up about twelve percent from the IPO price at the low.
+Lena: Yes, but down nineteen percent from the high. Same day.
+Max: Close, ninety-seven seventeen. Up seventeen point one percent from eighty-three.
+Lena: And volume. CNBC says more than eight hundred forty-six million shares changed hands. SpaceX's whole first day was five hundred twenty-two million.
+Max: Eight forty-six million. The entire IPO was nine hundred eighty million shares. So almost the whole offering's worth of stock traded in one session.
+Lena: That's what you get when roughly half of the institutions that put in orders got nothing. CNBC's sources say Anthropic allocated to investors it already had relationships with, and about half the firms that bid were left empty-handed. Retail allocation came in around fifteen percent, versus the twenty percent it had estimated earlier.
+Max: So a lot of buyers who got shut out of the deal bought at the open.
+Lena: At the top. Which is exactly why it faded. The people who bought at one eleven fifty or one fifteen are down double digits on their first day as shareholders.
+Max: And the people who got it at eighty-three are up seventeen percent. Both true.
+Lena: Both true. One more number. After the close, Investing dot com showed it around ninety-five ninety-three in early after-hours trading, a little more than one percent under the close. Early, thin, don't read too much into it.
+Max: Now value. CNBC says that at the close, the fully diluted market cap was about one point seven five trillion dollars. At the open it was a little over two trillion.
+Lena: And let me add the simpler math, because the share count matters. The prospectus says about thirteen point two billion shares, all classes, are outstanding after the deal. Times ninety-seven seventeen, that's about one point two eight trillion.
+Max: And the gap between the two is the options and stock awards that a fully diluted count includes.
+Lena: Right. So when you hear "one point five trillion at pricing," that's the press figure on a diluted basis. Different counts, different headlines. Same company.
+Max: Either way, CNBC says it makes Anthropic the tenth U.S. tech company currently worth a trillion dollars or more.
+Lena: Founded in twenty twenty-one.
+
+Max: Quick reset if you're just joining. Priced at eighty-three, opened at one eleven fifty, closed at ninety-seven seventeen, up seventeen percent. Now, why would anyone pay that? Revenue.
+Lena: Here we go.
+Max: Nine months ended September thirtieth, twenty twenty-six. Revenue, thirty-three point two billion dollars. Same nine months last year, two point five billion. That's about thirteen times. CNBC calls it up roughly twelve hundred percent.
+Lena: And for scale, all of twenty twenty-five was four point six billion. Twenty twenty-four, three hundred eighty-six million.
+Max: And the October update is wilder. The company says run-rate revenue was about eighty-one billion dollars as of October thirty-first. Up ten billion from the end of September. In one month.
+
+Lena: Okay, run-rate is the company's own metric, an annualized snapshot, not twelve months of booked revenue. But yes. Up ten billion in a month is not normal.
+Max: And customers. Accounts paying a hundred thousand dollars or more over the trailing twelve months went from about nine hundred fifty to more than eleven thousand nine hundred in a year.
+Lena: Now my turn. Net loss for those nine months, one hundred four billion dollars.
+Max: Lena.
+Lena: One hundred and four billion. Up from twenty-five point one billion a year earlier.
+Max: Tell them where it comes from.
+Lena: I will, because it matters. Ninety-four point three billion of it is the change in fair value of convertible notes, derivatives and SAFEs. As Anthropic's valuation went up, what it owed those noteholders got more expensive on paper. It's accounting, not cash out the door.
+Max: The more valuable you get, the more you "lose." Only in GAAP.
+Lena: But the operating line is real, and it's not pretty either. Operating loss for the nine months, one point two six billion. And here's the detail I really want people to hear. In the second quarter they had an operating profit of about nine hundred seventy-four million. In the third quarter, they swung back to an operating loss of five hundred sixty-seven million.
+Max: And the filing explains it. Five billion dollars of compute bought on short-term commitments, which costs a lot more than their multi-year deals, plus two billion of non-cash charges tied to a donation matching program.
+Lena: So the reason is, demand grew faster than their cheap capacity, and they had to rent the expensive stuff at spot prices.
+Max: Which is the best kind of problem.
+Lena: It's still a problem. Compute and infrastructure cost, eighteen point eight billion in nine months. Sales and marketing jumped from about three hundred million to five and a half billion. This machine eats money.
+Max: About fifty-three hundred employees as of September. The prospectus says trailing revenue per employee was over six point six million dollars. And, fun fact, employees are called "Ants" internally.
+Lena: Ticker A-N-T. Someone in branding had a good year.
+
+Max: So let's talk about the bill. Because Lena's been waiting.
+Lena: I have. The prospectus says that, as of and after September thirtieth, Anthropic has purchase commitments and leases adding up to about nine hundred billion dollars. Nine hundred point nine billion, to be exact. Substantially all of it compute and infrastructure.
+
+Max: And about four hundred fifty-two billion of that lands before the end of twenty thirty.
+Lena: So a company with an eighty-one billion dollar run-rate has signed up for roughly nine hundred billion of spending. That's the bet. Demand has to keep compounding to fill all that capacity.
+Max: And the filing is honest about it. It says these are take-or-pay style obligations, and that the risk cuts both ways, capacity shortfalls or underused capacity.
+Lena: Then there's the SpaceX deal. CNBC quotes the prospectus: Anthropic agreed to spend up to one hundred twenty point five billion dollars over terms extending into twenty twenty-nine, about three point one billion a month once all capacity is delivered, which Anthropic expects in December.
+Max: And the chip side runs through everyone. The filing says they train and serve on Google T-P-Us, Nvidia G-P-Us and A-M-D G-P-Us, and shift workloads for price and performance.
+Lena: Which brings me back to my point from earlier. Google, Nvidia, A-M-D, Broadcom, Micron, Microsoft, T-S-M-C. They're suppliers, they're customers or partners, and as of today they're shareholders through that twenty-six billion private placement.
+Max: That's alignment.
+Lena: It's also circular. Money goes from the chip company into Anthropic stock, and comes back as chip orders. I'm not saying it's wrong. I'm saying if growth stalls, everyone in that circle feels it at once.
+Max: And the two biggest outside owners are the clouds. CNBC says the prospectus shows Amazon at fourteen point seven percent of the outstanding stock, and Google at thirteen point seven.
+Lena: Nearly thirty percent between them. And both are also major suppliers to Anthropic.
+Max: There's one more thing on that private placement. Those shares are restricted, but they are not subject to the underwriters' lock-up. They can only be resold through a registration or an exemption, but it's a different clock from everyone else.
+Lena: Good catch. Which takes us to who actually runs this thing.
+
+Max: Quick check-in. We've covered the deal, the day-one pop and fade, the revenue, and the nine hundred billion dollar bill. Still to come, the governance, the protests, what Wall Street is saying, and our verdict. So, control.
+Lena: This is the weirdest cap table I've ever read. Five classes of common stock.
+Max: Class A, the normal one-vote shares you can buy today. Class N, non-voting, mostly held by strategic partners. Class E for employees, which only votes on limited matters. And then the two special ones.
+Lena: Class T. One share. Held by the Long-Term Benefit Trust. The trust elects and removes the Class T directors, who make up a majority of the board.
+Max: And Class F. One share. Held by Founder LLC, whose members are the seven co-founders, led by Dario and Daniela Amodei. That one share carries fifty point one percent of the vote on regular stockholder matters.
+Lena: So the founders control the shareholder vote, and the trust controls the board majority. Public investors own a lot of the economics and very little of the steering wheel.
+Max: And it's a public benefit corporation. Legally, the board has to balance shareholder returns with the people affected by the company and its stated purpose, the responsible development of advanced A-I for the long-term benefit of humanity.
+Lena: Which is lovely, and also means "maximize the share price" is not the only job. Investors should read that as a feature or a bug, depending on who you are.
+Max: And it's a "controlled company" under Nasdaq rules, which means it can skip some of the usual board independence requirements.
+Lena: CNBC also noted the co-founders' total voting power, counting their own shares plus Founder LLC, is expected to be sixty-one point three percent.
+Max: Lock-ups. Directors, officers and holders of substantially all the stock have agreed to a hundred eighty-day standoff, with exceptions.
+Lena: So mid-May next year is the date when a huge amount of stock can start to move. CNBC reported the average employee would be worth over forty million dollars at today's prices, with more than four hundred people expected to be worth a hundred million or more.
+Max: That's a lot of new millionaires waiting for May.
+Lena: And a lot of potential sellers. Mark that one on the calendar.
+
+Max: Now, the scene. This wasn't a quiet listing.
+Lena: No. CNBC reported protesters outside the Nasdaq MarketSite in Times Square, and photos showed N-Y-P-D officers arresting people for blocking the doors as trading began.
+Max: The New York City Democratic Socialists of America had called for a nine A-M rally. And in San Francisco, more than a hundred people gathered outside Anthropic's offices, chanting "ban A-I that builds A-I."
+Lena: That's about recursive self-improvement, A-I designing its own successor. CNBC notes it isn't possible yet, but Anthropic itself has warned about the risk.
+Max: And before the listing, more than ninety academics and A-I safety experts signed something called "The MisAnthropic Statement," accusing the company of racing to build risky systems while using safety branding. Anthropic declined to comment, per CNBC.
+Lena: Then Washington. Senator Mark Warner posted, quote, "A record-breaking IPO for a company worth one point five trillion… and still NO action on AI regulation." And Representative Pramila Jayapal said she was "alarmed" Anthropic was going ahead despite outages in critical systems.
+Max: There's also history with the administration this year. CNBC recounts that Anthropic temporarily disabled two of its most advanced models to comply with an export control directive, and restored them after about two weeks of negotiations. Things have thawed since, including a White House dinner and a voluntary safety accord in September.
+Lena: So the political risk is not hypothetical. This is a company regulators talk about by name.
+Max: And inside the Nasdaq, it was celebration. Former Fed chair Ben Bernanke, who joined the Long-Term Benefit Trust in July, was in the room for the first trade.
+Lena: And Menlo Ventures' Matt Murphy told CNBC the firm's position is worth about twenty-five billion dollars, and called it, quote, "Clearly the most epic return for Menlo Ventures in our history."
+
+Max: I would also be using the word epic.
+
+Max: So what are the pros saying? On the bull side, Melius Research's Ben Reitzes started coverage with a buy rating and a one hundred fifty-five dollar price target, per CNBC.
+Lena: That's about sixty percent above today's close. One analyst, one target. Keep it in perspective.
+Max: His line was, quote, "The leverage here could be insane." His argument is that the models are getting cheaper and faster to train, so Anthropic can ship frontier models at a rapid clip.
+Lena: And Wolfe Research wrote that cybersecurity could be, quote, "as big as Coding," and put that market at up to five hundred billion dollars a year. That's an analyst estimate, not a company number.
+Max: Bessemer's Byron Deeter called it a "Google moment" for the frontier labs on CNBC, but also said the A-I world will have "multiple great businesses."
+Lena: Which is the polite way of saying OpenAI exists.
+Max: And it's still private. The prospectus names Google and OpenAI as its primary competitors in frontier models.
+Lena: And they have, quote, "substantially greater" resources in many cases, per Anthropic's own risk factors. Being first to list doesn't mean being first to win.
+Max: But being first to list does give you a currency. One hundred billion in cash, a public stock to pay talent and do deals, and a valuation everyone else now gets measured against.
+Lena: That part I'll give you.
+
+Max: Final stretch. What do we watch from here?
+Lena: One, the greenshoe. If the stock holds above eighty-three, the underwriters likely exercise it and the company gets about twelve billion more. If it breaks below eighty-three, they typically buy shares in the market to support it instead.
+Max: Two, the first earnings report as a public company. The question is whether the third-quarter operating loss was a blip from expensive spot compute, or the new normal.
+Lena: Three, the compute bill. Nine hundred billion in commitments, and revenue has to keep climbing to justify it.
+Max: Four, the lock-up, around mid-May. And five, Washington. Regulation talk got louder today, not quieter.
+Lena: Okay. Verdict. Max?
+Max: Triumph. Priced above the range, upsized, biggest IPO ever, more than a hundred billion in new cash, and still up seventeen percent at the close after a giant fade. A company that did four and a half billion in revenue last year is running at eighty-one billion now. I'll take that.
+Lena: Mine is, great deal, tough day for anyone who bought the open. Up seventeen percent is a good first day. But the stock lost about a sixth of its value from the high, the third quarter slipped back to an operating loss, and the bill is nine hundred billion dollars. Day one belongs to the people who got eighty-three. Everyone else has to earn it.
+
+Max: So we agree it's a big deal, and disagree on everything else.
+Lena: The usual.
+Max: Sources and full numbers are in the show notes. Nothing here is investment advice. This has been Signal and Noise.
+Lena: See you next time.

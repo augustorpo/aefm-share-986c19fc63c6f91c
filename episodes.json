@@ -208,5 +208,18 @@
     "guid": "aefm-share-techdigest-2026-11-14-9e2d1111",
     "chapters_url": "https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/techdigest-2026-11-14-9e2d1111/chapters.json",
     "transcript_url": "https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/techdigest-2026-11-14-9e2d1111/transcript.txt"
+  },
+  {
+    "title": "A Two-Trillion Open, a Seventeen Percent Close",
+    "description": "Anthropic (Nasdaq: ANT) priced at $83, opened at $111.50 (+34%), hit $115.10 and closed its first day at $97.17, up 17.1% from the IPO price, on more than 846 million shares. Max (bull) and Lena (skeptic) go through the final prospectus (980 million shares, $81.34B raised, the biggest IPO on record, plus a $26B private placement from Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC), the full first trading day, $33.2B in nine-month revenue, the Q3 swing back to an operating loss, ~$900B in compute commitments, the five-class governance structure, the protests, and what to watch next.\n\nDeal terms (424B4, Nov 18, 2026): 956,351,354 shares sold by Anthropic + 23,648,646 by selling stockholders at $83.00; underwriting discount $0.56122/share ($550M); proceeds before expenses $78.84B to Anthropic and $1.95B to selling stockholders; greenshoe of 147,000,000 shares; estimated net proceeds incl. private placement ~$104.8B (~$117.0B with full greenshoe). Leads: Goldman Sachs, Morgan Stanley. Marketed range was $70–78 on 825M shares.\n\nFirst day (Nov 19): open $111.50, high $115.10, low $92.72, close $97.17 (+17.07% vs $83), volume 846M+ shares. Market cap: CNBC fully diluted ~$1.75T at close (~$2.0T at the open); the ~$1.5T pricing valuation is a press figure. Our own math on the 13.2B shares outstanding after the deal gives ~$1.28T at the close.\n\nClearly marked as reports/estimates, not company figures: pre-open perpetual futures, institutional and retail allocation details (CNBC sources), employee wealth estimates, analyst targets (Melius $155) and Wolfe Research's cyber market estimate.\n\nSources:\n- Anthropic, PBC final prospectus (Form 424B4), SEC EDGAR, CIK 0002130357, file 333-299633\n- CNBC live coverage of the Anthropic IPO, Nov 19, 2026\n- AP, Benzinga, Nasdaq newsroom, Investing.com quote data\n\nNot investment advice.",
+    "date": "2026-11-19",
+    "folder": "anthropic-ipo-day-f13c4512",
+    "file": "anthropic-ipo-day-f13c4512.mp3",
+    "length": 13048037,
+    "duration": "00:21:45",
+    "pub_iso": "2026-11-19T16:24:14-05:00",
+    "guid": "aefm-share-anthropic-ipo-day-f13c4512",
+    "chapters_url": "https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/anthropic-ipo-day-f13c4512/chapters.json",
+    "transcript_url": "https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/anthropic-ipo-day-f13c4512/transcript.txt"
   }
 ]

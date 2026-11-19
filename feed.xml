@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:39:02 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:24:14 -0500</lastBuildDate>
     <itunes:author>Augusto Restrepo</itunes:author>
     <itunes:summary>Signal &amp; Noise is a podcast curated by Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>Deep dives curated by Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,47 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>A Two-Trillion Open, a Seventeen Percent Close</title>
+      <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/anthropic-ipo-day-f13c4512/</link>
+      <description>Anthropic (Nasdaq: ANT) priced at $83, opened at $111.50 (+34%), hit $115.10 and closed its first day at $97.17, up 17.1% from the IPO price, on more than 846 million shares. Max (bull) and Lena (skeptic) go through the final prospectus (980 million shares, $81.34B raised, the biggest IPO on record, plus a $26B private placement from Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC), the full first trading day, $33.2B in nine-month revenue, the Q3 swing back to an operating loss, ~$900B in compute commitments, the five-class governance structure, the protests, and what to watch next.
+
+Deal terms (424B4, Nov 18, 2026): 956,351,354 shares sold by Anthropic + 23,648,646 by selling stockholders at $83.00; underwriting discount $0.56122/share ($550M); proceeds before expenses $78.84B to Anthropic and $1.95B to selling stockholders; greenshoe of 147,000,000 shares; estimated net proceeds incl. private placement ~$104.8B (~$117.0B with full greenshoe). Leads: Goldman Sachs, Morgan Stanley. Marketed range was $70–78 on 825M shares.
+
+First day (Nov 19): open $111.50, high $115.10, low $92.72, close $97.17 (+17.07% vs $83), volume 846M+ shares. Market cap: CNBC fully diluted ~$1.75T at close (~$2.0T at the open); the ~$1.5T pricing valuation is a press figure. Our own math on the 13.2B shares outstanding after the deal gives ~$1.28T at the close.
+
+Clearly marked as reports/estimates, not company figures: pre-open perpetual futures, institutional and retail allocation details (CNBC sources), employee wealth estimates, analyst targets (Melius $155) and Wolfe Research's cyber market estimate.
+
+Sources:
+- Anthropic, PBC final prospectus (Form 424B4), SEC EDGAR, CIK 0002130357, file 333-299633
+- CNBC live coverage of the Anthropic IPO, Nov 19, 2026
+- AP, Benzinga, Nasdaq newsroom, Investing.com quote data
+
+Not investment advice.</description>
+      <itunes:summary>Anthropic (Nasdaq: ANT) priced at $83, opened at $111.50 (+34%), hit $115.10 and closed its first day at $97.17, up 17.1% from the IPO price, on more than 846 million shares. Max (bull) and Lena (skeptic) go through the final prospectus (980 million shares, $81.34B raised, the biggest IPO on record, plus a $26B private placement from Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC), the full first trading day, $33.2B in nine-month revenue, the Q3 swing back to an operating loss, ~$900B in compute commitments, the five-class governance structure, the protests, and what to watch next.
+
+Deal terms (424B4, Nov 18, 2026): 956,351,354 shares sold by Anthropic + 23,648,646 by selling stockholders at $83.00; underwriting discount $0.56122/share ($550M); proceeds before expenses $78.84B to Anthropic and $1.95B to selling stockholders; greenshoe of 147,000,000 shares; estimated net proceeds incl. private placement ~$104.8B (~$117.0B with full greenshoe). Leads: Goldman Sachs, Morgan Stanley. Marketed range was $70–78 on 825M shares.
+
+First day (Nov 19): open $111.50, high $115.10, low $92.72, close $97.17 (+17.07% vs $83), volume 846M+ shares. Market cap: CNBC fully diluted ~$1.75T at close (~$2.0T at the open); the ~$1.5T pricing valuation is a press figure. Our own math on the 13.2B shares outstanding after the deal gives ~$1.28T at the close.
+
+Clearly marked as reports/estimates, not company figures: pre-open perpetual futures, institutional and retail allocation details (CNBC sources), employee wealth estimates, analyst targets (Melius $155) and Wolfe Research's cyber market estimate.
+
+Sources:
+- Anthropic, PBC final prospectus (Form 424B4), SEC EDGAR, CIK 0002130357, file 333-299633
+- CNBC live coverage of the Anthropic IPO, Nov 19, 2026
+- AP, Benzinga, Nasdaq newsroom, Investing.com quote data
+
+Not investment advice.</itunes:summary>
+      <itunes:author>Augusto Restrepo</itunes:author>
+      <enclosure url="https://op3.dev/e,pg=53e45e23-0263-5ba4-9c34-6181be0601ee/augustorpo.github.io/aefm-share-986c19fc63c6f91c/episodes/anthropic-ipo-day-f13c4512.mp3" length="13048037" type="audio/mpeg"/>
+      <guid isPermaLink="false">aefm-share-anthropic-ipo-day-f13c4512</guid>
+      <pubDate>Thu, 19 Nov 2026 16:24:14 -0500</pubDate>
+      <itunes:duration>00:21:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/anthropic-ipo-day-f13c4512/transcript.txt" type="text/plain" language="en"/>
+      <podcast:chapters url="https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/anthropic-ipo-day-f13c4512/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Nvidia Loses Its CEO, HomeView Arrives, and a Robot That Won't Pass the Butter</title>
       <link>https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/techdigest-2026-11-14-9e2d1111/</link>

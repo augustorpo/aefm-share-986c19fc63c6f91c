@@ -1,0 +1,343 @@
+Max: Anthropic is a public company. Biggest I P O ever. It opened more than thirty percent above its offering price, touched about two trillion dollars, and then the besties spent an hour arguing about whether anybody should actually buy it.
+Lena: And on the same day the market dropped. The S and P was down, volatility was up, and the hottest I P O in history slid most of the afternoon. Which, honestly, is the most this year thing I can imagine.
+Max: Okay. Three things that matter this week.
+Lena: One. Anthropic's debut. Eighty three dollar offering price, about eighty one billion raised in the I P O itself, and a first-day close around ninety seven dollars, up seventeen percent from eighty three. Chamath's take is that what happens to the stock over the next few months has almost nothing to do with Anthropic.
+Max: Two. A fight over open source. Reuters reported the White House is weighing a rule that would make American companies say on their websites when they use Chinese A I models. Friedberg went nuclear on it. He called restricting open source "the path of tyranny."
+Lena: And three. Nvidia. The company just posted one of the biggest quarters any company has ever posted, revenue up about a hundred percent, and the stock fell anyway. The board says Jensen isn't coming back. Jensen says he'd come back if they asked. And Chamath's advice to everyone cheering for him was, more or less, be quiet until December first.
+Max: He used a stronger word than quiet.
+Lena: He used a much stronger word.
+Max: Quick housekeeping, then we go. Two new All-In releases since last Saturday. Tuesday, November seventeenth, about four forty P M Eastern, an interview. Jason sat down with Ali Ghodsi, the C E O of Databricks. Title: "Databricks C E O: A G I Is Already Here, Why Companies Are Behind, and the Superintelligence Debate."
+Lena: And Friday, November twentieth, about five fifteen P M Eastern, the weekly show. "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?" No livestreams or specials this week, we checked.
+Max: And one note on the weekly. Sacks was out. Jason said so in the first thirty seconds. So it's Jason, Chamath and Friedberg, which changes the energy a lot, by the way.
+Lena: Three people, no White House perspective in the room. You'll hear it in the open source segment especially.
+Max: Plan for today. Topic by topic, not episode by episode. Anthropic first, the numbers and the bull versus bear fight. Then Chamath's big theory about ten megacorps, and why he thinks buybacks are a confession. Then the open source fight, and we have a caller for that one. Then Nvidia. And then Ali Ghodsi, who says A G I is already here and the doom crowd has the wrong idea.
+Lena: Which is a very confident thing to say on a podcast.
+Max: Very confident week all round.
+
+Max: Okay, Anthropic. Jason opened with it basically as breaking news. He said they upsized the deal, demand was massive, and they hit a two trillion dollar valuation.
+Lena: Let's put the checked numbers next to the podcast numbers, because they don't match perfectly. Per the filings and Reuters, Anthropic sold nine hundred eighty million shares at eighty three dollars. That was above the original range of seventy to seventy eight. So the price came in about six percent above the top of the range.
+Max: And they bumped the share count by about nineteen percent too. So more shares and a higher price.
+Lena: Right. That's about eighty one billion dollars raised in the I P O. Jason said "over a hundred and seven billion," and that's the total deal size, because there's also a private placement of about twenty six billion on top.
+Max: So both numbers are real, they're just measuring different things.
+Lena: Yes. And then the first trade. It opened at a hundred eleven fifty. That's up about thirty four percent from eighty three. And for a few minutes, on a fully diluted basis, that put the company around two trillion. That's the number Jason was quoting.
+Max: Then it slid all day.
+Lena: Closed at about ninety seven dollars. Still up seventeen percent from the offering price, but down about thirteen percent from the open. Reuters put the close at roughly one point eight trillion fully diluted.
+
+Max: Still. One point eight trillion. Five years old. It's behind Apple, Microsoft, Nvidia, Alphabet, Amazon and SpaceX on the list of most valuable American companies, per CNBC. That's the list.
+Max: And SpaceX's record from June? Beaten, per CNBC and Reuters. Now, revenue. Jason threw out eighty billion, a hundred billion as the revenue range people are talking about, and said at two trillion that's twenty times the top line. Later he said thirty times the run rate.
+Lena: So he used two different multiples within a few minutes. I'm not going to pick one. What I can tell you is the hard number from the prospectus. Thirty three billion dollars of revenue in the first nine months of this year, up twelve hundred percent from the same period last year, per CNBC.
+Max: Twelve hundred percent.
+Lena: Which is the kind of growth that makes any multiple look either insane or cheap depending on what you think happens next.
+Lena: And one more detail I liked. Chamath pointed out the day-one pattern was the opposite of SpaceX. SpaceX traded up and faded late. Anthropic opened hot and faded from the start. And then he said, in the same breath, that it doesn't mean anything.
+Max: He does that. Here's a data point. It means nothing. Moving on.
+Lena: It's honestly a healthy habit.
+
+Max: So Jason asks the question he always asks. Are you long, are you short, what's the five year view? And Friedberg goes first, and he's pretty bullish.
+Lena: Pretty bullish is underselling it.
+Max: Okay, very bullish. His points. One, he says he's heard the company is growing beyond its own internal expectations, and is easily on track to a hundred billion of revenue. That's a claim from people he's talked to, not a filing.
+Lena: Flagged.
+Max: Two, he thinks they have the best enterprise product out there, better than Google and better than OpenAI. Three, and this is the interesting one, he brought up recursive self improvement. He said Google has done four model releases in the last two weeks, and people are murmuring that Google has hit what he called the R S I runaway loop.
+Lena: Murmuring. That's the sourcing. Murmuring.
+Max: He said murmuring, yes. And his logic was, if Google is there, Anthropic probably is too, and there's probably more being held back for safety than people realize. He said the models may be advancing faster than humans can evaluate them.
+Lena: Which is a wild bull argument. "They might be improving faster than anyone can check them, so buy."
+Max: Well, his framing is intelligence per dollar. If the cost of a unit of intelligence keeps falling dramatically, and you're the one with the best curve, that's a natural monopoly kind of advantage. He said he heard that's how they pitched it on the roadshow, and that investors bought it.
+Lena: And the biggest risk, in his words?
+Max: Open source. He thinks open source could eat some of the business, but not the whole thing, because for advanced work people will pay for the best intelligence per dollar. He thinks it's a race between Anthropic, OpenAI and Google.
+Lena: Okay. And then he did some float math, which I actually liked because it's concrete.
+Max: Yeah. About a hundred billion dollars of stock bought on day one. Say half of that is people who'll flip quickly. So maybe fifty billion of real float, against what he thinks is several times that much demand at the current price. Price goes up, demand thins out, the market finds the level.
+Max: Sure. But his conclusion is clear. Hold it five plus years and you could have a multi-bagger from here. And he said the same about SpaceX and maybe Google.
+Lena: And then Chamath, who is not a bear on the company. That's important.
+Max: No. He said Anthropic will definitely be one of his ten megacorps, more on that later. Doing all the right things. The biggest risk was the balance sheet, having enough money, and he thinks the I P O fixed that.
+Lena: But then the turn. He said the valuation over the next three or four months has mostly nothing to do with Anthropic. And his evidence was Nvidia. Best quarter anyone has ever seen, stock down.
+Max: Which is a pretty good piece of evidence, honestly.
+Lena: It's a great piece of evidence. That's my whole point this week.
+
+Lena: Okay, so if you're just tuning in, the short version is Anthropic is public, it's huge, and nobody on the show thinks the company is the problem. The fight is over the market around it. And that fight got genuinely fun.
+Max: This was the best stretch of the episode for me. Chamath laid out what he called the wall of worry. Let me run his list.
+Lena: Go.
+Max: The ten year Treasury yield keeps ticking up. Bad for stocks. Volatility is elevated. Bad for stocks. Inflation is sticky. Bad for stocks. He said if Kevin Warsh at the Fed wanted to cut, he doesn't have much room, and if anything he might hike. Bad for stocks. And a new Congress coming in creates uncertainty. Bad for stocks.
+Lena: He literally said "that's bad for equities" after every single item. It was like a drum.
+Max: And then a specific one. While they were taping, he said A M D was down ten or twelve percent because somebody put out a short report saying they were selling chips to China. And he immediately added, I don't know if that's true or not.
+Lena: So, a short seller's allegation that he explicitly didn't vouch for, and neither do we. His point was the size of the move. Ginormous volatility, he called it.
+Lena: And his summary was, maybe you can't be short, because things could still rip in your face, but it's hard to justify being mega long. And then he asked the question that set Jason off. What's the setup where the S and P goes to eight thousand from here, versus six thousand five hundred?
+Max: And Jason goes, I'll take a shot at it, because I'm super long.
+Lena: Of course he is.
+Max: Jason's bull case. He agrees with the wall of worry. Rates, debt, inflation, wars, political turnover, and he even said the incoming crowd may want to break up big tech. But then he says only ten or twenty percent of workers at big companies are really using this stuff. At the startups he invests in, the average worker is using A I five, six, seven hours a day. More time with A I than with humans.
+Lena: That's from his portfolio, so, anecdote. Large anecdote. He said six hundred startups.
+Max: And his logic is that startups go first and big companies follow in two or three years, like the cloud. So usage goes up five to seven times in headcount, and from minutes a day to six to eight hours a day. Put those together and he says at least five hundred times the token usage.
+Lena: Five hundred x. That's the number. He said it a few times.
+Max: And then a very Jason example. You've got two hundred knowledge workers on a twenty dollar or two hundred dollar plan. They become five or ten times more effective, and they ask to go from the two hundred dollar plan to an eight hundred dollar plan. That's up three hundred percent. And you say absolutely.
+Lena: And the pushback in the room was, wait, you're saying revenue at this company goes up fifty times?
+Max: And Jason reframes it as revenue per employee. He said knowledge work goes from five hundred thousand to a million dollars per employee, toward three to five million, maybe ten. He claimed Microsoft was around nine hundred thousand per employee and is trending toward two million.
+Lena: His figures. We didn't check Microsoft's per-employee number, and he said "I think" right before it.
+Max: Fair. And his kicker was, if software is only five or ten thousand dollars of an employee's cost, and it goes to twenty five thousand, you don't care. That person is a superhero.
+Lena: Okay, and then Chamath's response is the line I'd frame. He said, you've convinced me usage is mediocre and has barely touched what's possible. You have not convinced me why the stock market should buy it. He thinks a ten year at five and a half or six percent is more likely than four and a half, and that just has a mathematical implication for all stocks.
+Max: And then the cojones moment.
+Lena: The cojones moment.
+Max: Jason said you have to have cojones to be buying Nvidia right now at a hundred fifty, a hundred sixty. And then he said, I did.
+Lena: And Chamath, deadpan: why do you say cojones? These are mathematical, risk adjusted expected value decisions. It's not chest pumping.
+
+Max: And Jason says no, you need conviction, because it's not a mathematical certainty that consumption goes up five hundred x. That's his belief based on what he sees.
+Lena: Honest answer, to be fair. He's saying out loud it's a belief.
+Max: See, you can be nice.
+Lena: Don't get used to it.
+
+Max: So Jason throws it to Friedberg and asks what he's seeing at Ohalo, and someone sharpens it to, is revenue actually up ten x?
+Lena: And Friedberg sort of declines the premise.
+Max: Yeah. He said what he's said before. The biggest opportunity for A I is on the frontier. Doing things humans and businesses have never been able to do. Hard engineering problems, hard science problems, previously intractable problems. He thinks that's where the frontier gets expanded by a hundred or a thousand times.
+Lena: Versus?
+Max: Versus using A I to tweak existing business processes and save money. Which he says is where people's minds naturally go, because most people don't work on the frontier. And then they get scared about their own job.
+Lena: And his line was something like, the return on tokens is some small number when you're producing the same stuff, and a much bigger number when you produce something humans have never produced. A new cancer drug. New materials science.
+Max: And Chamath loved that. He said that's a really smart way of saying it. Throw tokens at existing stuff and you get maybe a fifty or sixty percent return. Might as well throw them at new stuff.
+Lena: Then one of them took it somewhere bigger. The transcript doesn't label speakers, and this stretch opens with "you stated it well there, Freeberg," so it's someone building on him, probably not Friedberg himself. The argument was, this is also why the job loss narrative is wrong, why the idea that everyone ends up on welfare is wrong, and why the call for universal basic income is wrong. The actual words were saltier.
+Max: Much saltier. And the argument is historical. New jobs and new industries get created before the old ones go away, so there's a bridge. The example was the Gold Rush. The claim was that San Francisco was at one point the second most populous city in the U S because everybody pulled forward to the frontier.
+Lena: I'm going to flag that as a talk-show history fact. San Francisco was a big deal in the late eighteen hundreds, but "second most populous city in the country" doesn't match the census rankings I know. So take that one as color, not a statistic.
+Max: Noted. But the point stands without it. Money and people rush toward the new thing before the old thing shuts down. And that, in this telling, is why we haven't seen rising unemployment.
+Lena: And then came the caveat, which I appreciated. There's still a K-shaped economy problem. Not everyone is riding the frontier wave. And people who see the frontier happening without being part of it might say, shut it down if I'm not in it. That backlash, the argument went, could actually stop the frontier from happening.
+Max: Which is the perfect setup for the next part, because Jason literally said, okay, let's go to the backlash.
+Lena: Not yet. Chamath's megacorp theory first. That came at the very top of the show, and it ties everything together.
+Max: Right, right. Rewind to minute one.
+
+Lena: Okay, quick reset. We've done Anthropic and the fight about the market. Still ahead, the open source rule that Friedberg hated, a caller who builds this stuff for a living, Nvidia's very strange week, and the Databricks C E O's live demo. But first, Chamath had a theory, and he'd apparently been "on fire" about it in the group chat.
+Max: Jason's words. So, Chamath's theory. Over the next decade, he thinks A I creates nine or ten megacorps. And each one goes from the application layer all the way down to, his phrase, the dirt.
+Lena: Dirt meaning land and power.
+Max: Land, power, data centers, chips, models, apps. The whole stack. His trigger was Palo Alto Networks. The day before taping, they announced they're buying Applied Compute.
+Lena: I'll do the checked facts. Applied Compute is a startup that post-trains and serves open-weight models for companies. Founded last year by former OpenAI researchers. Palo Alto's deal is all stock, valued at four and a half billion dollars. And for scale, Applied Compute had been valued at about three and a quarter billion earlier this month, so that's roughly a forty percent step up in a few weeks.
+Max: And Chamath said the stock was up eight or nine percent at one point that day. And Nikesh Arora said it's Palo Alto venturing outside of security. And the market's reaction, in Chamath's telling, was, thank God.
+Lena: So his read is that the market rewarded a security company for leaving its lane.
+Max: Exactly. And he walked through who's already doing the full stack. Anthropic going down to the dirt and up into apps. OpenAI the same. SpaceX, which he said owns Cursor, one of the best apps, and owns down to the dirt. Meta, top to bottom.
+Lena: And then the part that matters for Nvidia. He said the world ends up with a rich app ecosystem, lots of open source models, some closed ones, and a lot of distributed silicon. Lots of different chips. And he said that's why Nvidia is trading down. The realization that what he called the "over-earning era" of Nvidia may be over. And he was very clear that this is independent of Jensen.
+Max: Which is a spicy take on a company that just doubled its revenue.
+Lena: It's a thesis about the future, not the quarter. And his market conclusion was that the money flows of the last few weeks, maybe the last year, are basically the market betting on who's a conglomerate and who isn't. If you're a cash-rich company that won't enter the model game or the data center game, the market won't say your stock is bad. It'll just trade out of you and into the ones taking the risk.
+Max: And when Jason asked, wouldn't you include services? Forward deployed engineers and all that. And Chamath said the whole idea of separating software and services is for, I'm paraphrasing, people stuck in the past. He said people who care about that distinction are, his word, morons.
+Lena: He loves a strong word.
+Max: His argument. If I could sell you a services business with ninety nine percent gross margins and seventy percent free cash flow margins, you'd buy it over any product company ever. So stop caring what kind of business it is, and care about the numbers. High gross margins and high free cash flow conversion get rewarded. If you don't have them, he said, you'll get decimated no matter what you do.
+Lena: And Friedberg's version was calmer. He compared it to the internet. Everyone had to become a digitally connected business, and now everyone has to become what he called a digital intelligence business.
+Max: He also claimed that it's amazing how few businesses spend money with Anthropic today, and how few people actually use A I tools every day. Call it one percent of the population, he said. A rough guess.
+Max: And his bigger point. It's not just that companies evolve. Whole industries get rewritten. One company can compress the value stack or go multi-vertical. Some industries might not exist anymore.
+Lena: So that's the theory. Ten megacorps, dirt to application, and the market sorting companies into who's in and who's out.
+Max: And then he used it to go after the most beloved move in corporate finance.
+
+Max: Buybacks. One of them started with, if you take your free cash flow and spend it on buybacks, and Jason finished the thought. It says you don't know where to invest.
+Lena: And Chamath said, that's exactly right, that's the tell. When you announce a buyback, what you're basically saying is, I don't have a clue. You don't have the nerve to buy something or build something.
+Max: And Jason pointed straight at Nvidia. He said the board authorized a hundred fifty billion more in buybacks back in September, before Jensen was out, and that the C F O called buybacks a top priority.
+Lena: Checked part. Nvidia's earnings release confirms a hundred fifty billion dollar increase to the buyback authorization in September, and about two hundred twenty seven billion still remaining at the end of the quarter. Jason said two hundred thirty five total. Close, but the filing says two twenty seven remaining. The "top priority" quote I can't verify, so that's Jason's paraphrase.
+Max: And Chamath was careful to say, I'm not pointing directly at Nvidia. His broader story is that for years, most of the earnings per share gains in the market came from this game. Low rates, profitable companies, take the cash, buy back stock, offset the dilution from employee stock grants, earnings per share goes up, the stock drifts higher. He said as a holder you were almost guaranteed five to ten percent a year.
+Lena: And his claim is, that game is over. Because when disruption is low, not knowing what to build is fine. When disruption is high, it's a red flag. And acquisitions get rewarded, because they tell investors you're defending your moat and building new ones.
+Max: Which is why, he said, when Nikesh does a four and a half billion dollar acquisition, the stock goes up. "The market is voting."
+Lena: Then Jason did the politics angle. He said big M and A was basically off the table under Biden, and it's back on under Trump. And then he said, we've got maybe a six month window before it closes again, if people assume Democrats are in office in twenty twenty eight.
+Max: Which is a slightly odd window, but okay, that's his read on the mood.
+Lena: It's his read. And then Jason said something a normal finance person would say, which is that you buy back stock when it's severely undervalued, or you look at an acquisition and ask, is it accretive enough?
+Max: And Chamath pounced on the word.
+Lena: He pounced. He said he hates "accretive," because that's when the spreadsheet jockeys get in a room and figure out how a deal adds to the company today, instead of thinking about whether it puts you in business lines you need in five years.
+
+Max: And then the other piece. He said if your shareholders won't give you permission to do big strategic deals, you're stuck, because they're also not going to reward you for buybacks or dividends anymore. So what do you do with the money? Invest your way out of it. He called it a tsunami of disruption, and said the only answer is a full stack.
+Lena: One of them also had numbers on how much the big guys have shrunk their share counts over the last ten years. Apple down thirty four percent. Alphabet twelve. Meta eleven. Those are his figures, from the show, we didn't recheck them.
+Max: And Jason added the third option, which he likes. Building infrastructure. Meta, Amazon, Alphabet, spending on the platform to create intelligence.
+Lena: And Chamath's closer was actually kind of contrarian about the big companies. He doesn't think they understand what the next generation application stack needs to look like. He thinks it's much more likely that small groups bleed off from the big companies or the frontier labs and build the new thing. And that's fine, as long as the big company ends up owning a solution. So, acquire your way there.
+Max: And he said if a C E O got on an earnings call and said, guys, there are going to be ten mega companies, I intend to be one of them, I'm going to acquire aggressively and use my cash flow to make sure we don't lose, he'd want to own that stock more than the ones "singing from the same hymn book."
+Lena: My skeptic bit. In the late nineties the market cheered every company that bought an internet company, and a lot of those deals were disasters. Announcement-day pops are a weak scorecard.
+Max: But you'd agree buybacks as a default are lazy right now?
+Lena: I'd agree they're a signal. I just don't think a big all stock acquisition is automatically a better one. One day of stock price is not a strategy.
+Max: Ask me again in five years.
+
+Max: Okay, halfway-ish check in. Anthropic is public, Chamath thinks ten megacorps eat the world, and buybacks are a confession. Now the segment where Friedberg got the most fired up I've heard him in a while. The open source crackdown.
+Lena: Facts first, because this one is easy to exaggerate. On Wednesday, Reuters reported, citing three people, that the Trump administration is considering requiring U S companies to publicly disclose when they use Chinese A I models. Basically a notice on your website.
+Max: Considering. Not decided.
+Lena: Considering. Reuters said it wasn't clear if the idea had traction, or whether it would ever become a formal rule. The Treasury Department and the White House Office of Science and Technology Policy discussed it. Reuters framed it as a "name and shame" approach, discouraging Chinese A I without new restrictions.
+Max: And the poster child was Airbnb.
+Lena: Right. Per Reuters, Airbnb uses Qwen, the model from Alibaba, for its A I customer service agent. Airbnb's statement said its A I runs "overwhelmingly" on U S origin models, and the Chinese origin ones are open source and run through approved U S based providers.
+Max: And there's a congressional piece too. Jason mentioned letters to Airbnb, DoorDash and Cursor.
+Lena: Checked. The chairs of the House Homeland Security Committee and the House select committee on China sent letters to Airbnb, to Anysphere, which makes Cursor, and to DoorDash. Reuters said Cursor's Composer 2 model was built on a version of Kimi, from Moonshot. And Anysphere, as Chamath mentioned, is now owned by SpaceX.
+Max: And Jason's read on who's behind it. He said Treasury Secretary Bessent seems to be emerging as the leader of the China hawk group, and he described it as a civil war inside the White House, with Lutnick and Trump himself on the other side.
+Lena: That's Jason's characterization. Reuters reported Treasury and O S T P discussed the plan, and that more people in Washington are calling for a tougher China stance after the Nvidia story. The "civil war" framing and the sides are Jason's. And remember, Sacks wasn't there to push back.
+Max: Then my favorite joke of the week. Jason said, breaking news, I'm also using a MacBook Pro, so maybe this podcast needs a label saying it was produced with Chinese hardware.
+Lena: I mean, the assembly point isn't wrong.
+Max: And he asked, why now? Jensen out, Anthropic going public, what he called the decel movement. Is this coordinated, or just interesting timing?
+Lena: And Chamath said, can I answer your first question first? Which was, what does a disclaimer actually do? And his answer was, nothing. He used a very rude word, but the gist was, a disclosure just tells the market you're smart enough to use the cheap option.
+Max: His logic is all about what the market wants. It wants you to be smart, budget friendly, R O I oriented, to own your own technology, and not leak your alpha. He said that's what the pod has been calling A I sovereignty.
+Lena: And the opposite, in his telling, is saying, I don't care about cost, I'll take whatever model, I'll feed them all my traces, and trust their zero data retention policy. He said the market will think you're an idiot, because you would be one.
+Max: And his practical advice was, if the choice is put a disclaimer nobody will read on your website, or go out of business, put the disclaimer up.
+Lena: But his bigger point was that this was a trial balloon, and Washington needs some extremely technical people inside to explain what these things actually mean.
+Max: And Jason's take was the cleanest version of the open source argument. You're not buying it from the Chinese. It's on GitHub, it's on a website. You take it, fork it, put it on your own servers, you control it. And if there were back doors, there'd be a thousand A I's pointed at them.
+Lena: Hold that thought. Because that's exactly the claim our caller is going to poke at in a minute.
+
+Max: Then Friedberg. Jason asked him for his thoughts, and he started with, I think this continues to be the path of tyranny.
+Lena: And he did not slow down for about seven minutes.
+Max: His argument, step by step. Any effort to curb, restrict or label open source gives the government the tools to create, his phrase, regulated monopolies. He said it would limit human prosperity, limit individual liberty, create an Orwellian state, and that it fundamentally violates freedom of speech.
+Lena: That's a lot of adjectives for a website disclosure.
+Max: He sees it as a first step. And he said the origin of open source software shouldn't matter. Then the history. The Apache project that gave us open source servers. Mozilla and Firefox, so Netscape and Microsoft couldn't control access to the internet. And Android. He said Google made open source mobile software, found hardware makers to install it, and now, his number, seventy percent of phones in the world have unfettered access to the internet.
+Lena: Android's global share is commonly put somewhere around seventy percent, so that's in the right range.
+Max: And the core of it. He said every group that has the power to control what people see and access eventually becomes tyrannical. Not because they mean to, but because they think they're right, and if they have power, they act on it.
+Max: And then the technical part, which is the part our caller is going to dig into. Friedberg said open weight models aren't a runtime application. You don't download it and run it like a program. It's not an executable. He called it a set of data, a chunk of data, and then, a C S V file with a bunch of stuff in it.
+Lena: That's a metaphor. It's not literally a spreadsheet. But the point that weights are numbers, and you need separate software to run them, is right.
+Max: And he said you can audit it, test it, screen it, and everyone faces liability if they don't. So the idea that "we don't really know what the Chinese put in there" is, in his words, incorrect. We do know.
+Lena: Which is a strong claim, and I want to come back to it.
+Max: And he finished with a shot at Congress. He called the label idea as idiotic as he'd expect, given the lack of engineering competence in Congress. And then he said, that's not political, it's just fact.
+Lena: And Jason immediately said, well, there is something political going on.
+Max: Yeah, Jason went to the timeline. He said at Jensen's conference they talked about Nemotron, Nvidia's own models, and that Jensen was buying open source assets. Then Jensen was deposed. Then the name and shame story. Then Anthropic going public. He said there are no coincidences, and that Jensen was going to become the open source champion.
+Lena: That's speculation, and I'll say it clearly. Nobody has reported a link between Jensen's resignation and open source policy. Jason was connecting dots on a podcast.
+Max: And Chamath disagreed with him, which I liked. He said, I don't think it's that nuanced. It's about power, control and ideology. And the ideology is whether you believe open source helps China. He said there's a strong case either way, and where you land depends on how hawkish you are.
+Lena: Okay. Let's bring in the caller.
+
+Max: So we've got someone on the line. Rhys is a made-up character for the show. He's an engineer in Sydney who, in our little fiction, helps companies fine tune and deploy open weight models. Rhys, welcome.
+Rhys: G'day. Thanks for having me. Fully invented, so if anything I say is wrong, blame the writers.
+Lena: Noted. Okay, Rhys. Friedberg's point was that open weight models are just data, not a program. True?
+Rhys: Mostly true, and it's a useful correction. When you download open weights, you get big files of numbers. Billions of them. On their own they don't do anything. You need inference software to load them and run them, and that software is usually separate and very often open source and American. So the scare version, where you download a model and it secretly phones home to Beijing, isn't how it works. If you run it on your own servers, the data stays where you put it.
+Max: So Friedberg's right.
+Rhys: On that part, yes. Where I'd gently push back is "we can see everything." You can see every number. That's not the same as understanding what the numbers will do.
+Lena: There it is. Go on.
+Rhys: A model's behavior is spread across all those weights. You can't open the file and read off "this is where the bias is" or "this is where the trigger is." Researchers, including at Anthropic, have shown you can train a model to behave normally most of the time and do something different when it sees a particular trigger, and that standard safety training doesn't reliably remove it. That's research, not evidence any real Chinese model does that. But it means "auditable" really means "testable." You test behavior, you red team, you evaluate. You don't read it like source code.
+Max: Okay, but Jason's point was a thousand A I's would be pointed at any back door.
+Rhys: And that's a fair point too. Popular open models get poked at by a lot of people. That's real protection. It's just not proof. Testing finds problems you think to look for.
+Lena: So what would the disclosure rule actually tell a customer?
+Rhys: Honestly, not much. A label saying "we use a Chinese origin model" doesn't tell you where your data goes, whether it runs on U S servers, or whether it's been fine tuned on top. Those are the questions I'd ask if I were a customer. Where does my data go, who hosts it, and how was it tested.
+Max: So the label is the wrong question.
+Rhys: The label is a question. The useful ones are about hosting and testing. If I were writing the rule, I'd ask for that.
+Lena: Last one. Why do companies pick these models?
+Rhys: Cost and control, mostly. Good enough, cheaper, and you can host and tune it yourself.
+Max: Rhys, thanks, mate.
+Rhys: Cheers, you two.
+
+Lena: See, that's my whole thing. Friedberg is right that it's not malware in a box. And he's overstating it when he says "we know." We can test. That's different.
+Max: I'll give you that. But the policy question is whether a label helps, and it sounds like nobody, including our invented engineer, thinks it does much.
+Lena: On that, the besties and I agree. Mark the date.
+
+Max: So Chamath asked what I thought was the best question of the episode. With all the money American companies have, why didn't anyone spend some of it to get real escape velocity for an American open source model? Why are the only good open source models Chinese?
+Lena: And everyone had a different answer.
+Max: Jason's was talent. The best people had better options. Work on proprietary models and make hundreds of millions personally. And he told a story. He said someone told him their kid, a strong computer science undergrad, got offered ten million dollars a year in equity at Anthropic, forty million over four years.
+Lena: That's a secondhand anecdote. Somebody told Jason about their kid. Not verified.
+Max: And he brought up the time Zuck reportedly tried to hire someone with a billion dollar pay package. And Chamath pushed back. There are really talented people at Meta, at Google, at Nvidia. So why couldn't we spend fifty or a hundred billion out of the trillions?
+Lena: And Friedberg's answer was incentives. "Show me the incentive and I'll show you the outcome." It's not just money to be made, it's capital to be raised. If you're a group of geniuses starting a lab, plan A is closed source with a standard business model. Plan B is open source and, "we'll figure out how to make money later." Investors fund plan A.
+Max: And he said for China it's a totally different game. If you're behind, open weights are how you disrupt the American ecosystem.
+Lena: And Chamath said, wait, why isn't that the same game theory for Nvidia, or Facebook, or Amazon? And Jason agreed. When you're behind, you go open source to kill the incumbent. That's what Android did to the iPhone, he said.
+Max: And then Chamath on Nvidia's own models. He said the Nemotron checkpoints are behind. Good, not great. Whether it was compute or talent, he didn't know. And the Chinese ones, the G L M models and others, he called better than good, still not great. And the frontier closed models, great.
+Lena: Then Jason's theory, which he's clearly attached to. He said people realized there was an opportunity, Jensen bought Hugging Face and Poolside, spent twenty billion on those two companies, and that may have been part of his downfall.
+Max: Okay, check that.
+Lena: Reported deals. Nvidia agreed to buy Hugging Face for about thirteen billion in September. And with Poolside, reporting described it as a six billion dollar license plus hiring a lot of its staff, with Poolside staying independent, plus a smaller investment. So "about twenty billion across the two" roughly adds up. "Bought Poolside" is a stretch. And "that's why Jensen fell" is pure speculation. No reporting says that.
+Max: Fair. Then Jason's ranking of the open model race. He said the American ones, Meta's Muse Spark, Nvidia's Nemotron and Reflection's model, are behind the leading Chinese ones, Kimi, DeepSeek and G L M. Mistral in France sits between the two groups. His leaderboard, and those change monthly.
+Max: And then Chamath had a different theory, and it was the most interesting idea in the segment. He said you're seeing a schism among the leading-edge people. He brought up something called the MisAnthropic statement.
+Lena: Let me add context. The MisAnthropic statement was published Wednesday, the day before the I P O. Per news reports, it's a coalition of researchers, academics and tech figures arguing that Anthropic is not the safe A I company its branding suggests. The reporting I saw describes outside signatories, not Anthropic staff. Chamath described them as sort of E A people having a schism. That's his read.
+Max: And his idea was that some very smart people at these labs, who have made a lot of money, might leave and decide it's important to have open source alternatives. And since they have money and are, his words, a little less capitalist, they might do it nonprofit-style.
+Lena: And Jason picked it up with the New York Times profile of Dustin Moskovitz, the Facebook co-founder and early Anthropic and OpenAI investor, describing him as uneasy about all this. Jason said there's a non-zero chance a lot of these people get together and build the alternative.
+Max: Which would be a fun twist. The safety crowd funding open source.
+Lena: It would be a very ironic twist. I'll believe it when I see a model card.
+
+Lena: Okay, if you've been with us since the top, here's where we are. Anthropic up, market down, open source fight, and a schism theory. Still ahead, Nvidia's leadership mess and Chamath telling everyone to be quiet, and then the Databricks C E O showing how he runs his company with agents. Max, Nvidia.
+Max: Jason's opening numbers. Nvidia shed two trillion dollars in market cap in the last thirty days, down thirty five percent. And down twenty percent in the two weeks since Jensen, his word, got shivved.
+Lena: Those are Jason's stock figures, we didn't independently check the thirty day move. But the earnings are checkable. Revenue a hundred fifteen point eight billion, up a hundred three percent from fifty seven billion a year ago. Net income sixty five point three billion, up a hundred five percent. Both beat estimates.
+Max: Jason rounded to a hundred sixteen and sixty five. And then he said, let that sink in. Sixty five billion in profit in a quarter. Most companies in the stock market aren't worth what Nvidia made this quarter.
+
+Lena: And guidance was a hundred thirty billion for next quarter, which includes an extra week, per the release. And Nvidia isn't assuming any data center compute revenue from China in that outlook.
+Max: And Colette Kress. C F O and now interim C E O. Jason said she didn't exactly inspire confidence on her first call, but the numbers were extraordinary. And they played the viral clip from Mad Money with Jim Cramer, where she says Jensen resigned, the board accepted, and the board won't reinstate him.
+Lena: The board chair said the same on the earnings call. And Jensen said he'd be honored to return if the board agreed.
+Max: Then Jason's two policy changes. One, he said no more "splashy cashy." Kress said they'll be, in his quote of her, "more disciplined and selective" on new neocloud financing. Jason's line was, the bank of Jensen is closed.
+Lena: That quote is Jason's reading of her remarks. I couldn't confirm the exact wording.
+Max: Two, Jason said she ended H two hundred sales to China. He said Commerce had approved those for sale, so this was an elective move.
+Lena: Partly checked. The C F O commentary says Hopper shipments to China were about two point four billion last quarter, and the outlook assumes no China data center compute revenue. Whether that's a formal decision to stop selling, I'd treat as Jason's characterization.
+Max: And then the legal list. S E C probe, class action lawsuits about potentially misleading statements, and the D O J investigation involving Megaspeed, the Singapore company. Jason said Chamath predicted this.
+Lena: Axios mentioned the reported S E C probe. And the standard caution. Nobody in this story has been charged with anything, and Megaspeed says it conducts lawful business.
+Max: And then the talent problem. Employees signing petitions. And Travis Kalanick.
+Lena: Oh, Travis.
+Max: Jason played a clip. Travis, at a conference in Austin, saying he sent Jensen screenshots of the old petition to bring him back at Uber, and told him, "petition good, walkout better." And Jensen didn't reply.
+Lena: Of course he didn't.
+Max: And then the line everyone quoted. He'd show up at Nvidia H Q with a "wafer-encrusted megaphone," with Nvidia employees who want to walk out and founders who believe in what he's saying. Business Insider confirmed the quote.
+
+Lena: And Jason's verdict was "jackets for Jensen."
+
+Max: Then Jason asks Chamath for his thoughts, and Chamath gives the most measured answer of the week. And then the least measured.
+Lena: Both at once.
+Max: The measured part. He said Jensen was an exceptional, legendary founder. He built the most important company in the most important industry. "Biblically good." And he also made a bunch of mistakes, and the extent of those isn't known.
+Lena: And his governance point. You can't reinstate someone into a public company after that much value has been destroyed, because it throws governance out the window and puts everyone at risk, including the company. So, he said, it's not going to happen, and that's why the board has to say it.
+Max: And he defended Kress. He said she's excellent, she's just the messenger, and the internet trolls giving her a hard time are wrong.
+Lena: And then the key fact. He said the people involved have to get through three committees on December first and second.
+Max: Checked. Jensen agreed to closed-door transcribed interviews on December first with the House Foreign Affairs Committee, the House Intelligence Committee, and the Select Committee on the Chinese Communist Party. Nvidia's general counsel, Tim Teter, goes December second.
+Lena: And Chamath's point was, nobody can make any decision until those are done. If there's even a shred of "there's something to see here," it'll leak and there'll be another wave, because the stakes are too high.
+Max: And then the unmeasured part.
+Lena: He said the more people blather on about superficial stuff, the harder it is for Jensen to come back. And that he'd tell everyone to, and I'm cleaning this up a lot, be quiet and let him prepare. He called the bottom up protests a fundamental misunderstanding of what's happening, which is closed-door congressional hearings, on the record.
+Max: So, a direct shot at the jackets-for-Jensen crowd. Including, sort of, Travis.
+Lena: And Friedberg agreed, with his own twist. He said we don't know why Jensen resigned. Chips to China, espionage, affairs, code of conduct violations. The company hasn't put out a definitive statement, Jensen hasn't put out factual statements, the government hasn't, and there's been no civil or criminal case. So we're all reacting to media, which, he said, we always say lies to us.
+Max: And Jason tried to cite a report, and Friedberg cut him off. That's a media report. I'm not going to react to media anymore.
+Lena: Which is a pretty big statement for someone on a news podcast.
+Max: And Jason, of course, said, I will not shut up, I'll give my opinion. His guess, from triangulating reports and "knowing what I know about salespeople," is that this will turn out to be rogue salespeople in a gray area. Resellers on resellers, chips getting flipped, back doors through cloud providers.
+Lena: Pure speculation, and he said so. And Chamath named him "Nostracanis."
+Max: Nostradamus plus Calacanis. Then a long bit about Jason's crystal ball being a dirty paper bag, which Jason insisted was Louis Vuitton.
+
+Max: Jason's defense was, this is a podcast, speculating is my right as an American, and that's why the show is number one. And Chamath said he'd chosen to shut up because the moment of truth is a few weeks away, and that he learned from being wrong on the midterms.
+Lena: Okay, and then Friedberg turned it back to something bigger. He said what he is speculating on is a large scale, in his word, unconscious effort to monopolize A I. And if people don't fight for open source and competition, we end up with an oligopoly, which, he said, nobody of any party should want.
+Max: And then Chamath read what he called the numerical receipts. As they were taping, the S and P down about one point four percent. The V I X up about eleven percent. Anthropic up eighteen percent from its I P O price. And the only other big name ripping, Palo Alto, up about six percent, because they made a big bet on open source. He said Friedberg is right, and the market will reward you.
+Lena: So that's a real tension. Chamath says the market is rewarding the open source bet on a day when everything else is falling. And he still calls himself principally risk off.
+Max: Three reasons. Economically, a lot yet to come. On the A I trade, we don't know the first order effects until after the hearings, including what happens when the bank of Nvidia closes. And third, he said we're getting cyber hacked every day, and being told to prep for three days.
+Max: And Jason ended with "I buy Nvidia at a hundred fifty, not investment advice," and see you in Vegas.
+Lena: Same from us. Not investment advice. Not even a Louis Vuitton bag.
+
+Max: Okay, last big block. Final reset. We've done Anthropic, megacorps, open source and Nvidia. Now Tuesday's interview, which honestly might age the best of anything this week. Jason with Ali Ghodsi, C E O of Databricks.
+Lena: Quick numbers first, because Jason opened with them. He said Databricks did about one and a half million dollars of revenue in twenty fifteen, and that, per a rumor he'd heard, by August of this year it was at a seven billion dollar run rate growing eighty percent a year.
+Max: And Ali later said "seven billion plus" and growing seventy to eighty percent. So roughly consistent, but it's a private company. These are their claims.
+Max: The origin story is great. About twenty of them at U C Berkeley in a lab called AMPLab, which Ali called maybe the largest A I research lab in the world at the time. They were trying to combine data processing with A I, and the industry wasn't interested. He said they started Databricks "out of despair," because nobody was listening. And A I back then was called machine learning. "A I" meant robots. And the very first use case was helping Netflix recommend better movies.
+Max: The three bets. Ali said they bet the farm on cloud, on A I use cases, and on open source, and all three were controversial. He said one of the big analyst firms told him betting on the cloud was a strategic blunder and they'd go under. He had a standing bet with them.
+Lena: Contrarian bets pay off. Classic founder story. Now the headline.
+Max: Ali said, I actually think we already have artificial general intelligence. He's been saying it since last year. He based it on the definition they used in that Berkeley lab around twenty ten. He said he even went back and checked with people from the lab, asking, am I hallucinating? And they said no, by that definition, we're there. We just moved the goalposts.
+Lena: Which is a very specific definition of A G I. The old lab consensus. Not the version where it does every job.
+Max: Right. And his real point was, if all progress stopped today, we already have enough intelligence to transform the planet. And he separated that from superintelligence, which he defined the way Nick Bostrom did in his twenty fourteen book. Something that can do a thousand years of human thought in a minute. And he said the labs are on that quest, which is why they're obsessed with the hardest math problems.
+Lena: And his argument is that's not the real bottleneck.
+Max: No. The real problem, he says, is getting A I to work inside organizations. And the reality check was brutal. He's in customer meetings every day, and he says enterprises are using A I in very rudimentary ways. A glorified Google search. Chatbots. And coding, where he said they're seeing maybe twenty to thirty percent speedups, not the huge numbers you hear.
+Lena: That's the part I'd underline for anyone who listened to Jason's five hundred x argument on the weekly. The Databricks C E O, who sells A I to big companies, says most of them are at chatbots and modest coding gains.
+Max: Fair, but he's also selling the fix. So, why are they behind? He gave four problems. One, context. If you could record every meeting at a two hundred thousand person company, the A I could help a lot. But he said a big bank C E O told him, we will never record meetings. Liability. And if the A I isn't in the meeting, Ali said, it's useless, even if it's the greatest mathematician alive.
+Lena: Two, cyber.
+Max: If you let an agent access all your data, you'll get hacked. Big companies are terrified. Jason said the attack surface for a giant company goes up a thousand x.
+Lena: Three, cost.
+Max: Token costs go up exponentially. And Ali said he doesn't know any company where revenue started accelerating exponentially to match. So the C E O says get more A I, and then the C F O shows up worried about operating expenses before the earnings call.
+Lena: And four, lock in. How do you avoid getting locked in, and how do you own your own I P? Jason called it intelligence sovereignty. Which is basically Chamath's A I sovereignty from the weekly.
+Lena: And when Jason needled him about Anthropic shipping dashboards, close to Databricks's turf, Ali said they don't charge for dashboards. They charge for consumption on governed data. And agents send more queries.
+Max: Which is kind of the business model in one sentence. Every agent is a customer.
+
+Lena: Then the demo. Which, on audio, means we have to describe screens.
+Max: I'll paint the picture. The product is called Genie. The key thing, Ali says, is what he calls an ontology. A graph of the company that it keeps building. Who reports to who, what they're working on, emails, meetings and transcripts, decisions, Slack, docs, spreadsheets, slides. It runs around the clock, and when he comes in the morning it has an inbox of background work.
+Lena: And the employee survey example.
+Max: Yeah. H R ran a survey, over ten thousand employees responded. He asked for a dashboard. Executive leadership scored eighty eight percent. Work-life blend, sixty. And the one that bugs him, what he called "action." Whether employees feel leadership acts on their feedback. About sixty percent, so two out of three say yes, one out of three says no. And he said it's low every year, he promises to fix it every year, and it doesn't happen.
+Lena: Honest.
+Max: Then his C F O says, I bet low work-life blend is causing low action. And Ali asks Genie on the spot. It shows the correlation, and then says, actually, it's not causal. And it points to a manager whose team scores forty four on work-life blend but seventy seven on action.
+Lena: The guy who works people hard but listens.
+Max: And Jason said, that's your guy, I like that guy. And Ali said it would've taken a week to get the data team to do that.
+Lena: Then the chart that got me. Code shipped per engineer.
+Max: Two thousand engineers, how much code each ships to production. It has an L shape. A small group at the top ships way more. They looked into it, and the top people are running what he called automated factories. The rest aren't. And when he added cost, the top people weren't necessarily spending more on tokens. Some spent less.
+Lena: Which supports his efficiency pitch. Route simple questions to cheaper models, use open source, and costs come down. Which, yes, they sell a product for.
+Max: Every story ends with "and we have a product for that." But the other example was striking. He asked how a customer meeting went, and the first thing it said was, "the meeting went poorly." Then who said what and which features they need.
+Lena: No spin.
+Max: That's what Jason latched onto. He said founders get spun, not because people are bad, but because they're human. This gives you ground truth. And Ali said one goal is to reduce human blockers. Legal approval, finance approval, getting a sibling team to agree, another meeting, escalation. Genie finds the blockers.
+Lena: And Jason shared his own bot.
+Max: He built one called Major Decisions. He told it to join every Slack channel as him, read every Notion page, every email, and report on the most important decisions, who participated, and what got resolved. And he discovered who was actually making decisions in his organization. People were apparently surprised he knew some rooms existed.
+Max: And then he called this "management moneyball." Ali agreed, and said he can even ask whether a team's culture is drifting from the company's principles.
+Lena: Okay, I'll be the skeptic on the demo. It's a C E O demoing his own product to a friendly host. And "join every Slack room as me and read everything" is a lot of surveillance. That needs a real conversation about employee trust, which didn't really happen.
+Max: Fair. Though Ali did say employees have access to all this data themselves.
+Lena: He said that, yes.
+Max: And then I P O. Jason asked when they're going public. Ali listed the upsides. Access to capital, much better marketing, a quarterly event where you tell your story. And the downside of staying private, organizing tenders every year. Though he said employees never use up all the money set aside, which he takes as a bullish signal.
+Lena: And the reason to wait?
+Max: Volatility. He doesn't want employees feeling a pay cut every time sentiment turns. Someone was told their stock would be worth two million, it's showing two hundred thousand, they leave, and three months later it's back up. He said, we will go public, we are going to be public. But during this A I transition, there's too much up and down.
+Lena: Which, after watching Anthropic open up thirty four percent and give back a big chunk the same afternoon, is a pretty good argument.
+
+Max: Last topic. Jason asked Ali about superintelligence and the doom crowd. And Ali has a framework.
+Lena: The four conditions.
+Max: First, why people are spooked. He said the people building A I have watched it get really good at coding, and in most companies coding is now done by agents. He said it's causing an existential crisis in Silicon Valley. He coded ten to twelve hours a day, seven days a week, from third grade into his thirties, and now the A I does it better. So people think, it's writing itself, isn't that recursive self improvement?
+Lena: And his answer was a great line. "Just because ninety eight percent of the code is being written by A I, we don't have R S I. If it automates the last two percent, who cares?"
+Max: Then the four conditions for a real takeoff. One, each new model has to be trained much faster than the last. Super linearly faster, not just a bit. Two, it has to use fewer resources, because you can't keep ten x-ing hardware. You run out of atoms. Three, accuracy has to improve across the board, not just in math or one area you did reinforcement learning on. And four, all three have to keep happening in a loop. Three months, then one month, then two weeks, and cheaper every time.
+Lena: And his verdict?
+Max: That flywheel doesn't exist. Models take longer to train, there's more data cleaning, more what he called whack-a-mole. Even if you had the loop, it's not a guarantee of anything conscious taking over. To threaten him, he said, a killer robot would have to come into the room and wrestle him down, and those don't exist yet.
+
+Lena: Then the French fridge story.
+Max: Jason brought up hackers using a capable model to discover that refrigerators in French grocery stores had the password "admin admin," and remotely switching them to defrost so butter and milk went bad. Jason called it a tragedy for the French.
+Lena: Jason's anecdote, unverified by us. And his point was, that's not superintelligence, that's a bad default password.
+Lena: And Ali's view on cyber is the most useful part. He takes it seriously. Biggest real risk, in his view. And he acknowledged the asymmetry. An attacker can launch thousands of agents and only needs one to get through. The defender has to be right every time.
+Max: But he's optimistic, and his reason is clever. He thinks these are mostly old bugs in existing code. New code is being scanned as it's written. So what's left is legacy code, which can be rewritten or patched. He compared it to a fruit garden. Agents can reach higher fruit than humans could, but there's a finite number of vulnerabilities, and once they're cleaned up, you reach a steady state.
+Lena: I'd push on "finite." New software keeps getting written, and people are still the weak link. Which, to his credit, Jason said too. The humans are the vulnerability.
+Max: And then the E A question. Jason asked whether that community is drunk on its own success, and brought up Dario Amodei saying on the roadshow that cancer and Alzheimer's could be gone in under ten years. Jason said he doesn't doubt Dario believes it, but worried about false hope for families.
+Lena: And Ali was generous. Everyone's the hero of their own book. He said reading Bostrom freaked him out too. But he sees no evidence of R S I, his four criteria aren't being met, and he called the risk of that scenario close to zero. Cyber is the real risk, and he called it manageable.
+Max: On cancer, he said he honestly doesn't know. Human trials take time. Maybe ten years, maybe fifty.
+Lena: And his last big claim. He thinks this takes ten to fifteen years to really spread through companies, and that G D P will move very slowly, over decades. The labs think six months to two years. He thinks decades.
+Max: Which is the perfect bookend for the week. Jason says five hundred x. The Databricks C E O says decades.
+Lena: And they can both be right. Usage can explode while the economy changes slowly.
+Max: Okay, what to watch. December first and second, Jensen and Nvidia's general counsel in front of three House committees. Anthropic's first few weeks as a public stock. And whether that Chinese A I disclosure idea becomes an actual rule or stays a trial balloon.
+Lena: And whether anyone shows up to the next episode in a leather jacket.
+Max: I'm hoping for Louis Vuitton. That's the show. See you next week.
+Lena: Bye, everybody.

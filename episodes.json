@@ -221,5 +221,18 @@
     "guid": "aefm-share-anthropic-ipo-day-f13c4512",
     "chapters_url": "https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/anthropic-ipo-day-f13c4512/chapters.json",
     "transcript_url": "https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/anthropic-ipo-day-f13c4512/transcript.txt"
+  },
+  {
+    "title": "The Week Everything Broke, Apple's Agent Plan, and a Mouse You Wear on Your Finger",
+    "description": "The week everything broke: Outlook, iCloud, a nationwide ground stop, and a video game that set Comcast's traffic record. Sam and Nora sort out what actually failed (old equipment, a latent bug, rushed patches; no evidence of a coordinated attack), with reliability engineer Declan calling in. Then Nvidia's second week without Jensen Huang, Apple's plan for a real AI agent and Siri-powered smart glasses (and why the HomeView reviews make that a big \"if\"), Hype vs Reality on Valve's Steam Machine, an iPhone Duo face-unlock mailbag, and WHAT?! of the Week: the Borslon, a gaming mouse you wear on your index finger ($99 Kickstarter pledge, $158 planned retail).\n\nCallers Declan (site reliability engineer) and Rosie (iPhone Duo shopper) share takes on what was reported. Dr. Helix Crane returns for the finger mouse.\n\nQuick hits: Google retiring the Nest app (Jan 25, 2027) and Assistant on speakers/displays (Aug 2, 2027); Teenage Engineering EP/BC-1 CD player (~$299-$329); Signal blocks Siri AI and Gemini screen reading; Gemini computer use on Mac; Google Play foldable app rules (April 2027); GTA VI ($79.99, $3.79B first day); Anthropic IPO; Halide fill flash on iPhone Duo; Nothing's AI device on Dec 8.\n\nSources: The Vergecast (Nov 16, 17, 18, 19 and Fri Nov 20 \"The week everything fell apart\"; politics skipped); Joanna Stern, The New Things (Nov 18 \"Breaking: The Internet!\", Nov 20 \"The agents dealing with my email\", free portions) and her Power On guest appearance; MKBHD \"Can You Trust MKBHD?\" (Nov 17) and Waveform ep. 384 (Nov 20, chapter notes); Mark Gurman / Bloomberg (Mastodon posts; Power On newsletter via MacRumors re-reports, paywalled) and the Power On podcast (Nov 19); Daring Fireball written posts Nov 14-20 (political posts and The Talk Show skipped); Mashable (iPhone Duo face unlock, Google Play foldable rules, Gemini on Mac). Also The Verge, MacRumors, Ars Technica, NerdZap, Engadget, New Atlas, eTeknix, iFixit, Take-Two, Nvidia, CNBC, UnWonked (outage causes and Microsoft patch counts).\n\nWindow: Sunday Nov 15 through Saturday morning Nov 21, 2026. Gadgets, tech, AI and devices only.",
+    "date": "2026-11-21",
+    "folder": "techdigest-2026-11-21-af9bf676",
+    "file": "techdigest-2026-11-21-af9bf676.mp3",
+    "length": 32093608,
+    "duration": "00:44:34",
+    "pub_iso": "2026-11-21T08:05:56-05:00",
+    "guid": "aefm-share-techdigest-2026-11-21-af9bf676",
+    "chapters_url": "https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/techdigest-2026-11-21-af9bf676/chapters.json",
+    "transcript_url": "https://augustorpo.github.io/aefm-share-986c19fc63c6f91c/techdigest-2026-11-21-af9bf676/transcript.txt"
   }
 ]

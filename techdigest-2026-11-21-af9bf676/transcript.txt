@@ -1,0 +1,385 @@
+Sam: Nora, this week Outlook went down, iCloud went down, every flight in America stopped, and a video game broke Comcast's all-time traffic record.
+Nora: And Apple's status page said everything was fine. Because the status page was also down.
+Sam: The status page was down! That's the week. The week everything broke.
+Nora: So that's our top story. Then the Nvidia saga keeps going, Apple's plan to make Siri an actual agent, Hype versus Reality on Valve's Steam Machine, and the mailbag, where someone wants to know if the iPhone Duo is finally safe to buy.
+Sam: And to close, a gaming mouse you wear on your finger. Like a ring. A very aggressive ring.
+Nora: I've seen the pictures. I have questions.
+Sam: Welcome to the Signal and Noise Tech Digest. I'm Sam.
+Nora: I'm Nora. Our window is Sunday the fifteenth through this morning. Quick hits first.
+
+Sam: Rapid fire. Nora, you start with the one that's going to annoy a lot of people with thermostats.
+Nora: Google is killing the Nest app. January twenty-fifth, twenty twenty-seven. Your Nest thermostats, cameras, and Protect alarms all move into the Google Home app. If you've set up Google Home, it moves your cameras and video history over automatically on that date.
+Sam: And if you have clips you care about?
+Nora: Download them. Google starts deleting Nest account data in late March. And the bigger one: on August second, twenty twenty-seven, Google Assistant goes away on smart speakers and smart displays. Gemini for Home replaces it.
+Sam: So "Hey Google, set a timer" is about to get a lot smarter.
+Nora: Or a lot chattier. We'll see. Google already killed Assistant on phones earlier this year, so this isn't a shock. It's just the date.
+Sam: Mine: Teenage Engineering made a CD player.
+Nora: Of course they did.
+Sam: The EP slash BC one. The disc just spins out in the open on top, no lid, no tray. It's got a jog wheel, cue markers, beat detection, a battery, Bluetooth headphones, and Auracast so you can stream to a bunch of speakers at once.
+Nora: Price?
+Sam: Here's the fun part. The Verge says two ninety-nine. Engadget and the store listing we saw say three twenty-nine. So, roughly three hundred dollars for a CD player.
+Nora: In twenty twenty-six. For a format that's almost forty-five years old.
+Sam: Teenage Engineering says it comes from, quote, "a shared obligation within the company to preserve the formats they grew up with."
+Nora: That's the most Teenage Engineering sentence ever written.
+Sam: It really is. Next.
+Nora: Signal now blocks AI assistants from reading your chats. On iPhone, there's a new setting called Block Siri AI, and it's on by default. On Android, screen security kicks in automatically when an assistant like Gemini tries to read the screen.
+Sam: So the agents can read everything except the encrypted messenger. Seems right.
+Nora: Seems very Signal. And on the other side of the agent fence, Mashable reports Gemini can now control your Mac. You give it a task, it opens apps, digs through files, browses the web, in a separate background window you can watch.
+Sam: And pause, right? Because I would want a pause button.
+Nora: You can pause it and approve decisions. It needs a paid Google AI plan and an Apple silicon Mac. And Mashable's point was that Google is a little late here. Meta, OpenAI and Anthropic already do this.
+Sam: Two more from Google, because it was a very Google week. Mashable also flagged that Google Play will start forcing apps to work properly on foldables. Starting April twenty twenty-seven, apps that don't resize well on big inner screens can get blocked from pushing updates.
+Nora: Finally. No more phone apps stretched across a tablet screen like a hot dog on a hamburger bun.
+Sam: And games get the same rule in August. Okay, the big one. Grand Theft Auto Six came out Thursday.
+Nora: I know. My entire group chat went silent.
+Sam: Seventy-nine ninety-nine for the standard edition. Rockstar says it made three point seven nine billion dollars in its first day.
+
+Nora: In one day.
+Sam: One day. And thirty-two and a half million copies sold before launch. And Comcast says the day before release, when everybody was downloading a two-hundred-gigabyte game, was the busiest day in its network's history. Traffic was thirty-one percent above a normal day.
+Nora: So the one thing that didn't break this week was the thing everyone expected to break.
+Sam: Ha. Pretty much. Reviews are glowing, too. Metacritic has it at ninety-nine.
+Nora: And one business note, quickly, because it was everywhere: Anthropic went public Thursday. Biggest IPO ever. Priced at eighty-three dollars, closed the first day at about ninety-seven, up seventeen percent.
+Sam: That's all we'll say about that one. Last quick hit: if you have an iPhone Duo, the camera app Halide now lets you use the outside screen as a soft fill flash for photos.
+Nora: That's actually clever.
+Sam: It's very clever. And Nothing finally gave its screenless AI gadget a date. December eighth.
+Nora: The little remote-control thing.
+Sam: The little remote-control thing. Okay. Top story.
+
+Nora: Let's do the list, because the list is the story.
+Sam: Go.
+Nora: Last Thursday, the thirteenth, the FAA stopped departures nationwide for more than four hours. Only the second nationwide ground stop since 2001. Around twelve thousand cancellations followed.
+Sam: Twelve thousand.
+Nora: Then United had its own system outage a few days later. Microsoft's Outlook and Teams were down for most of two days. Monday, Chase had what looked like a banking outage. And Tuesday, Apple had an internal update go wrong and take down iCloud, the App Store, AppleCare, and even checkout in Apple Stores.
+Sam: Gruber had a great little post on that one. He was installing a beta on one of his Macs, and Photos was missing pictures, Notes was missing changes, and he thought his whole machine had gone bad.
+Nora: And he checked Apple's status page.
+Sam: All green. Everything fine. Turns out the status page wasn't working either.
+
+Nora: That's the most twenty twenty-six sentence of the week.
+Sam: He also wrote that people in Apple Stores were just standing around waiting. And Gurman confirmed the cause the same day: an internal update, not an attack. Apple had things back by early evening Eastern.
+Nora: Okay, so here's what I want to be clear about, because the internet went full conspiracy. Joanna Stern's newsletter this week was called "Breaking: The Internet!" and she said it plainly: there's no evidence these outages were connected, or that any of them were cyberattacks.
+Sam: So what actually broke?
+Nora: Boring stuff, mostly. The FAA problem, per Aviation Week, was a malfunctioning router at a facility switching from old copper wiring to fiber. Microsoft blamed a fix from back in July that froze servers under heavy load. Chase said it was a software bug in an on-premise hardware system. Apple said internal update.
+Sam: So, no hackers. Just old wires and bad updates.
+Nora: Which is almost scarier, right?
+Sam: That's exactly where The Vergecast went. Nilay was at Microsoft's Ignite conference and sat in a roundtable with Satya Nadella. Nadella walked through the incident report: they changed one server, that exposed a bug that had been sitting there forever, a certain traffic pattern triggered it, and it rolled across all their regions.
+Nora: And Nilay asked the obvious question.
+Sam: Was it AI? Did you ship AI code that broke it? And per Nilay, Nadella said no, AI actually helped them fix it. But then Nadella said, "we're in a Y2K moment."
+Nora: Huh.
+Sam: And he called critical digital infrastructure "the dial tone for the world."
+Nora: Okay, so what's Nilay's theory? Minus the attitude.
+Sam: The substance is this. AI tools are finding security holes faster than ever. So companies are rushing to patch everything. Lots of fast updates, everywhere, all at once. And there aren't enough people to do it carefully. So some of those updates go badly, and suddenly we all see how much of life runs on, his words, "rickety computers."
+Nora: And there's a number behind that. One analysis this week pointed out Microsoft's October security update fixed about fourteen hundred flaws. The October before, it was about one seventy.
+Sam: That is up about seven hundred percent. Wow.
+Nora: Roughly eight times as many patches. Every patch is a chance to break something.
+Sam: And I liked David Pierce's framing. Very chill, very David. He said each of these has a relatively simple, benign explanation. But when you add them all up, "something big is still happening here."
+Nora: I agree with that. Okay, I want an actual expert on this. We have one on the line. Declan, you run reliability for a big cloud platform. You're the person who gets paged at three in the morning.
+Declan: That's me, unfortunately. Hi, Nora. Hi, Sam.
+Nora: Declan, tell us, is the internet getting more fragile, or did we just have a bad week?
+Declan: Bit of both, honestly. Outages happen every week. What was different here is they hit things everyone touches, at the same time. Flights, email, your bank, your iCloud. So it felt like one event, even though, from what's been reported, it was four or five unrelated ones.
+Nora: And the patch flood? Is that real from where you sit?
+Declan: That part I'd take seriously. If the number of fixes jumps the way those Microsoft figures suggest, every one of them has to be tested, rolled out, watched. The scary failures aren't the big obvious ones. It's the change that looks tiny. One server, one config tweak, and then a bug that's been asleep for years wakes up.
+Nora: That's exactly the Nadella story.
+Declan: It's the classic story. The fix is boring too. Roll changes out slowly, a small slice of servers first. And keep enough experienced people around who know where the old bodies are buried, so to speak.
+Nora: What should a normal person do? Like, someone listening who just wants their stuff to work.
+Declan: Keep a little offline backup of what matters. Know your boarding pass is in your wallet app, screenshot it too. Have a second way to pay for things, a card and a bit of cash. And don't trust a status page as gospel.
+Nora: Ha. Lesson learned.
+Declan: Lesson learned by Apple, too, I'd imagine.
+Nora: Thanks, Declan. Go get some sleep.
+Declan: Not likely. Cheers.
+Sam: Joanna also had a great bit of history in that newsletter. A Y2K story.
+Nora: Oh, the video tape.
+Sam: Early two thousand. A man near Albany, New York, returns a videotape he rented the year before. The computer says he owes ninety-one thousand two hundred fifty dollars.
+Nora: Because it thought he was a hundred years late.
+Sam: A hundred years late. The store owner waived it, figured out the real fee with pen and paper, and gave him his next rental free.
+Nora: That's the real fix. A human with a pen.
+Sam: Write that on the server room wall.
+
+Nora: Okay. Nvidia. Week two of the saga. Short version, please. We're a gadget show.
+Sam: Short version. Last week Jensen Huang resigned. This week, three things. One: Nvidia reported earnings Tuesday with interim CEO Colette Kress. Revenue about one hundred sixteen billion dollars for the quarter, up a hundred and three percent from a year ago.
+Nora: So the chips are still selling.
+Sam: The chips are very much still selling. Two: hours before that report, Jensen posted on X that if the board decided it was best, he "would be honored to answer these calls and return as CEO."
+Nora: Oh no.
+Sam: Oh yes. And three: it does not look like that's happening. On Mark Gurman's Power On podcast this week, with Joanna Stern as the guest, the take was basically, it's not up to him, it's up to the board. And on The Vergecast, the hosts' read was that the problem is less the affairs now and more the chip smuggling questions around a company called Megaspeed. Nilay's line was, "it's not the lie, it's the cover-up."
+Nora: And the market?
+Sam: Nvidia's stock closed the week down fourteen percent, after Reuters reported the SEC is looking at its accounting.
+Nora: Is there any gadget angle here at all, or should we move on?
+Sam: One. Remember we said last week the board might look outside? The name everyone's floating is Johny Srouji. Apple's hardware chief. The guy behind Apple silicon.
+Nora: The chip guy behind every Mac and iPhone.
+Sam: That guy. Patrick McGee, who wrote the book "Apple in China," posted that Srouji would be an incredible choice and he believes he'd take it. Gruber wrote the opposite. His argument: Apple's top people, quote, "genuinely bleed six colors," and Srouji would see running Nvidia as a step down, not up.
+Nora: Who's right?
+Sam: No idea. Nobody's announced anything. But if Apple's chip boss left, that would matter a lot more to your next iPhone than anything in Nvidia's earnings.
+Nora: Fair. Gruber also had one more Nvidia note worth hearing. The Wall Street Journal reported Nvidia's days as an "open checkbook" for AI startups are numbered.
+Sam: And he asked about the Hugging Face deal.
+Nora: Right. Nvidia agreed in September to buy Hugging Face for thirteen billion dollars. Gruber points out The Information reported Hugging Face's annual revenue was around a hundred fifty million. His view: if the open-checkbook era is over, unwind the deal.
+Sam: Strong take. Okay, that's Nvidia.
+
+Nora: Quick reset. If you're just joining: the week everything broke, and why it was boring causes plus too many patches. Nvidia still has no permanent CEO.
+Sam: Still to come: Apple is building an agent, and its glasses depend on Siri, which, uh, okay. Then the Steam Machine reality check, the iPhone Duo mailbag, and the finger mouse.
+Nora: The finger mouse.
+Sam: Patience.
+
+Nora: Deep dive. Apple and agents. Set it up, Sam.
+Sam: So this was the week every company's AI started doing things for you instead of just chatting. Gemini controlling your Mac. Google turning its agent into something called Tasks. Joanna letting OpenAI's Dot read her email. And then Thursday, Gurman reported Apple is building its own agent. A real one.
+Nora: Not just Siri.
+Sam: Beyond Siri. Gurman's post said it's an autonomous AI agent with computer use. Device control, using apps, browsing the web, even coding. To compete with Meta's Muse, ChatGPT's Dots, and Claude Code.
+Nora: How do we know?
+Sam: A job listing. Bloomberg spotted it, and MacRumors quoted it. It opens with, "Imagine an AI agent that can use a computer the way a capable person does." Then it says it browses the web, works across apps, runs commands, writes and debugs code, and does it all, quote, "privately and with the polish people expect from Apple."
+Nora: The polish people expect from Apple. Let me hold that thought for, like, one minute.
+Sam: Ha. Go ahead.
+Nora: Because the same week, everyone who reviewed the HomeView said the software is a mess. Jason Snell said it feels like the tech stack was "created in a blender." And Gruber took it further. He said the software is like bits of iOS, watchOS, tvOS and CarPlay, quote, "cut up and assembled into a ransom letter."
+Sam: That's brutal. But it's also a really good line.
+Nora: And it's concrete. He said you can select text on a web page, but you can't copy it or share it. So why can you select it?
+Sam: And Nilay actually bought one.
+Nora: He bought one! On The Vergecast, he said it's a very good simple smart home controller if you live in Apple Home. But a lot of other stuff falls apart. He tried to run his Shortcuts, and it can't, because it can't reach his phone. He added widgets for his calendar and tasks, and they load, but they never update, because the HomeView can't open the apps.
+Sam: So, empty widgets.
+Nora: Empty widgets. His summary was that the hardware and software aren't talking to each other.
+Sam: And on Waveform, Marques and the crew mostly talked about two things with HomeView. Slow switching between family members, and the gap between what the ads show and what reviewers actually found.
+Nora: Joanna made a whole video about exactly that gap. Ad versus reality.
+Sam: And the Waveform crew also hit Siri's speed. They said it's just slow, compared to what they get from Gemini.
+Nora: Which is the whole problem. Okay, let's talk about the glasses, because that's where this gets real.
+Sam: Right. Sunday's Power On. Gurman says Apple's first smart glasses, code name N fifty, get announced at WWDC next June and ship before the end of twenty twenty-seven.
+Nora: What do they do?
+Sam: No display. No augmented reality. You talk to Siri, and Siri uses the cameras to answer questions about what you're looking at. Identify a building, suggest dinner from what's in your fridge, translate a sign. Plus calls, music, notifications.
+Nora: And the big feature?
+Sam: Siri controlling your iPhone apps. Gurman's examples: book an Uber, reserve a table, order a coffee, buy movie tickets. The apps run on your paired iPhone, not the glasses.
+Nora: So the whole product hinges on Siri being good at doing things in apps.
+Sam: Yes. Apple's own apps get those Siri controls in December. Third-party apps in twenty twenty-seven. And Gurman says the hardware is mostly settled, but the software and AI are running late. They could push the launch.
+Nora: Fun hardware detail, though?
+Sam: Oh, the charger. A flat, three-pin magnetic connector, quote, "roughly the size of a Tic Tac," near the end of the left arm. You can charge them while wearing them.
+Nora: So you'd walk around with a cable hanging off your ear.
+Sam: For the true fans. Also, the chip inside is reportedly derived from older Apple Watch chips.
+Nora: What do they look like?
+Sam: Gurman says current prototypes are slightly thinner than Meta's second-generation Ray-Bans. Some test units have oval camera openings built right into the frame, nothing sticking out. And there's a light on the front that shows when it's in use or charging.
+Nora: Good. A recording light matters.
+Sam: Apple is apparently experimenting with more privacy features on top of that. And employees reportedly describe the sound as, quote, "industry-leading." Music, calls, FaceTime audio.
+Nora: And do they need an iPhone?
+Sam: Yes. Current plans require a recent iPhone. No Android support. The phone does the heavy lifting, because the glasses have limited processing power and memory. Some things work over Wi-Fi without the phone nearby, but they're not a standalone device.
+Nora: So it's an iPhone accessory you wear on your face.
+Sam: Pretty much. And there's overlap with something else Gurman has reported: AirPods with cameras, still scheduled for late twenty twenty-seven. Those would also let Siri see what's around you.
+Nora: So Apple's whole next wave of hardware is cameras feeding Siri.
+Sam: Cameras feeding Siri. Which is why the Siri question is the whole ballgame.
+Nora: Okay. Here's my skeptic hat. On that Power On episode, Gurman and Joanna dug into why Siri keeps failing at basic tasks, and whether Apple needs to start over with a new assistant. They also talked about how Apple's AI problems are delaying hardware. The glasses. Camera AirPods.
+Sam: That's a big statement from two people who've watched Apple for a long time.
+Nora: And Nilay had a related bit on Apple Watch. Siri Recaps and Live Rewind. Live Rewind is: you double press and get a transcript of the last fifteen seconds of audio around you.
+Sam: Which is kind of amazing.
+Nora: Kind of amazing, and kind of creepy. His point, and I think it's fair, is that no matter how elegant the privacy tech is, you're still recording the other person's voice and making a transcript. And the light on the watch shows up after you've already done it.
+Sam: That's a good point. The consent comes after the recording.
+Nora: Right. And the summary we read of that episode says the hosts thought Siri Recaps were both privacy-heavy and not very useful.
+Sam: Okay, but let me be the optimist for a second, because I am contractually obligated.
+Nora: You really are.
+Sam: Apple is doing some smart stuff here. Gruber wrote about a change in the new macOS beta. Right now, if you give an app this big scary Full Disk Access style permission, it can basically control everything. In macOS twenty-seven point three, Apple splits that up. You can let an automation tool control Mail, but not Messages. You can make an app ask every single time. And there's a new menu bar light when an app is controlling another app.
+Nora: That's genuinely good. That's the stuff you want before agents run your computer.
+Sam: And Gruber's verdict was that it gives users more control, not less. So Apple is building the safety rails first.
+Nora: Rails with no train yet.
+Sam: Ha. Rails with no train yet. Fine.
+Nora: Meanwhile, Google shipped its train, and then named it badly. Google renamed its Spark agent to Tasks. Inside Gemini. It can make meal plans, manage your calendar, dig through your email for subscriptions you forgot. In the US it can even call businesses to check prices and inventory.
+Sam: And the problem is Google already has an app called Google Tasks.
+Nora: Which is a to-do list! David Pierce on The Vergecast tried it: in Gemini, if you type "at tasks," it adds an item to your old Google Tasks list. Not the new agent.
+Sam: That's incredible.
+Nora: Gruber's version: "measure twice and cut once when naming anything."
+Sam: And Waveform had a Gemini story too. Andrew asked Gemini in Android Auto to text his arrival time to someone, and it got confused.
+Nora: So nobody's agent is perfect.
+Sam: Nobody's. But here's the thing, and Joanna nailed it. She said the best use of AI agents right now isn't doing things. It's watching things.
+Nora: Yes. I loved this one. Her newsletter Friday was "The agents dealing with my email." She finally let ChatGPT's Dot into her Gmail, told it to watch for stuff about her kids, payments, deadlines.
+Sam: And it caught something.
+Nora: A sneaky subscription price hike. From one dollar a month to twenty-five.
+Sam: That's up twenty-four hundred percent. Wow.
+Nora: Twenty-four hundred percent! But she's careful. Read access only. Anything that sends, deletes or changes needs her approval. And she flags prompt injection, where a malicious email hides instructions to trick the agent.
+Sam: So the verdict on Apple?
+Nora: Apple has the trust and the privacy story. Everyone else has the working agent. Apple's job listing says "polish people expect from Apple." The HomeView reviews say polish is exactly what's missing right now.
+Sam: My verdict: Apple's late, but the macOS permission work tells me they're thinking about the hard part. If the glasses ship with a Siri that actually works, they'll sell.
+Nora: That "if" is carrying a lot of weight.
+Sam: The heaviest "if" in tech.
+
+Sam: Hype versus Reality! This is where we take something that launched months ago and check the promise against what actually happened.
+Nora: And this week it's Valve's Steam Machine. Which made news again Thursday.
+Sam: Remind people what it is.
+Nora: It's basically a small, quiet gaming PC shaped like a console, running SteamOS. You plug it into your TV and your whole Steam library is right there. Valve delayed it from early this year because of the memory shortage, and launched it in June.
+Sam: And the hype was real. I remember. Valve hardware, living room PC, finally.
+Nora: So, the promise. Valve's store page originally said, quote, "4K gaming at 60 FPS with FSR." That's the number a lot of people bought it for.
+Sam: And the price?
+Nora: Ten forty-nine for the base model with five hundred twelve gigs. Thirteen forty-nine for two terabytes.
+Sam: Ooh. That's not console money.
+Nora: It is not. A PlayStation 5 is about six fifty right now. So the Steam Machine is about sixty percent more.
+Sam: Okay, so reality. What did reviews say?
+Nora: All over the place. PC Gamer gave it sixty-two out of a hundred. Engadget, six and a half out of ten, and said it isn't worth the price Valve is asking. IGN gave it an eight and called it the best living room PC their reviewer had ever used, even though it's a bit weaker than the base consoles.
+Sam: So it depends whether you judge it as a PC or as a console.
+Nora: Exactly. And that four-K-sixty promise? Reviewers found it fell well short, even with upscaling. And then, a few days into launch week, Valve quietly changed the store page to "Up to 4K gaming with FSR four point one."
+
+Sam: "Up to." The two most powerful words in marketing.
+Nora: "Up to" is doing a lot of work. The "60 FPS" part just disappeared. That's according to NerdZap's three-month look back, which tracked the change.
+Sam: Okay, but let me defend it. Everybody praised the design, right?
+Nora: Everybody. Industrial design, SteamOS on a TV, user-replaceable storage, and it's whisper quiet. Engadget said you basically can't hear the fans over normal room noise.
+Sam: And Valve's excuse on price is real. RAM prices went crazy.
+Nora: That's fair, and Valve said it in public. Its words were, "our original goal for the price of Steam Machine is no longer viable."
+Sam: So how's it selling?
+Nora: Valve doesn't share numbers. Ars Technica cited estimates of twelve to fifteen thousand a week back in July. For comparison, the PS5 has averaged over three hundred thousand a week over its life.
+Sam: So, niche.
+Nora: Niche. And here's Thursday's news. Valve says you can now just buy the five-hundred-twelve-gig model, no waitlist, ships in a few days. But the two-terabyte waitlist is closed, because there are more people on it than machines. And Valve said memory and storage costs keep rising, so it doesn't know how many it can make, or, quote, "at what price we'll be able to offer them."
+Sam: So the price could go up.
+Nora: Could go up. Valve says more news in January.
+Sam: Okay, verdict time.
+Nora: The hype was "a console-killer PC for the living room." The reality is a lovely, quiet, niche machine that costs too much, had to walk back its headline performance claim, and might get more expensive.
+Sam: My verdict is kinder. If you have a big Steam library and you want it on your TV, there's nothing else like it. But if you were waiting for four-K-sixty at console prices, that product doesn't exist.
+Nora: Gavel?
+Sam: Gavel.
+
+Nora: Hype, mostly. Product, good. Price, ouch.
+
+Sam: Source roundup. What our regular shows and writers said this week. Vergecast first, since we've already leaned on the Friday episode.
+Nora: The weekday episodes were great this week, actually. Monday was all e-readers.
+Sam: Oh, nice.
+Nora: David had on Jackie Robicheaux, who you might know as Jackie's Book Tally online, to go through all the new devices. Kindles, Kobos, Booxes, and something called an Xteink. Which ones are too big, too small, too warm, too cold, and just right.
+Sam: Goldilocks and the three e-readers.
+Nora: Exactly the framing. Tuesday was the writer Gideon Lewis-Kraus, who traveled the world trying to understand how computer chips get made.
+Sam: That sounds like a fun one.
+Nora: The big point from the episode description is that nobody, no matter how much money they have, can just decide to become a chip giant. It's that hard.
+Sam: Which is a pretty good backdrop for the Nvidia week.
+Nora: Great timing. And then two days of GTA. Wednesday, The Verge's Andrew Webster said the game is fantastic, and that its approach to coffee tells you everything you need to know about it.
+Sam: Coffee?
+Nora: We only saw the episode description on that one, so I can't tell you the coffee thing. You'll have to listen. Thursday, Stephen Totilo from Game File explained why GTA matters so much to the whole game business, and why GTA Online might be an even bigger deal than the main game.
+Sam: And Friday was the outages episode, plus a lightning round. We covered the Google Tasks rant and the Apple Watch bit.
+Nora: And I'll say, David Pierce is really good at the "okay, but what does this mean for a normal person" version. That episode was a good listen.
+Sam: Agreed.
+
+Nora: Joanna had a big week. Two newsletters, plus she was the guest on Gurman's podcast.
+Sam: We covered the outage one and the email agents one. Anything else in there?
+Nora: A nice practical tip in the agents issue. With Black Friday coming, she suggests asking your agent to track a product's price. Something like: track the price of this thing, check through Cyber Monday, tell me if it drops below a number, and, this is the key part, "Don't buy anything without asking me first."
+Sam: That last line should be tattooed on every agent.
+Nora: And in the outage issue, she also teased face unlock on the Duo, Waymos getting off highways, and Gemini Tasks. Which she described as, quote, "Not to be confused with Google Tasks, which is an entirely different Google product!"
+Sam: Ha. Everyone made the same joke this week.
+Nora: Because Google made it so easy. One honest note: we didn't find a new Joanna YouTube video in our window. Her HomeView video was last week.
+Sam: Which Gruber linked again this week, by the way. He called it, and I'll clean this up, very good. Both informative and hilarious.
+
+Sam: Marques. One new video this week, and it's not a gadget. It's called "Can You Trust MKBHD?"
+Nora: Oh, interesting. Why now?
+Sam: He did a video with the same title about six years ago. He said the landscape has changed, there are lots more people making tech videos in different ways, so he refreshed his rules.
+Nora: What are the rules?
+Sam: In his words, "I still have never and will never do paid reviews." No company gets an early look at a review before it goes live. No product review is ever sponsored by the company that makes the product. He doesn't invest directly in companies whose products he reviews. Affiliate links are marked. And if a company provided the device, that's noted in the description.
+Nora: That's a good list. Did he say anything about access? Because that's the real pressure on reviewers.
+Sam: He did. He said companies like Apple and Qualcomm increasingly court creators. And he brought up Tesla, which revoked his access after he preferred the Rivian R1T over the Cybertruck. He still reviews Teslas through a local dealer.
+Nora: Which leads perfectly into Waveform.
+Sam: It does! Waveform episode three eighty-four, their last episode recorded in their old studio before they move. A lot of nostalgia.
+Nora: And a Cybercab.
+Sam: And a Cybercab. Marques got an invite from Tesla to order a Cybercab for personal use. And he put down the deposit. A thousand dollars, non-refundable.
+Nora: Wait, why does that matter?
+Sam: Because of a bet. Marques had promised to shave his head if Tesla delivered a Cybercab for under thirty thousand dollars before twenty twenty-seven.
+Nora: And the price is?
+Sam: Twenty-nine thousand nine hundred ninety.
+Nora: Oh no. Ten dollars under.
+Sam: But! There's a mandatory autonomy subscription. Two ninety-nine a month. If you cancel it, the car doesn't move. It has no steering wheel, so there's no manual fallback.
+Nora: So it's a brick.
+Sam: The Verge used that word. The Verge did the five-year math: with the subscription, it's about forty-seven thousand six hundred dollars before taxes, charging and insurance. That's up almost sixty percent from the sticker price.
+Nora: And you can't use it as a taxi.
+Sam: No commercial use. No Uber, no putting it on Tesla's own network. It only works inside Tesla's Robotaxi zones, which Tesla can change. Delivery window in December, not guaranteed. And the federal safety regulator still hasn't ruled on a car with no steering wheel or pedals.
+Nora: So is Marques shaving his head?
+Sam: Per the episode summary, he says he'll honor the spirit of the bet if the car actually becomes available for pickup. The crew was pretty skeptical about the whole program, and they stressed self-driving should roll out cautiously.
+Nora: That's the most responsible bet-honoring I've ever heard.
+Sam: Two more Waveform bits. They read Google's explanation of how its new glasses stop recording if you cover the little recording light. The glasses check at random intervals whether the light is blocked.
+Nora: Random intervals. So how long until it notices?
+Sam: That's exactly what they asked. They plan to test it with a review unit. And they discussed the Duo's new face unlock, which we'll get to in the mailbag.
+
+Nora: Gurman. Besides the agent scoop and the glasses, he had people news.
+Sam: Two moves. Apple named Corey Fugman, a twenty-six year Apple veteran who started in retail operations, to lead Apple Pay and Wallet. He replaces Jennifer Bailey, who retired.
+Nora: And the camera one.
+Sam: Jon McCormack, Apple's head of camera and photo software, retired at the end of October. That's the person behind how your iPhone processes photos.
+Nora: And Gruber wrote a really lovely piece about him.
+Sam: He did. He said McCormack led a lot of the camera briefings and was always fair. He'd even make the case for why someone might prefer the Android photos, and then explain why Apple chose differently. And Gruber said he's clearly a serious photographer himself, he just published a book of nature photography.
+Nora: There's also a stat in there.
+Sam: Per McCormack, over a billion selfies are taken on iPhones every day.
+Nora: A billion a day. That's a lot of chins.
+Sam: Ha. Gurman's angle was that he leaves just as Google and Samsung push generative AI photo editing that blurs what's a real photo. So who sets Apple's line on that now matters.
+Nora: Other Gruber posts?
+Sam: A Duo one. Apple's Greg Joswiak said over two hundred thousand apps are now optimized for the Duo, and that number doubled in just over a week. And Gruber noticed one of the first apps he checked that wasn't optimized was Apple's own Apple Store app.
+Nora: Oh no.
+Sam: It got updated the very next day. And then, his words, the store's back end went down for several hours.
+Nora: That was the outage day!
+Sam: The same week. And a nice nerdy one: he recommended SetShot, a free, open source Mac app by Adam Engst that tracks which settings change during macOS updates.
+Nora: Good for the paranoid.
+Sam: Very good for the paranoid. And on GTA, he watched his son play it at midnight and wrote that it looks incredible and, I'll clean it up, really fun.
+
+Nora: Mashable, quickly. Besides the Gemini-on-Mac and foldables stories, Stan Schroeder tried the Duo face unlock and headlined it "Apple's iPhone Duo gets Face ID, sort of." His subhead: "Better than nothing."
+Sam: That's the consensus.
+Nora: He said it unlocked easily every time, even with his face a bit off to the side. Which is a perfect handoff.
+
+Sam: Okay, we're in the home stretch. The mailbag is about the Duo, then three takeaways, then Dr. Helix Crane is back with the craziest gadget of the week.
+Nora: He's going to love this one.
+Sam: He's going to put it on immediately.
+
+Nora: Listener mailbag. Sam, this one's yours.
+Sam: We've got Rosie on the line. Rosie, welcome.
+Rosie: Hi! Thanks for having me. Okay, so, my question. I have been staring at the iPhone Duo since October. I love the idea of a phone that opens into a little tablet. But I've been scared off by two things. The no Face ID thing, and all those cracked screen stories. Now there's face unlock. Is it finally safe to buy one for Christmas? Or do I wait?
+Sam: Great question. And the timing is good, because things actually changed this week. Face unlock first. It's in the second developer beta of iOS twenty-seven point three. It's called "Unlock with Front Camera." Apple is careful not to call it Face ID.
+Rosie: Why not?
+Sam: Because it's just a camera. Real Face ID uses an infrared depth map. There wasn't room for that hardware in the Duo. So Apple warns during setup that it isn't as secure as Touch ID or Face ID.
+Rosie: Hmm. Can someone unlock it with a photo of me?
+Sam: The Verge tried exactly that. Over twenty attempts with photos and video. It worked once. And after a failed attempt, the phone demanded Touch ID for the next unlock. So a thief would have to get the fake face right on the first try.
+Rosie: Okay, that's better than I expected.
+Sam: And there are guardrails. It only unlocks the lock screen. For Apple Pay, passwords, or logging into apps, you still use Touch ID. It times out after forty-five minutes, then you need Touch ID or your passcode again. And it only works on the outside screen, not the inner one.
+Rosie: Does it actually feel better, though?
+Sam: Every review this week says yes. The Verge said it takes about half a second and made the phone feel more comfortable. Mashable's verdict was "better than nothing." Gruber called it a much-needed compromise. It even worked pretty well in low light. The Verge reviewer had to hide behind a truck at night to make it fail.
+Rosie: Ha. Okay. And when do I get it?
+Sam: It's beta right now. The Verge thinks it could land with the full iOS twenty-seven point three release in December, but Apple hasn't promised a date.
+Rosie: Okay. Now the scary part. The cracks.
+Sam: So, facts. In late October, people reported inner screens cracking, some within hours. Apple acknowledged an issue on a small number of units. It's not a recall. Apple says affected people should contact AppleCare for a replacement.
+Rosie: And if it cracks and Apple says it's my fault?
+Sam: That's where it gets expensive. iFixit reported the out-of-warranty inner display repair is nine ninety-nine. With AppleCare Plus, the service fee is ninety-nine.
+Rosie: Nine ninety-nine for a screen?
+Sam: On a phone that costs about two thousand dollars. So if you buy one, the AppleCare math is pretty simple.
+Rosie: Okay. Anything else I should know?
+Sam: Apps are catching up fast. Over two hundred thousand apps are now optimized for the Duo, double from a week before. There's a new setting called Close to Lock, so it locks when you fold it shut, like closing a book. And one more thing to weigh: The Verge noted Apple reportedly hopes to add full Face ID in the second generation.
+Rosie: Ugh. So the real fix might be next year's model.
+Sam: If Face ID is the thing you really want, maybe. But honestly? I'd buy it. If you want the foldable experience now, this is the week it got meaningfully better. Wait for the December update, buy it with AppleCare Plus, and enjoy it.
+Rosie: Okay. AppleCare, December update. Got it. Thank you!
+Sam: Thanks, Rosie. Good luck.
+Nora: Okay, my turn, because I'm a little more careful than Sam.
+Sam: Shocking.
+Nora: It's a two-thousand-dollar first-generation device with a known screen issue and a face unlock that's still in beta. If Rosie can wait, I'd watch a couple more months of crack reports and see the update actually ship. And if she buys, buy it with AppleCare, and buy it somewhere returns are easy.
+Sam: So the answer is AppleCare either way.
+Nora: AppleCare either way. The one thing we agree on.
+
+Nora: Three takeaways.
+Sam: One. The week everything broke wasn't a cyberattack. It was boring causes, old equipment, and a flood of rushed patches. Keep a backup plan for the basics.
+Nora: Two. Every company now has an agent that does things for you. Apple is building one, and its glasses depend on it. But the HomeView shows Apple's software polish isn't there yet. Watch the December Siri update.
+Sam: Three. Hardware prices are going up because of memory. The Steam Machine might get more expensive. And a "cheap" Cybercab is not cheap once you add the subscription.
+Nora: Dates. Nothing's AI gadget on December eighth. iOS twenty-seven point three, hopefully in December, with Duo face unlock. The Nest app shuts down January twenty-fifth. Valve's Steam Machine update in January. And Google Assistant leaves smart speakers August second next year.
+Sam: And the finger mouse Kickstarter ends December thirteenth.
+Nora: Which brings us to...
+
+Sam: WHAT?! of the Week!
+
+Nora: The craziest real gadget announced this week. And on the line, as always, our resident inventor. Dr. Helix Crane.
+Helix: Nora! I have been waiting all week. I have prepared a statement. The statement is: finally.
+Nora: Finally what?
+Helix: Finally, someone has had the courage to ask, why is the mouse in your hand, when it could be on your finger?
+Nora: Okay. Let me describe it for people. It's called the Borslon. It's on Kickstarter, from a gaming gear company called Komodo Smart Technology in Louisville, Kentucky. It's a gaming mouse that wraps around your index finger. It looks like a little gold and black robotic finger. Like armor.
+Helix: Like a knight's gauntlet. For one finger. A single, brave finger.
+Nora: Your finger pad sits on top of a motion sensor, and that tracks where you're pointing. Then there are five programmable buttons on the side, and a scroll wheel, and you press those with your thumb.
+Helix: Magnificent. The finger points. The thumb decides. A division of labor.
+Nora: So, Doctor, quiz. How do you click?
+Helix: With the finger, obviously. That is what fingers are for.
+Nora: Wrong! You don't click with your finger. New Atlas pointed out one of the thumb buttons has to be assigned as the left click.
+Helix: Ah. Yes. The finger does everything except the one thing a finger has always done.
+Nora: And some potential backers have already asked how fast that thumb clicking really is in a game.
+Helix: Details! The numbers, Nora. Give the people the numbers.
+Nora: Twenty-six thousand DPI. An eight thousand hertz polling rate, which is how often it reports where it is. And it weighs thirty-six grams, mostly aluminum.
+Helix: Thirty-six grams. Lighter than my regrets. Tell me it is wireless.
+Nora: No. It's wired, and the cable runs over the top of your hand.
+Helix: A leash. For your finger. Very sensible.
+Nora: It's also right-hand only. Sorry, lefties. And if your finger gets tired, it curls up and you can hold it like a regular mouse.
+Helix: It transforms! It's a mouse that can retire from being a finger and go back to being a mouse. I respect a product with a backup career. What does such genius cost?
+Nora: The Kickstarter pledge is ninety-nine dollars. The planned retail price is one fifty-eight. So backers get it about thirty-seven percent off.
+Helix: A bargain for a prosthetic of victory.
+Nora: And it's doing well. eTeknix reported a five-thousand-dollar goal, and over forty thousand dollars raised from about four hundred backers. The campaign runs until December thirteenth. Shipping is planned for February. With the usual Kickstarter warning: it's still a working prototype, and the makers themselves say the schedule could change.
+Helix: As my own schedules always do. Doctor Crane's self-buttering toast is now in its eleventh year of "shipping soon."
+Nora: Honest opinion. Would you wear it?
+Helix: Nora. I would wear ten. One on each finger. Ten mice. Two hundred sixty thousand DPI. I would point at things across the room and they would scroll.
+Nora: That is not how DPI works.
+Helix: Not yet, Nora. Not yet. Keep pointing, my friends!
+
+Sam: Doctor Helix Crane, everyone.
+
+Nora: That's the Tech Digest for this week. Back up your boarding pass.
+Sam: Don't trust the status page. And maybe don't put a mouse on your finger.
+Nora: Unless you really want to.
+Sam: Unless you really want to. Show notes have all our sources. I'm Sam.
+Nora: I'm Nora. See you next Saturday.

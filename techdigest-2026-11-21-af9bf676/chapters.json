@@ -1,0 +1,73 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Cold open"
+  },
+  {
+   "startTime": 64.5,
+   "title": "Quick hits"
+  },
+  {
+   "startTime": 320.7,
+   "title": "Top story: The week everything broke"
+  },
+  {
+   "startTime": 677.4,
+   "title": "Nvidia, week two"
+  },
+  {
+   "startTime": 823.0,
+   "title": "Re-hook: still to come"
+  },
+  {
+   "startTime": 850.3,
+   "title": "Deep dive: Apple's agent problem"
+  },
+  {
+   "startTime": 1389.0,
+   "title": "Hype vs Reality: Steam Machine"
+  },
+  {
+   "startTime": 1622.2,
+   "title": "Source roundup: Vergecast"
+  },
+  {
+   "startTime": 1721.8,
+   "title": "Source roundup: Joanna Stern"
+  },
+  {
+   "startTime": 1793.7,
+   "title": "Source roundup: MKBHD and Waveform"
+  },
+  {
+   "startTime": 1981.6,
+   "title": "Source roundup: Gurman and Gruber"
+  },
+  {
+   "startTime": 2096.9,
+   "title": "Source roundup: Mashable"
+  },
+  {
+   "startTime": 2119.6,
+   "title": "Re-hook: mailbag and the mouse"
+  },
+  {
+   "startTime": 2133.9,
+   "title": "Listener Mailbag: iPhone Duo"
+  },
+  {
+   "startTime": 2375.6,
+   "title": "Wrap: three takeaways"
+  },
+  {
+   "startTime": 2440.4,
+   "title": "WHAT?! of the Week: Borslon finger mouse"
+  },
+  {
+   "startTime": 2647.6,
+   "title": "Sign-off"
+  }
+ ]
+}
